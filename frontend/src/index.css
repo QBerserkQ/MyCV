@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root { --background: 210 30% 4%; --foreground: 214 20% 90%; --border: 215 22% 20%; --radius: .4rem; }
+  * { @apply border-border; }
+  html { scroll-behavior: smooth; }
+  body { @apply bg-[#070b10] text-slate-200; font-family: "Manrope", sans-serif; }
+  button, a { -webkit-tap-highlight-color: transparent; }
+}
+
+@layer components {
+  .knight-panel { @apply relative border border-slate-700/60 bg-[#0c131b]/95 shadow-[0_12px_50px_rgba(0,0,0,.18)]; }
+  .knight-panel::before { content: ""; @apply pointer-events-none absolute inset-1 border border-white/[.035]; }
+  .portrait-frame { @apply relative aspect-[4/5] overflow-hidden border-4 border-[#354655] bg-[#0b1118] shadow-[inset_0_0_0_2px_#0b1118,0_12px_35px_rgba(0,0,0,.35)]; }
+  .portrait-frame::after { content: ""; @apply pointer-events-none absolute inset-3 border border-sky-200/20; }
+  .rune-mark { @apply absolute -right-2 -top-8 font-serif text-[190px] leading-none text-sky-300/[.035]; }
+  .badge { @apply inline-flex items-center gap-1.5 border border-slate-700/80 bg-slate-800/40 px-2.5 py-1.5 text-[10px] font-semibold uppercase tracking-wider text-slate-300 transition hover:border-sky-300/50 hover:text-sky-200; }
+  .stat-bar { @apply h-1 overflow-hidden bg-slate-800; }
+  .stat-bar span { @apply block h-full bg-gradient-to-r from-sky-500 to-sky-200 shadow-[0_0_8px_#38bdf8]; }
+  .activity-grid { @apply grid grid-cols-[repeat(14,1fr)] gap-1; }
+  .activity-grid span { @apply aspect-square bg-emerald-300; }
+  .level { @apply block h-2.5 w-2.5 bg-emerald-300; }
+  .l1 { opacity: .2; } .l2 { opacity: .4; } .l3 { opacity: .65; } .l4 { opacity: .9; }
+  .metal-button { @apply flex h-9 w-9 items-center justify-center border border-slate-600 bg-gradient-to-br from-slate-600/60 to-slate-900 text-slate-300 transition hover:border-sky-300/70 hover:text-sky-200; }
+  .project-art { @apply relative min-h-[240px] overflow-hidden border border-slate-500/40 shadow-[inset_0_0_80px_rgba(0,0,0,.45)]; }
+  .scanlines { @apply pointer-events-none absolute inset-0 opacity-30 [background-image:linear-gradient(rgba(255,255,255,.06)_1px,transparent_1px)] [background-size:100%_5px]; }
+  .project-glyph { @apply absolute inset-0 flex items-center justify-center font-serif text-[130px] text-white/20 drop-shadow-[0_0_20px_rgba(125,211,252,.8)]; }
+}
+
+@media print { body { background: #fff; } main { background: #fff !important; } }

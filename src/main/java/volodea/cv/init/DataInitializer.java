@@ -1,10 +1,12 @@
-package org.placesapi.init;
+package volodea.cv.init;
 
-import org.placesapi.models.User;
-import org.placesapi.repository.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
+import volodea.cv.model.User;
+import volodea.cv.repository.UserRepository;
+
 
 @Component
 public class DataInitializer implements CommandLineRunner {
@@ -17,6 +19,15 @@ public class DataInitializer implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        User me = new User();
+        if(userRepository.count() == 0) {
+            User me = new User("vova", "Vladimir Cazmaly", "R. Moldova"
+                    , "url"
+                    , "vk4935391@gmail.com"
+                    , "@v_pelmen_v"
+                    , "https://leetcode.com/u/vk4935391/"
+                    , "https://github.com/QBerserkQ");
+
+            userRepository.save(me);
+        }
     }
 }
