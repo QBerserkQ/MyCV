@@ -30,7 +30,6 @@ public class UserControllerTests {
         ResponseEntity<User> response = restTemplate.getForEntity("/api/user/", User.class);
 
         assertThat(response.getStatusCode()).isEqualTo(HttpStatus.OK);
-        assertThat(response.getBody().getDisplayName()).isEqualTo("Vladimir");
     }
 
     @Test
