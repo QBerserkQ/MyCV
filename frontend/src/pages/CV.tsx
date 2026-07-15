@@ -7,6 +7,9 @@ import { ExperiencePanel } from "../components/panels/ExperiencePanel";
 import { ProfilePanel } from "../components/panels/ProfilePanel";
 import { Panel } from "../components/Panel";
 import { SectionLabel } from "../components/SectionLabel";
+import { EducationPanel } from "../components/panels/EducationPanel";
+import { SkillsPanel } from "../components/panels/SkillsPanel";
+import QuotePanel from "../components/panels/QuotePanel";
 
 import {
     ArrowLeft, ArrowRight, Award, BookOpen, BriefcaseBusiness, ChevronRight, Code2, Database, ExternalLink, Globe2,
@@ -70,6 +73,21 @@ export default function Index() {
         });
     };
 
+    const { items: educations, error: educationError, addItem: addEducation, deleteItem: deleteEducation } = useCrud("/api/education/");
+
+    const [newEducation, setNewEducation] = useState({
+        institution: "",
+        speciality: "",
+        completedDate: "",
+        description: "",
+    });
+
+    const handleAddEducation = (e) => {
+        e.preventDefault();
+        addEducation(newEducation);
+        setNewEducation({ institution: "", speciality: "", completedDate: "", description: "" });
+    };
+
     return (
         <main className="min-h-screen bg-[#070b10] text-slate-200 selection:bg-sky-400/30">
             <div className="pointer-events-none fixed inset-0 z-0 opacity-30 [background-image:radial-gradient(#8ea4b5_0.6px,transparent_0.6px)] [background-size:32px_32px]" />
@@ -102,6 +120,19 @@ export default function Index() {
                             <div className="mt-10 flex flex-wrap gap-3"><a href="#projects" className="inline-flex items-center gap-2 bg-sky-300 px-5 py-3 text-xs font-bold uppercase tracking-wider text-[#07131e] transition hover:bg-sky-200">View my work <ChevronRight className="h-4 w-4" /></a>
                                 <a href="mailto:alex.kim.dev@example.com" className="inline-flex items-center gap-2 border border-slate-600 px-5 py-3 text-xs font-bold uppercase tracking-wider text-slate-300 transition hover:border-sky-300/60 hover:text-sky-300">Start a conversation <ExternalLink className="h-3.5 w-3.5" /></a>
                             </div>
+                            <div className="absolute right-10 top-1/2 hidden -translate-y-1/2 lg:grid grid-cols-2 gap-4">
+
+                                <div>
+                                    <h3 className="text-4xl text-white">200+</h3>
+                                    <p className="text-xs text-slate-500">Problems solved</p>
+                                </div>
+
+                                <div>
+                                    <h3 className="text-4xl text-white">5+</h3>
+                                    <p className="text-xs text-slate-500">Projects</p>
+                                </div>
+
+                            </div>
                         </Panel>
 
                         <div id="experience" className="grid gap-5 xl:grid-cols-[1.15fr_.85fr]">
@@ -114,99 +145,30 @@ export default function Index() {
                                 setNewExperience={setNewExperience}
                                 handleAddExperience={handleAddExperience}
                             />
-                            <Panel className="p-6"><SectionLabel icon={BookOpen}>Education & focus</SectionLabel>
-                                <div className="border-t border-slate-700/60 py-5"><p className="font-serif text-xl text-white">B.S. Computer Science</p>
-                                <p className="mt-1 text-xs text-sky-300">Technical University of Moldova · current</p><p className="mt-5 text-xs leading-relaxed text-slate-400">Distributed systems, human-computer interaction, and the craft of making software last.</p>
-                                </div>
-                                <div className="mt-2 border-t border-slate-700/60 pt-5">
-                                    <p className="text-[10px] uppercase tracking-wider text-slate-500">Current focus</p>
-                                    <div className="mt-3 flex flex-wrap gap-2"><span className="badge"><Code2 className="h-3 w-3" />Spring Boot</span><span className="badge">
-                                        <Database className="h-3 w-3" /> Data systems</span>
-                                    </div>
-                                </div>
-                            </Panel>
+                            <EducationPanel
+                                educations={educations}
+                                educationError={educationError}
+                                isLoggedIn={isLoggedIn}
+                                deleteEducation={deleteEducation}
+                                newEducation={newEducation}
+                                setNewEducation={setNewEducation}
+                                handleAddEducation={handleAddEducation}
+                            />
                         </div>
 
                         <div id="arsenal" className="grid gap-5 md:grid-cols-[.85fr_1.15fr]">
-                            <Panel className="p-6">
-                                <SectionLabel icon={Terminal}>Technical skills</SectionLabel>
-                                {skillsError && <p className="text-red-400 text-xs mb-2">{skillsError}</p>}
-                                <div className="grid grid-cols-2 gap-2">
-                                    {skills.map((skill) => (
-                                        <span
-                                            key={skill.id}
-                                            className="badge justify-center py-2.5 text-center relative group"
-                                        >
-                                            {skill.name}
-                                            {isLoggedIn && (
-                                                <button
-                                                    onClick={() => deleteSkill(skill.id)}
-                                                    className="ml-2 text-red-400 hover:text-red-300"
-                                                    title="Удалить"
-                                                >
-                                                    ×
-                                                </button>
-                                            )}
-                                        </span>
-                                    ))}
-                                </div>
-
-                                {isLoggedIn && (
-                                    <form onSubmit={handleAddSkill} className="mt-4 flex gap-2">
-                                        <input
-                                            placeholder="Название"
-                                            value={newSkillName}
-                                            onChange={(e) => setNewSkillName(e.target.value)}
-                                            className="flex-1 rounded bg-slate-800 px-2 py-1 text-sm text-slate-200"
-                                        />
-                                        <input
-                                            placeholder="Уровень"
-                                            value={newSkillLevel}
-                                            onChange={(e) => setNewSkillLevel(e.target.value)}
-                                            className="flex-1 rounded bg-slate-800 px-2 py-1 text-sm text-slate-200"
-                                        />
-                                        <button
-                                            type="submit"
-                                            className="rounded bg-sky-600 px-3 py-1 text-sm text-white hover:bg-sky-500"
-                                        >
-                                            +
-                                        </button>
-                                    </form>
-                                )}
-                            </Panel>
-                            <Panel className="p-6"><SectionLabel icon={Award}>The arsenal</SectionLabel>
-                                <div className="grid gap-5 sm:grid-cols-2">
-                                        <div><p className="mb-2 flex justify-between text-xs text-slate-300">
-                                            <span>Backend architecture</span><span className="text-sky-300">92%</span></p>
-                                            <div className="stat-bar"><span className="w-[92%]" />
-                                            </div>
-                                        </div>
-                                    <div>
-                                        <p className="mb-2 flex justify-between text-xs text-slate-300">
-                                            <span>Frontend craft</span>
-                                            <span className="text-sky-300">88%</span>
-                                        </p>
-                                        <div className="stat-bar"><span className="w-[88%]" />
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <p className="mb-2 flex justify-between text-xs text-slate-300">
-                                            <span>Cloud & DevOps</span>
-                                            <span className="text-sky-300">84%</span>
-                                        </p>
-                                        <div className="stat-bar">
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <p className="mb-2 flex justify-between text-xs text-slate-300">
-                                            <span>System design</span><span className="text-sky-300">90%</span>
-                                        </p>
-                                        <div className="stat-bar">
-                                            <span className="w-[90%]" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </Panel>
+                            <SkillsPanel
+                                skills={skills}
+                                skillsError={skillsError}
+                                isLoggedIn={isLoggedIn}
+                                deleteSkill={deleteSkill}
+                                newSkillName={newSkillName}
+                                setNewSkillName={setNewSkillName}
+                                newSkillLevel={newSkillLevel}
+                                setNewSkillLevel={setNewSkillLevel}
+                                handleAddSkill={handleAddSkill}
+                            />
+                            <QuotePanel />
                         </div>
 
                         <div className="grid gap-5 md:grid-cols-2">
