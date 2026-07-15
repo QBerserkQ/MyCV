@@ -1,4 +1,5 @@
 import { createContext, useContext, useState } from 'react';
+import { apiSend } from '../api/client';
 
 const AuthContext = createContext(null);
 
@@ -6,19 +7,31 @@ export function AuthProvider({ children }) {
     const [credentials, setCredentials] = useState(null);
     // credentials = { username, password } или null, если не залогинен
 
-    const login = (username, password) => {
+    const getAuthHeaderFor = (username, password) => {
+        const encoded = btoa(`${username}:${password}`);
+        return `Basic ${encoded}`;
+    };
+
+    const login = async (username, password, currentUserData) => {
+        const authHeader = getAuthHeaderFor(username, password);
+
+        const res = await apiSend("/api/user/", "PUT", currentUserData, authHeader);
+
+        if (res.status === 401 || res.status === 403) {
+            return false;
+        }
+
         setCredentials({ username, password });
+        return true;
     };
 
     const logout = () => {
         setCredentials(null);
     };
 
-    // Готовый заголовок Authorization, чтобы не собирать его в каждом компоненте
     const getAuthHeader = () => {
         if (!credentials) return null;
-        const encoded = btoa(`${credentials.username}:${credentials.password}`);
-        return `Basic ${encoded}`;
+        return getAuthHeaderFor(credentials.username, credentials.password);
     };
 
     return (
@@ -28,7 +41,6 @@ export function AuthProvider({ children }) {
     );
 }
 
-// Удобный хук, чтобы не писать useContext(AuthContext) каждый раз
 export function useAuth() {
     return useContext(AuthContext);
 }
