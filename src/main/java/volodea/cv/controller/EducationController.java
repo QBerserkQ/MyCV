@@ -5,7 +5,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 import volodea.cv.model.Education;
-import volodea.cv.model.Experience;
 import volodea.cv.repository.EducationRepository;
 
 
@@ -23,7 +22,7 @@ public class EducationController {
     }
 
     @GetMapping
-    public ResponseEntity<List<Education>> getAllExperiences() {
+    public ResponseEntity<List<Education>> getAllEducation() {
         return ResponseEntity.ok(educationRepository.findAll());
     }
 
@@ -35,16 +34,16 @@ public class EducationController {
     }
 
     @PostMapping
-    public ResponseEntity<Education> createExperience(@RequestBody Education education) {
+    public ResponseEntity<Education> createEducation(@RequestBody Education education) {
         Education newEducation = educationRepository.save(education);
 
-        URI link = URI.create("/api/exp/" + newEducation.getId());
+        URI link = URI.create("/api/education/" + newEducation.getId());
 
         return ResponseEntity.created(link).body(newEducation);
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteExperience(@PathVariable Long id) {
+    public ResponseEntity<Void> deleteEducation(@PathVariable Long id) {
         Education education = educationRepository.findById(id)
                 .orElseThrow(
                         () -> new ResponseStatusException(HttpStatus.NOT_FOUND)
@@ -56,7 +55,7 @@ public class EducationController {
     }
 
     @PutMapping("/{id}")
-    public ResponseEntity<Education> updateExperience(@PathVariable Long id, @RequestBody Education education) {
+    public ResponseEntity<Education> updateEducation(@PathVariable Long id, @RequestBody Education education) {
         Education updatedEducation = educationRepository.findById(id)
                 .orElseThrow(
                         () -> new ResponseStatusException(HttpStatus.NOT_FOUND)
