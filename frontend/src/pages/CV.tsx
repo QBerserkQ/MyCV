@@ -10,19 +10,14 @@ import { SectionLabel } from "../components/SectionLabel";
 import { EducationPanel } from "../components/panels/EducationPanel";
 import { SkillsPanel } from "../components/panels/SkillsPanel";
 import QuotePanel from "../components/panels/QuotePanel";
+import { ProjectsPanel } from "../components/panels/ProjectsPanel";
 
 import {
-    ArrowLeft, ArrowRight, Award, BookOpen, BriefcaseBusiness, ChevronRight, Code2, Database, ExternalLink, Globe2,
-    Shield, Sparkles, Terminal, Trophy,
+    ChevronRight, ExternalLink, Shield, Sparkles, Trophy,
 } from "lucide-react";
 
 import {SiGithub} from "@icons-pack/react-simple-icons";
 
-const projects = [
-    { name: "Atlas Command", type: "Platform architecture", text: "A real-time operations cockpit that turns complex data into decisive action.", tags: ["React", "Spring Boot", "PostgreSQL"], tone: "from-[#102c3c] via-[#1d6383] to-[#07131e]", glyph: "⌬" },
-    { name: "Obsidian Ledger", type: "Fintech product", text: "A calm, secure financial workspace for teams that need to see the whole picture.", tags: ["Java", "Docker", "Redis"], tone: "from-[#24213b] via-[#4d3b75] to-[#11111e]", glyph: "◈" },
-    { name: "Warden OS", type: "Developer tooling", text: "A focused release control center for shipping better software with confidence.", tags: ["TypeScript", "Go", "AWS"], tone: "from-[#14362f] via-[#277a69] to-[#071d1a]", glyph: "✦" },
-];
 
 export default function Index() {
     const { user, updateUser, error: userError } = useUser();
@@ -35,11 +30,6 @@ export default function Index() {
         updateUser(userForm);
         setEditingUser(false);
     };
-
-    const [projectIndex, setProjectIndex] = useState(0);
-    const project = projects[projectIndex];
-    const previous = () => setProjectIndex((projectIndex + projects.length - 1) % projects.length);
-    const next = () => setProjectIndex((projectIndex + 1) % projects.length);
 
     const { items: skills, error: skillsError, addItem: addSkill, deleteItem: deleteSkill } = useCrud("/api/skill/");
     const [newSkillName, setNewSkillName] = useState("");
@@ -86,6 +76,36 @@ export default function Index() {
         e.preventDefault();
         addEducation(newEducation);
         setNewEducation({ institution: "", speciality: "", completedDate: "", description: "" });
+    };
+
+    const { items: projects, error: projectsError, addItem: addProject, deleteItem: deleteProject } = useCrud("/api/project/");
+
+    const [newProject, setNewProject] = useState({
+        theme: "",
+        title: "",
+        description: "",
+        gitUrl: "",
+        imageUrl: "",
+        skillsInput: "", // временное поле для ввода через запятую
+    });
+
+    const handleAddProject = (e) => {
+        e.preventDefault();
+        const skills = newProject.skillsInput
+            .split(",")
+            .map((s) => s.trim())
+            .filter(Boolean);
+
+        addProject({
+            theme: newProject.theme,
+            title: newProject.title,
+            description: newProject.description,
+            gitUrl: newProject.gitUrl,
+            imageUrl: newProject.imageUrl,
+            skills,
+        });
+
+        setNewProject({ theme: "", title: "", description: "", gitUrl: "", imageUrl: "", skillsInput: "" });
     };
 
     return (
@@ -221,47 +241,15 @@ export default function Index() {
                             </Panel>
                         </div>
 
-                        <Panel id="projects" className="overflow-hidden p-6 sm:p-8">
-                            <div className="flex items-end justify-between">
-                                <div><SectionLabel icon={Globe2}>Project gallery / field notes</SectionLabel>
-                                    <h2 className="font-serif text-3xl text-white sm:text-4xl">Proof of craft.</h2>
-                                </div>
-                                <div className="flex gap-2">
-                                    <button onClick={previous} className="metal-button" aria-label="Previous project">
-                                        <ArrowLeft className="h-4 w-4" />
-                                    </button>
-                                    <button onClick={next} className="metal-button" aria-label="Next project">
-                                        <ArrowRight className="h-4 w-4" />
-                                    </button>
-                                </div>
-                            </div>
-                            <div className="mt-8 grid gap-7 lg:grid-cols-[1.15fr_.85fr] lg:items-center">
-                                <div className={`project-art bg-gradient-to-br ${project.tone}`}>
-                                    <div className="scanlines" />
-                                    <span className="project-glyph">{project.glyph}</span>
-                                    <span className="absolute bottom-4 left-5 text-[9px] uppercase tracking-[0.28em] text-white/60">Project {String(projectIndex + 1).padStart(2, "0")} / 03
-                                    </span>
-                                    <span className="absolute right-5 top-4 flex items-center gap-2 text-[9px] uppercase tracking-widest text-emerald-300">
-                                        <span className="h-1.5 w-1.5 rounded-full bg-emerald-300" /> Online
-                                    </span>
-                                </div>
-                                <div>
-                                    <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-sky-300">{project.type}</p>
-                                    <h3 className="mt-3 font-serif text-4xl text-white">{project.name}</h3>
-                                    <p className="mt-4 max-w-md text-sm leading-relaxed text-slate-400">{project.text}</p>
-                                    <div className="mt-6 flex flex-wrap gap-2">{project.tags.map((tag) =>
-                                        <span key={tag} className="badge">{tag}</span>)}
-                                    </div>
-                                    <a href="https://github.com" target="_blank" rel="noreferrer"
-                                       className="mt-8 inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-sky-300 transition hover:text-white">View repository
-                                        <SiGithub className="h-4 w-4" />
-                                    </a>
-                                </div>
-                            </div>
-                            <div className="mt-8 flex gap-1.5">{projects.map((item, index) =>
-                                <button key={item.name} onClick={() => setProjectIndex(index)} aria-label={`Show ${item.name}`} className={`h-1 transition-all ${index === projectIndex ? "w-10 bg-sky-300" : "w-5 bg-slate-700 hover:bg-slate-500"}`} />)}
-                            </div>
-                        </Panel>
+                        <ProjectsPanel
+                            projects={projects}
+                            projectsError={projectsError}
+                            isLoggedIn={isLoggedIn}
+                            deleteProject={deleteProject}
+                            newProject={newProject}
+                            setNewProject={setNewProject}
+                            handleAddProject={handleAddProject}
+                        />
                     </div>
                 </div>
 
