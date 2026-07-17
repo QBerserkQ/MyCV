@@ -87,7 +87,7 @@ export default function QuotePanel() {
                     "{quote.text}"
                 </p>
 
-                <p className="mt-4 text-sm text-sky-300">
+                <p className="mt-4 text-sm text-slate-200">
                     — {quote.author}
                 </p>
             </div>

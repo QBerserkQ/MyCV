@@ -41,7 +41,7 @@ function LoginForm() {
         <div className="relative">
             <button
                 onClick={() => setOpen((prev) => !prev)}
-                className="flex items-center justify-center border border-slate-600 p-2 text-slate-400 transition hover:border-sky-300/60 hover:text-sky-300"
+                className="flex items-center justify-center border border-slate-600 p-2 text-slate-400 transition hover:border-slate-300/60 hover:text-slate-200"
                 title="Вход для администратора"
             >
                 <Lock className="h-4 w-4" />
@@ -50,7 +50,7 @@ function LoginForm() {
             {open && (
                 <div className="knight-panel absolute right-0 top-full z-20 mt-2 w-64 p-5">
                     <div className="mb-4 flex items-center justify-between">
-                        <span className="text-[11px] font-bold uppercase tracking-[0.22em] text-sky-300/75">
+                        <span className="text-[11px] font-bold uppercase tracking-[0.22em] text-slate-200/75">
                             Admin access
                         </span>
                         <button onClick={() => setOpen(false)} className="text-slate-500 hover:text-slate-300">
@@ -62,18 +62,18 @@ function LoginForm() {
                             placeholder="Username"
                             value={username}
                             onChange={(e) => setUsername(e.target.value)}
-                            className="rounded bg-slate-800 px-3 py-2 text-sm text-slate-200 outline-none focus:ring-1 focus:ring-sky-300/50"
+                            className="rounded bg-slate-800 px-3 py-2 text-sm text-slate-200 outline-none focus:ring-1 focus:ring-slate-300/50"
                         />
                         <input
                             type="password"
                             placeholder="Password"
                             value={password}
                             onChange={(e) => setPassword(e.target.value)}
-                            className="rounded bg-slate-800 px-3 py-2 text-sm text-slate-200 outline-none focus:ring-1 focus:ring-sky-300/50"
+                            className="rounded bg-slate-800 px-3 py-2 text-sm text-slate-200 outline-none focus:ring-1 focus:ring-slate-300/50"
                         />
                         <button
                             type="submit"
-                            className="mt-1 bg-sky-300 px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] transition hover:bg-sky-200"
+                            className="mt-1 bg-white px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] transition hover:bg-slate-200"
                         >
                             login
                         </button>

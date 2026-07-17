@@ -45,15 +45,15 @@ export function ProfilePanel({
                         </div>
                     </div>
                 )}
-                <span className="absolute bottom-3 left-3 border border-sky-300/35 bg-[#081119]/90 px-2 py-1 text-[9px] uppercase tracking-[0.2em] text-sky-200">
-                    Portrait placeholder
+                <span className="absolute bottom-3 left-3 border border-slate-300/35 bg-[#081119]/90 px-2 py-1 text-[9px] uppercase tracking-[0.2em] text-white">
+                    HelloWorld("print")
                 </span>
             </div>
 
             {isLoggedIn && (
                 <button
                     onClick={() => setEditingUser((prev) => !prev)}
-                    className="mb-3 self-start text-[10px] uppercase tracking-wider text-sky-300 hover:text-sky-200"
+                    className="mb-3 self-start text-[10px] uppercase tracking-wider text-slate-200 hover:text-white"
                 >
                     {editingUser ? "Отменить" : "Редактировать профиль"}
                 </button>
@@ -99,7 +99,7 @@ export function ProfilePanel({
                     />
 
                     <input type="file" accept="image/*" onChange={handleFileChange} className="text-xs text-slate-400" />
-                    {uploading && <p className="text-xs text-sky-300">Загрузка фото...</p>}
+                    {uploading && <p className="text-xs text-slate-200">Загрузка фото...</p>}
                     {uploadError && <p className="text-xs text-red-400">{uploadError}</p>}
                     {userForm?.imageUrl && (
                         <img src={userForm.imageUrl} alt="preview" className="h-24 w-24 rounded-full object-cover mx-auto" />
@@ -107,7 +107,7 @@ export function ProfilePanel({
 
                     <button
                         type="submit"
-                        className="mt-1 bg-sky-300 px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] hover:bg-sky-200"
+                        className="mt-1 bg-white px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] hover:bg-slate-200"
                     >
                         Сохранить
                     </button>
@@ -116,22 +116,22 @@ export function ProfilePanel({
                 <>
                     <div className="mb-6">
                         <h1 className="font-serif text-3xl tracking-wide text-white">{user?.displayName}</h1>
-                        <p className="mt-1 text-sm font-medium text-sky-300">Java Developer</p>
+                        <p className="mt-1 text-sm font-medium text-slate-200">Java Developer</p>
                         <p className="mt-3 text-xs leading-relaxed text-slate-400">It always seems impossible until it's done.</p>
                     </div>
                     <div className="space-y-3 border-y border-slate-700/60 py-5 text-xs text-slate-400">
-                        <p className="flex items-center gap-3"><MapPin className="h-4 w-4 text-sky-300/80" />{user?.country}</p>
-                        <a href={`mailto:${user?.email}`} className="flex items-center gap-3 transition hover:text-sky-300">
-                            <Mail className="h-4 w-4 text-sky-300/80" />{user?.email}
+                        <p className="flex items-center gap-3"><MapPin className="h-4 w-4 text-slate-200/80" />{user?.country}</p>
+                        <a href={`mailto:${user?.email}`} className="flex items-center gap-3 transition hover:text-slate-200">
+                            <Mail className="h-4 w-4 text-slate-200/80" />{user?.email}
                         </a>
-                        <a href={`https://t.me/${user?.telegram}`} className="flex items-center gap-3 transition hover:text-sky-300">
-                            <SiTelegram className="h-4 w-4 text-sky-300/80" />{user?.telegram}
+                        <a href={`https://t.me/${user?.telegram}`} className="flex items-center gap-3 transition hover:text-slate-200">
+                            <SiTelegram className="h-4 w-4 text-slate-200/80" />{user?.telegram}
                         </a>
-                        <a href={`${user?.urlGit}`} className="flex items-center gap-3 transition hover:text-sky-300">
-                            <SiGithub className="h-4 w-4 text-sky-300/80" />{user?.urlGit}
+                        <a href={`${user?.urlGit}`} className="flex items-center gap-3 transition hover:text-slate-200">
+                            <SiGithub className="h-4 w-4 text-slate-200/80" />{user?.urlGit}
                         </a>
-                        <a href={`${user?.urlLeet}`} className="flex items-center gap-3 transition hover:text-sky-300">
-                            <SiLeetcode className="h-4 w-4 text-sky-300/80" />{user?.urlLeet}
+                        <a href={`${user?.urlLeet}`} className="flex items-center gap-3 transition hover:text-slate-200">
+                            <SiLeetcode className="h-4 w-4 text-slate-200/80" />{user?.urlLeet}
                         </a>
                     </div>
                 </>

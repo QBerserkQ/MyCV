@@ -19,7 +19,7 @@ export function EducationPanel({
             {educations.map((edu) => (
                 <div key={edu.id} className="relative border-t border-slate-700/60 py-5">
                     <p className="font-serif text-xl text-white">{edu.speciality}</p>
-                    <p className="mt-1 text-xs text-sky-300">
+                    <p className="mt-1 text-xs text-slate-200">
                         {edu.institution} · {edu.completedDate ? edu.institution : "Now"}
                     </p>
                     <p className="mt-5 text-xs leading-relaxed text-slate-400">{edu.description}</p>
@@ -67,7 +67,7 @@ export function EducationPanel({
                     />
                     <button
                         type="submit"
-                        className="mt-1 bg-sky-300 px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] transition hover:bg-sky-200"
+                        className="mt-1 bg-white px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] transition hover:bg-slate-200"
                     >
                         Добавить образование
                     </button>

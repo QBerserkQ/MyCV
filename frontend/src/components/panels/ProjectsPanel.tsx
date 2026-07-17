@@ -177,7 +177,7 @@ export function ProjectsPanel({
 
                 </div>
                 <div>
-                    <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-sky-300">
+                    <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-200">
 
                         {project.theme}
 
@@ -216,7 +216,7 @@ export function ProjectsPanel({
                             href={project.gitUrl}
                             target="_blank"
                             rel="noreferrer"
-                            className="mt-8 inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-sky-300 transition hover:text-white"
+                            className="mt-8 inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-slate-200 transition hover:text-white"
                         >
 
                             View repository
@@ -257,7 +257,7 @@ export function ProjectsPanel({
 
                         className={`h-1 transition-all ${
                             index === projectIndex
-                                ? "w-10 bg-sky-300"
+                                ? "w-10 bg-white"
                                 : "w-5 bg-slate-700 hover:bg-slate-500"
                         }`}
 
@@ -343,7 +343,7 @@ export function ProjectsPanel({
 
 
                     {uploading &&
-                        <p className="text-xs text-sky-300">
+                        <p className="text-xs text-slate-200">
                             Uploading...
                         </p>
                     }
@@ -357,7 +357,7 @@ export function ProjectsPanel({
 
 
 
-                    <button className="mt-1 bg-sky-300 px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] hover:bg-sky-200">
+                    <button className="mt-1 bg-white px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] hover:bg-slate-200">
                         Add project
                     </button>
 

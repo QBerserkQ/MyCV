@@ -37,7 +37,7 @@ export function GithubPanel({ stats, loading, error }) {
                     <p className="mt-1 text-[10px] uppercase tracking-wider text-slate-500">contributions last 30 days</p>
                 </div>
                 <div className="text-right">
-                    <p className="text-2xl font-semibold text-sky-300">{stats.repositoryCount}</p>
+                    <p className="text-2xl font-semibold text-slate-200">{stats.repositoryCount}</p>
                     <p className="text-[10px] uppercase tracking-wider text-slate-500">repositories</p>
                 </div>
             </div>

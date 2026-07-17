@@ -23,7 +23,7 @@ public class SkillController {
 
     @GetMapping
     public ResponseEntity<List<Skill>> findAll(
-            @PageableDefault(size = 3, sort = "name") Pageable peagable) {
+            @PageableDefault(size = 4, sort = "name") Pageable peagable) {
         Page<Skill> page = skillRepository.findAll(peagable);
 
         return ResponseEntity.ok(page.getContent());

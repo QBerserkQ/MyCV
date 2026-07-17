@@ -85,10 +85,6 @@ public class User {
         this.email = email;
     }
 
-    public void setUsername(String name) {
-        this.name = name;
-    }
-
     public void setImageUrl(String imageUrl) {
         this.imageUrl = imageUrl;
     }
