@@ -1,5 +1,6 @@
 package volodea.cv.config;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
@@ -20,6 +21,13 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig {
+
+    @Value("${app.security.admin.username}")
+    private String adminUsername;
+
+    @Value("${app.security.admin.password}")
+    private String adminPassword;
+
     @Bean
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
@@ -34,7 +42,7 @@ public class SecurityConfig {
                         .requestMatchers("/h2-console/**").permitAll()
                         .requestMatchers(HttpMethod.GET, "/api/**").permitAll()
                         .requestMatchers(HttpMethod.POST, "/api/**").hasRole("ADMIN")
-                        .requestMatchers(HttpMethod.PUT, "/api/**").hasAnyRole("ADMIN", "USER")
+                        .requestMatchers(HttpMethod.PUT, "/api/**").hasAnyRole("ADMIN")
                         .requestMatchers(HttpMethod.DELETE, "/api/**").hasRole("ADMIN")
                         .anyRequest().authenticated()
                 )
@@ -61,17 +69,10 @@ public class SecurityConfig {
     @Bean
     public UserDetailsService userDetailsService(PasswordEncoder encoder) {
         UserDetails admin = User.builder()
-                .username("vova")
-                .password(encoder.encode("123"))
+                .username(adminUsername)
+                .password(encoder.encode(adminPassword))
                 .roles("ADMIN")
                 .build();
-
-        UserDetails guest = User.builder()
-                .username("guest")
-                .password(encoder.encode("guestpass"))
-                .roles("USER")
-                .build();
-
-        return new InMemoryUserDetailsManager(admin,  guest);
+        return new InMemoryUserDetailsManager(admin);
     }
 }

@@ -1,6 +1,8 @@
 import { MapPin, Mail, Shield, Download } from "lucide-react";
 import { SiTelegram, SiGithub, SiLeetcode } from "@icons-pack/react-simple-icons";
 import { Panel } from "../Panel";
+import { useState } from "react";
+import { uploadToCloudinary } from "../../api/client";
 
 export function ProfilePanel({
                                  user,
@@ -10,16 +12,39 @@ export function ProfilePanel({
                                  userForm,
                                  setUserForm,
                                  handleUserSave,
-                             }) {
+                             })
+{
+    const [uploading, setUploading] = useState(false);
+    const [uploadError, setUploadError] = useState(null);
+
+    const handleFileChange = async (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        setUploading(true);
+        setUploadError(null);
+
+        try {
+            const url = await uploadToCloudinary(file);
+            setUserForm({ ...userForm, imageUrl: url });
+        } catch (err) {
+            setUploadError("Не удалось загрузить фото");
+        } finally {
+            setUploading(false);
+        }
+    };
     return (
         <Panel className="flex flex-col p-5 sm:p-6 lg:sticky lg:top-8 lg:h-fit">
             <div className="portrait-frame mb-6">
-                <div className="flex h-full items-center justify-center bg-[radial-gradient(circle_at_50%_35%,#52718b_0,#1d2a35_32%,#0b1118_72%)]">
-                    <div className="relative mt-5 text-center">
-                        <Shield className="mx-auto h-28 w-28 text-slate-300/50" strokeWidth={1} />
-                        <span className="absolute inset-0 flex items-center justify-center pt-4 font-serif text-5xl text-sky-200/80">AK</span>
+                {user?.imageUrl ? (
+                    <img src={user.imageUrl} alt={user.displayName} className="h-full w-full object-cover" />
+                ) : (
+                    <div className="flex h-full items-center justify-center bg-[radial-gradient(circle_at_50%_35%,#52718b_0,#1d2a35_32%,#0b1118_72%)]">
+                        <div className="relative mt-5 text-center">
+                            <Shield className="mx-auto h-28 w-28 text-slate-300/50" strokeWidth={1} />
+                        </div>
                     </div>
-                </div>
+                )}
                 <span className="absolute bottom-3 left-3 border border-sky-300/35 bg-[#081119]/90 px-2 py-1 text-[9px] uppercase tracking-[0.2em] text-sky-200">
                     Portrait placeholder
                 </span>
@@ -72,6 +97,14 @@ export function ProfilePanel({
                         placeholder="GitHub url"
                         className="rounded bg-slate-800 px-2 py-1 text-sm text-slate-200"
                     />
+
+                    <input type="file" accept="image/*" onChange={handleFileChange} className="text-xs text-slate-400" />
+                    {uploading && <p className="text-xs text-sky-300">Загрузка фото...</p>}
+                    {uploadError && <p className="text-xs text-red-400">{uploadError}</p>}
+                    {userForm?.imageUrl && (
+                        <img src={userForm.imageUrl} alt="preview" className="h-24 w-24 rounded-full object-cover mx-auto" />
+                    )}
+
                     <button
                         type="submit"
                         className="mt-1 bg-sky-300 px-3 py-2 text-xs font-bold uppercase tracking-wider text-[#07131e] hover:bg-sky-200"
@@ -103,15 +136,6 @@ export function ProfilePanel({
                     </div>
                 </>
             )}
-
-            <div className="mt-6 flex items-center justify-between">
-                <span className="flex items-center gap-2 text-[10px] uppercase tracking-widest text-emerald-300">
-                    <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-300" /> Open to quests
-                </span>
-                <button onClick={() => window.print()} className="text-slate-500 transition hover:text-sky-300" title="Print CV">
-                    <Download className="h-4 w-4" />
-                </button>
-            </div>
         </Panel>
     );
 }
