@@ -11,6 +11,10 @@ import { EducationPanel } from "../components/panels/EducationPanel";
 import { SkillsPanel } from "../components/panels/SkillsPanel";
 import QuotePanel from "../components/panels/QuotePanel";
 import { ProjectsPanel } from "../components/panels/ProjectsPanel";
+import { useGithubStats } from "../hooks/useGithubStats";
+import { useLeetcodeStats } from "../hooks/useLeetcodeStats";
+import { GithubPanel } from "../components/panels/GithubPanel";
+import { LeetCodePanel } from "../components/panels/LeetCodePanel";
 
 import {
     ChevronRight, ExternalLink, Shield, Sparkles, Trophy,
@@ -108,6 +112,9 @@ export default function Index() {
         setNewProject({ theme: "", title: "", description: "", gitUrl: "", imageUrl: "", skillsInput: "" });
     };
 
+    const { stats: githubStats, loading: githubLoading, error: githubError } = useGithubStats();
+    const { stats: leetcodeStats, loading: leetcodeLoading, error: leetcodeError } = useLeetcodeStats();
+
     return (
         <main className="min-h-screen bg-[#070b10] text-slate-200 selection:bg-sky-400/30">
             <div className="pointer-events-none fixed inset-0 z-0 opacity-30 [background-image:radial-gradient(#8ea4b5_0.6px,transparent_0.6px)] [background-size:32px_32px]" />
@@ -192,53 +199,8 @@ export default function Index() {
                         </div>
 
                         <div className="grid gap-5 md:grid-cols-2">
-                            <Panel className="p-6"><SectionLabel icon={Trophy}>LeetCode / challenge log</SectionLabel>
-                                <div className="flex items-end justify-between">
-                                    <div>
-                                        <p className="font-serif text-5xl text-white">247</p>
-                                        <p className="mt-1 text-[10px] uppercase tracking-wider text-slate-500">problems solved</p>
-                                    </div>
-                                    <div className="text-right">
-                                        <p className="text-2xl font-semibold text-emerald-300">Top 8%</p>
-                                        <p className="text-[10px] uppercase tracking-wider text-slate-500">global ranking</p>
-                                    </div>
-                                </div>
-                                <div className="mt-7 grid grid-cols-3 gap-2 text-center text-[10px] uppercase tracking-wider">
-                                    <div className="rounded border border-emerald-300/20 bg-emerald-300/5 py-3 text-emerald-300">
-                                        <strong className="block text-lg">118</strong>Easy
-                                    </div>
-                                    <div className="rounded border border-amber-300/20 bg-amber-300/5 py-3 text-amber-200">
-                                        <strong className="block text-lg">96</strong>Medium
-                                    </div>
-                                    <div className="rounded border border-rose-300/20 bg-rose-300/5 py-3 text-rose-300">
-                                        <strong className="block text-lg">33</strong>Hard
-                                    </div>
-                                </div>
-                                <div className="mt-6 flex items-center justify-between border-t border-slate-700/60 pt-4 text-xs text-slate-400">
-                                    <span className="flex items-center gap-2"><Sparkles className="h-3.5 w-3.5 text-emerald-300" /> 42 day streak</span>
-                                    <span>Last solved today</span>
-                                </div>
-                            </Panel>
-                            <Panel className="p-6"><SectionLabel icon={SiGithub}>GitHub / activity</SectionLabel><div className="flex items-end justify-between">
-                                <div>
-                                    <p className="font-serif text-5xl text-white">1,428</p>
-                                    <p className="mt-1 text-[10px] uppercase tracking-wider text-slate-500">contributions this year</p>
-                                </div>
-                                <div className="text-right">
-                                    <p className="text-2xl font-semibold text-sky-300">26</p>
-                                    <p className="text-[10px] uppercase tracking-wider text-slate-500">repositories</p>
-                                </div>
-                            </div>
-                                <div className="activity-grid mt-7">{
-                                    Array.from({ length: 84 }, (_, i) => <span key={i} style={{ opacity: [0.2, 0.4, 0.65, 0.9][(i * 7) % 4] }} />)}
-                                </div>
-                                <div className="mt-4 flex items-center justify-between text-xs text-slate-500">
-                                    <span>Less</span>
-                                    <div className="flex gap-1"><i className="level l1" /><i className="level l2" /><i className="level l3" /><i className="level l4" />
-                                    </div>
-                                    <span>More</span>
-                                    <span className="ml-auto text-slate-400">128 commits / 2024</span></div>
-                            </Panel>
+                            <LeetCodePanel stats={leetcodeStats} loading={leetcodeLoading} error={leetcodeError} />
+                            <GithubPanel stats={githubStats} loading={githubLoading} error={githubError} />
                         </div>
 
                         <ProjectsPanel
