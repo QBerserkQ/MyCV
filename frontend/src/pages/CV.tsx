@@ -149,22 +149,44 @@ export default function Index() {
                             <div className="rune-mark">{''}</div>
                             <div className="absolute right-8 top-8 hidden items-center gap-2 text-[10px] uppercase tracking-[0.2em] text-slate-500 sm:flex"><span className="h-1.5 w-1.5 rounded-full bg-white shadow-[0_0_8px_#7dd3fc]" /> Available for collaboration</div>
                             <SectionLabel icon={Sparkles}>Profile / 204</SectionLabel><div className="max-w-3xl"><h2 className="font-serif text-5xl leading-[0.95] tracking-wide text-white sm:text-7xl lg:text-8xl">Software<br /><span className="text-slate-200">engineer.</span></h2>
-                            <p className="mt-7 max-w-xl text-base leading-relaxed text-slate-400 sm:text-lg">I design and build resilient digital products where considered architecture meets beautiful, intuitive interfaces. Seven years of turning hard problems into elegant systems.</p></div>
+                            <p className="mt-7 max-w-xl text-base leading-relaxed text-slate-400 sm:text-lg text-justify">Aspiring Full Stack Java Developer focused on building web applications, writing clean code, and constantly improving through new challenges and real projects.</p></div>
                             <div className="mt-10 flex flex-wrap gap-3"><a href="#projects" className="inline-flex items-center gap-2 bg-white px-5 py-3 text-xs font-bold uppercase tracking-wider text-[#07131e] transition hover:bg-slate-200">View my work <ChevronRight className="h-4 w-4" /></a>
-                                <a href="mailto:alex.kim.dev@example.com" className="inline-flex items-center gap-2 border border-slate-600 px-5 py-3 text-xs font-bold uppercase tracking-wider text-slate-300 transition hover:border-slate-300/60 hover:text-slate-200">Start a conversation <ExternalLink className="h-3.5 w-3.5" /></a>
+                                <a href="https://t.me/v_pelmen_v" target="_blank"
+                                   rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-slate-600 px-5 py-3 text-xs font-bold uppercase tracking-wider text-slate-300 transition hover:border-slate-300/60 hover:text-slate-200">Start a conversation <ExternalLink className="h-3.5 w-3.5" /></a>
                             </div>
-                            <div className="absolute right-10 top-1/2 hidden -translate-y-1/2 lg:grid grid-cols-2 gap-4">
+                            <div className="absolute right-8 top-1/2 hidden w-[320px] -translate-y-1/2 lg:block">
+                                <div className="knight-panel p-5">
+                                    <div className="mb-4 flex items-center justify-between">
+                                        <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-slate-400">
+                                            Favorite stack
+                                        </p>
+                                    </div>
 
-                                <div>
-                                    <h3 className="text-4xl text-white">200+</h3>
-                                    <p className="text-xs text-slate-500">Problems solved</p>
+                                    <div className="grid grid-cols-2 gap-3">
+                                        {["Java", "Spring Boot", "PostgreSQL", "Git", "React", "Docker"].map((tech) => (
+                                            <div
+                                                key={tech}
+                                                className="group border border-slate-800/100 bg-[#121212]/45 px-4 py-3 transition hover:border-slate-500/60 hover:bg-slate-800/80"
+                                            >
+                                                <div className="flex items-center justify-between">
+                                                    <span className="text-sm font-semibold text-slate-100">{tech}</span>
+                                                    <span className="h-2 w-2 rounded-full bg-slate-500 transition group-hover:bg-white group-hover:shadow-[0_0_8px_rgba(255,255,255,.6)]" />
+                                                </div>
+                                            </div>
+                                        ))}
+                                    </div>
+
+                                    <div className="mt-5 grid grid-cols-2 gap-3 border-t border-slate-800/100 pt-4">
+                                        <div className="border border-slate-800/100 bg-[#121212]/45 p-3">
+                                            <p className="text-2xl font-bold text-white">100+</p>
+                                            <p className="text-[11px] uppercase tracking-[0.18em] text-slate-400">Problems solved</p>
+                                        </div>
+                                        <div className="border border-slate-800/100 bg-[#121212]/45 p-3">
+                                            <p className="text-2xl font-bold text-white">3+</p>
+                                            <p className="text-[11px] uppercase tracking-[0.18em] text-slate-400">Projects built</p>
+                                        </div>
+                                    </div>
                                 </div>
-
-                                <div>
-                                    <h3 className="text-4xl text-white">5+</h3>
-                                    <p className="text-xs text-slate-500">Projects</p>
-                                </div>
-
                             </div>
                         </Panel>
 
