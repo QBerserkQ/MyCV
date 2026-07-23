@@ -58,7 +58,11 @@ public class SecurityConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/api/**")
-                        .allowedOrigins("http://localhost:5173", "https://my-cv-dusky-five.vercel.app")
+                        .allowedOrigins("http://localhost:5173"
+                                , "https://my-cv-dusky-five.vercel.app"
+                                , "https://vladimir-cazmaly.com"
+                                , "https://www.vladimir-cazmaly.com"
+                        )
                         .allowedMethods("GET", "POST", "PUT", "DELETE")
                         .allowedHeaders("*")
                         .allowCredentials(true);
