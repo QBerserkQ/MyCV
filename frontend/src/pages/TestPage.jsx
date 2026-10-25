@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import questionsData from "../data/q1.json";
+import questionsData from "@/dataJson/q1.json";
 import "./TestPage.css";
 
 const questions = Array.isArray(questionsData)
