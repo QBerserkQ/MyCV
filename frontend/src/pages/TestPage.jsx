@@ -1,39 +1,49 @@
-import { useMemo, useState } from "react";
-import questionsData from "@/dataJson/q1.json";
+
+import { useEffect, useMemo, useState } from "react";
+import { Link, useParams } from "react-router-dom";
+import { tests } from "../dataJson/tests";
 import "./TestPage.css";
 
-function shuffleOptions(options = []) {
-    const shuffled = [...options];
+// Перемешивает массив алгоритмом Fisher–Yates.
+function shuffleArray(items = []) {
+    const result = [...items];
 
-    // Fisher–Yates: amestecare uniformă a variantelor
-    for (let i = shuffled.length - 1; i > 0; i--) {
+    for (let i = result.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        [result[i], result[j]] = [result[j], result[i]];
     }
 
-    return shuffled;
+    return result;
 }
 
-const sourceQuestions = Array.isArray(questionsData)
-    ? questionsData
-    : questionsData.questions ?? [];
+// Создаёт перемешанную копию вопроса, сохраняя correct у каждого варианта.
+function shuffleQuestion(question) {
+    return {
+        ...question,
+        options: shuffleArray(question.options ?? []),
+    };
+}
 
-// Ordinea se amestecă o singură dată la încărcarea paginii,
-// iar proprietatea option.correct rămâne atașată variantei corecte.
-const questions = sourceQuestions.map((question) => ({
-    ...question,
-    options: shuffleOptions(question.options),
-}));
-
-function getImageUrl(path) {
+// Формирует URL изображения внутри папки выбранного теста.
+function getImageUrl(path, testId) {
     if (!path) return "";
-    if (path.startsWith("/")) return path;
-    return `/${path.replace(/^\.?\//, "")}`;
+
+    if (/^(https?:)?\/\//.test(path) || path.startsWith("data:")) {
+        return path;
+    }
+
+    const cleanPath = path.replace(/^\/+/, "");
+
+    if (cleanPath.startsWith("tests/")) {
+        return `/${cleanPath}`;
+    }
+
+    return `/tests/${testId}/${cleanPath}`;
 }
 
 function getCorrectIndexes(question) {
-    return question.options
-        .map((option, index) => option.correct ? index : -1)
+    return (question.options ?? [])
+        .map((option, index) => (option.correct ? index : -1))
         .filter((index) => index !== -1);
 }
 
@@ -46,15 +56,87 @@ function isMultipleChoice(question) {
 }
 
 function TestPage() {
+    const { testId } = useParams();
+
+    const test = tests.find((item) => item.id === testId);
+
+    const [questions, setQuestions] = useState([]);
+    const [loading, setLoading] = useState(true);
+    const [loadError, setLoadError] = useState("");
+
     const [currentIndex, setCurrentIndex] = useState(0);
     const [answers, setAnswers] = useState({});
     const [finished, setFinished] = useState(false);
     const [showAllQuestions, setShowAllQuestions] = useState(false);
 
+    // Загружаем questions.json выбранного теста.
+    useEffect(() => {
+        const controller = new AbortController();
+
+        async function loadQuestions() {
+            setLoading(true);
+            setLoadError("");
+            setQuestions([]);
+            setCurrentIndex(0);
+            setAnswers({});
+            setFinished(false);
+            setShowAllQuestions(false);
+
+            if (!test) {
+                setLoadError("Testul solicitat nu există.");
+                setLoading(false);
+                return;
+            }
+
+            try {
+                const response = await fetch(
+                    `/tests/${test.id}/questions.json`,
+                    { signal: controller.signal }
+                );
+
+                if (!response.ok) {
+                    throw new Error(
+                        `Nu s-a putut încărca testul (${response.status}).`
+                    );
+                }
+
+                const data = await response.json();
+
+                const sourceQuestions = Array.isArray(data)
+                    ? data
+                    : data.questions ?? [];
+
+                if (!Array.isArray(sourceQuestions) || sourceQuestions.length === 0) {
+                    throw new Error("Nu au fost găsite întrebări în questions.json.");
+                }
+
+                // Перемешиваем порядок вопросов и варианты каждого вопроса.
+                const shuffledQuestions = shuffleArray(sourceQuestions).map(
+                    shuffleQuestion
+                );
+
+                setQuestions(shuffledQuestions);
+            } catch (error) {
+                if (error.name !== "AbortError") {
+                    console.error("Eroare la încărcarea testului:", error);
+                    setLoadError(error.message || "A apărut o eroare.");
+                }
+            } finally {
+                if (!controller.signal.aborted) {
+                    setLoading(false);
+                }
+            }
+        }
+
+        loadQuestions();
+
+        return () => controller.abort();
+    }, [testId]); // Перезагружаем вопросы при переходе к другому тесту.
+
     const currentQuestion = questions[currentIndex];
 
     const answeredCount = Object.keys(answers).filter(
-        (id) => answers[id].length > 0
+        (id) => (answers[id] ?? []).length > 0
     ).length;
 
     const score = useMemo(() => {
@@ -68,19 +150,10 @@ function TestPage() {
 
             return total + (isCorrect ? 1 : 0);
         }, 0);
-    }, [answers]);
-
-    if (!questions.length) {
-        return (
-            <main className="test-page">
-                <h1>Test de biochimie</h1>
-                <p>Nu au fost găsite întrebări în questions.json.</p>
-            </main>
-        );
-    }
+    }, [answers, questions]);
 
     function selectOption(optionIndex) {
-        if (finished) return;
+        if (finished || !currentQuestion) return;
 
         const question = currentQuestion;
         const previous = answers[question.id] ?? [];
@@ -103,7 +176,9 @@ function TestPage() {
     }
 
     function goTo(index) {
-        setCurrentIndex(Math.max(0, Math.min(index, questions.length - 1)));
+        setCurrentIndex(
+            Math.max(0, Math.min(index, questions.length - 1))
+        );
         setShowAllQuestions(false);
     }
 
@@ -114,10 +189,35 @@ function TestPage() {
     }
 
     function restartTest() {
+        // Новая попытка: перемешиваем вопросы и варианты заново.
+        setQuestions((old) =>
+            shuffleArray(old).map(shuffleQuestion)
+        );
         setAnswers({});
         setCurrentIndex(0);
         setFinished(false);
         setShowAllQuestions(false);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    if (loading) {
+        return (
+            <main className="test-page">
+                <p>Se încarcă testul...</p>
+            </main>
+        );
+    }
+
+    if (loadError || !test || questions.length === 0) {
+        return (
+            <main className="test-page">
+                <h1>{test?.title ?? "Test"}</h1>
+                <p>{loadError || "Nu au fost găsite întrebări."}</p>
+                <Link className="test-back-link" to="/test">
+                    ← Înapoi la teste
+                </Link>
+            </main>
+        );
     }
 
     const selectedOptions = answers[currentQuestion?.id] ?? [];
@@ -126,21 +226,23 @@ function TestPage() {
     return (
         <main className="test-page">
             <header className="test-header">
-                <a className="test-back-link" href="/">
-                    ← Înapoi la pagina principală
-                </a>
+                <Link className="test-back-link" to="/test">
+                    ← Înapoi la teste
+                </Link>
 
                 <div className="test-heading">
                     <div>
                         <p className="test-eyebrow">TEST INTERACTIV</p>
-                        <h1>Test de biochimie</h1>
+                        <h1>{test.title}</h1>
                         <p className="test-subtitle">
-                            Întrebări bazate pe documentul PDF
+                            {test.description || "Verifică-ți cunoștințele."}
                         </p>
                     </div>
 
                     <div className="test-counter">
-                        <strong>{finished ? score : currentIndex + 1}</strong>
+                        <strong>
+                            {finished ? score : currentIndex + 1}
+                        </strong>
                         <span>
                             {finished
                                 ? `din ${questions.length} puncte`
@@ -154,32 +256,44 @@ function TestPage() {
                     role="progressbar"
                     aria-valuemin={0}
                     aria-valuemax={questions.length}
-                    aria-valuenow={finished ? questions.length : answeredCount}
+                    aria-valuenow={
+                        finished ? questions.length : answeredCount
+                    }
                 >
                     <div
                         className="test-progress-fill"
                         style={{
-                            width: `${(answeredCount / questions.length) * 100}%`,
+                            width: `${
+                                (answeredCount / questions.length) * 100
+                            }%`,
                         }}
                     />
                 </div>
 
                 <div className="test-progress-label">
                     <span>Răspunsuri selectate</span>
-                    <span>{answeredCount} / {questions.length}</span>
+                    <span>
+                        {answeredCount} / {questions.length}
+                    </span>
                 </div>
             </header>
 
             {finished ? (
                 <section className="test-card test-results">
-                    <div className="result-icon" aria-hidden="true">✓</div>
+                    <div className="result-icon" aria-hidden="true">
+                        ✓
+                    </div>
+
                     <p className="test-eyebrow">TEST FINALIZAT</p>
+
                     <h2>
                         Ai obținut {score} din {questions.length} puncte
                     </h2>
+
                     <p className="result-percentage">
                         {Math.round((score / questions.length) * 100)}%
                     </p>
+
                     <p className="result-description">
                         Un răspuns este considerat corect numai dacă toate
                         variantele corecte au fost selectate și nicio variantă
@@ -196,6 +310,7 @@ function TestPage() {
                         >
                             Revizuiește răspunsurile
                         </button>
+
                         <button
                             className="test-button primary-button"
                             onClick={restartTest}
@@ -208,6 +323,7 @@ function TestPage() {
                 <section className="test-card">
                     <div className="question-topline">
                         <h2>Toate întrebările</h2>
+
                         <button
                             className="text-button"
                             onClick={() => setShowAllQuestions(false)}
@@ -220,6 +336,7 @@ function TestPage() {
                         {questions.map((question, index) => (
                             <button
                                 key={question.id}
+                                type="button"
                                 className={`question-grid-item ${
                                     answers[question.id]?.length
                                         ? "is-answered"
@@ -232,6 +349,7 @@ function TestPage() {
                             </button>
                         ))}
                     </div>
+
                     <p className="grid-hint">
                         Verde — ai selectat un răspuns. Alege orice număr
                         pentru a reveni la întrebare.
@@ -243,6 +361,7 @@ function TestPage() {
                         <span className="question-number">
                             ÎNTREBAREA {currentQuestion.id}
                         </span>
+
                         <button
                             className="text-button"
                             onClick={() => setShowAllQuestions(true)}
@@ -260,7 +379,7 @@ function TestPage() {
                             {currentQuestion.question_images.map((image, i) => (
                                 <img
                                     key={`${image}-${i}`}
-                                    src={getImageUrl(image)}
+                                    src={getImageUrl(image, test.id)}
                                     alt={`Ilustrație pentru întrebarea ${currentQuestion.id}`}
                                     className="prompt-image"
                                     loading="lazy"
@@ -282,11 +401,15 @@ function TestPage() {
                             const optionClass = [
                                 "answer-option",
                                 selected ? "selected" : "",
-                                feedbackShown && option.correct ? "is-correct" : "",
+                                feedbackShown && option.correct
+                                    ? "is-correct"
+                                    : "",
                                 feedbackShown && selected && !option.correct
                                     ? "is-incorrect"
                                     : "",
-                            ].filter(Boolean).join(" ");
+                            ]
+                                .filter(Boolean)
+                                .join(" ");
 
                             return (
                                 <button
@@ -297,13 +420,18 @@ function TestPage() {
                                     aria-pressed={selected}
                                 >
                                     <span className="option-marker">
-                                        {selected ? "✓" : String.fromCharCode(65 + index)}
+                                        {selected
+                                            ? "✓"
+                                            : String.fromCharCode(65 + index)}
                                     </span>
 
                                     <span className="option-content">
                                         {option.image && (
                                             <img
-                                                src={getImageUrl(option.image)}
+                                                src={getImageUrl(
+                                                    option.image,
+                                                    test.id
+                                                )}
                                                 alt={`Imagine pentru varianta ${index + 1}`}
                                                 className="option-image"
                                                 loading="lazy"
@@ -323,7 +451,8 @@ function TestPage() {
 
                     {feedbackShown && (
                         <p className="answer-feedback" aria-live="polite">
-                            Verde — răspuns corect. Roșu — ai selectat un răspuns greșit.
+                            Verde — răspuns corect. Roșu — ai selectat un
+                            răspuns greșit.
                             {isMultipleChoice(currentQuestion) &&
                                 " Poți selecta sau deselecta în continuare variante."}
                         </p>
@@ -372,4 +501,3 @@ function TestPage() {
 }
 
 export default TestPage;
-

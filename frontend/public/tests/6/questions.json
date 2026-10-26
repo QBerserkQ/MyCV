@@ -1,0 +1,2241 @@
+[
+  {
+    "id": 1,
+    "question": "Purinile și pirimidinele din alimentație:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Nu sunt primordiale pentru sinteza acizilor nucleici tisulari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt, în general, transformați în uree în ficat și sunt eliminate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt, în general, transformați în uree de celulele mucoasei intestinale și sunt eliminate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt excretate nemodificate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt folosite în mare măsură pentru sinteza acizilor nucleici tisulari",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectați afirmația corectă referitor la digestia nucleoproteinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Clivajul acizilor nucleici are loc predominant prin acțiunea hidrolitică a exonucleazelor pancreatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acizii nucleici sunt degradați în stomac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Clivajul acizilor nucleici are loc predominant fosforolitic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleoproteinele sunt scindate numai în stomac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acizii nucleici sunt degradați în intestinul subțire",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Selectați afirmația corectă referitor la digestia nucleoproteinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Clivajul ADN- și ARN are loc în principal prin acțiunea hidrolitică a nucleotidazelor pancreatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acizii nucleici sunt degradați în stomac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Clivajul acizilor nucleici are loc predominant fosforolitic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleoproteinele sunt scindate numai în stomac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Clivajul acizilor nucleici are loc în principal prin acțiunea hidrolitică a DNAzei și RNAzei pancreatice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Ribonucleazele și deoxiribonucleazele, secretate de pancreas, hidrolizează ARN-ul și ADN-ul mai întâi până la:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Oligonucleotide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Oligonucleotide și 5'-mononucleotide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oligonucleotide, 5'-mononucleotide și nucleozide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3'- și 5'-mononucleotide",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Oligonucleotidele în intestinul subțire sunt hidrolizate de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Fosfodiesterazele pancreatice, care produc un amestec de 3'- și 5'-mononucleotide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Nucleotidazele pancreatice și intestinale, care produc mononucleotide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleotidazele intestinale, care produc mononucleotide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fosfodiesterazele pancreatice, care produc un amestec de mononucleotide și nucleozide",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Sinteza dezoxiribonucleotidelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Reacția este catalizată de o reductază NADH dependentă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Deoxiribonucleotidele sunt produse prin reducerea ribonucleotidelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Deoxiribonucleotidele sunt produse prin reducerea ribonucleozidelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reacția este catalizată de o reductază NAD dependentă+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inițial apare dezoxiriboza din riboză, care apoi interacționează cu baza azotată corespunzătoare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Sinteza deoxiribonucleotidelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Reacția este catalizată de o reductază tioredoxin dependentă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "La reducere participă NADH",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Deoxiribonucleotidele sunt produse prin reducerea ribonucleozidelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reacția este catalizată de o reductază NAD dependentă+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inițial se formează dezoxiriboza din riboză, care apoi interacționează cu baza azotată corespunzătoare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Biosinteza nucleozid difosfaților (NDP):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Nucleozid + ATP → NDP + AMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozid monofosfat + ATP → NDP + ADP",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozid + 2ATP → NDP + 2ADP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozid monofosfat + ATP → NDP + AMP + P",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i Nucleozid monofosfat + GTP → NDP + GDP",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Biosinteza nucleozid trifosfaților (NTP):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Nucleozid difosfat + ATP → NTP + ADP",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozid monofosfat + ATP → NTP + AMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozid monofosfat + GTP → NTP + GMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozid difosfat + H PO → NTP + H O342",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleozid difosfat + ATP → NTP + AMP",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Ca surse de atomi pentru ciclul pirimidinic servesc:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Derivați ai acidului tetrahidrofolic (THF)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid aspartic",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Ca surse de atomi pentru ciclul pirimidinic servesc:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Derivați ai acidului tetrahidrofolic (THF)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO2",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Sinteza nucleotidelor pirimidinice (formarea carbamoil fosfatului):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sursă de grupări amino pentru carbamoil fosfat este numai asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupări amino pentru carbamoil fosfat este numai glutamina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupări amino pentru carbamoil fosfat este numai amoniacul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupări amino pentru carbamoil fosfat este amoniacul și asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupări amino pentru carbamoil fosfat este amoniacul și glutamina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Selectați reacția corectă de sinteză a carbamoil fosfatului în sinteza nucleotidelor pirimidinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "HCO + Asn + ATP + H O → carbamoil fosfat + Asp + 2ADP + H PO3-234",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "HCO + Gln + ATP + H O → carbamoil fosfat + Glu + AMP + PP3-2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i HCO + NH + ATP + H O → carbamoil fosfat + ADP + H PO3-4+234",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "HCO + NH + 2ATP + H O → carbamoil fosfat + 2ADP + H PO3-4+234",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "HCO + Gln + 2ATP + H O → carbamoil fosfat + Glu + 2ADP + H PO3-234",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Formarea carbamoil fosfat în sinteza nucleotidelor pirimidinice este catalizată de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carbamoil fosfat sintaza II mitocondrială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat sintetaza II citozolică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat sintaza I citozolică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat sintetaza I mitocondrială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat sintaza II citozolică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Sinteza nucleotidelor pirimidinice (selectați reacția corectă):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carbamoil fosfat + Asp → N-carbamoilaspartat + H PO34",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "N-carbamoilaspartat + H O → Acid dihidroorotic2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N-carbamoilaspartat + H O → Acid dihidroorotic2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid orotic + NAD → Acid dihidroorotic + NADH + H++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat + Asp + ATP → ADP + N-carbamoilaspartat + H PO34",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Sinteza nucleotidelor pirimidinice (selectați reacția corectă):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carbamoil fosfat + Asn → N-carbamoilaspartat + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N-carbamoilaspartat → Acid dihidroorotic + H O2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "N-carbamoilaspartat + H O → Acid dihidroorotic2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid orotic + NAD → Acid dihidroorotic + NADH + H++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat + Asp + ATP → ADP + N-carbamoilaspartat + H PO34",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Sinteza de nucleotide pirimidinice (selectați reacția corectă):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acid dihidroorotic + NAD → Acid orotic + NADH + H++",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "N-carbamoilaspartat + H O → Acid dihidroorotic2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat + Asp + ATP → ADP + N-carbamoilaspartat + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoil fosfat + Asn → N-carbamoilaspartat + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N-carbamoilaspartat + H O → Acid dihidroorotic2",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Sinteza nucleotidelor pirimidinice (selectați reacția corectă):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acid orotic + fosforibozil-pirofosfatul (PRPP) → orotidinmonofosfat (OMP) + H P O",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 OMP + H O → UMP2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "OMP → CMP + CO2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid orotic + ribozo-5-fosfat → orotidinmonofosfat (OMP)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "OMP + CO → UMP2",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Sinteza nucleotidelor pirimidinice (selectați reacția corectă):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "OMP + CO → UMP2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "OMP → CO + UMP2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "OMP → CMP + CO2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid orotic + ribozo-5-fosfat → orotidinmonofosfat (OMP)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid dihidroorotic + fosforibozil-pirofosfatul (PRPP) → orotidinmonofosfat (OMP) + H P O",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "4 2 7 Biosinteza nucleotidelor citidilice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "CTP este sintetizat din UTP",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino pentru citozină este amoniacul liber",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino din citozină este Glu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteză este cuplată cu hidroliza UTP pentru UDP și H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CMP este sintetizat din UMP",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Biosinteza nucleotidelor citidilice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sinteza este cuplată cu hidroliza ATP la ADP și H PO34",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino pentru citozină este amoniacul liber",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino pentru citozină este Glu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CTP este sintetizat din UDP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CMP este sintetizat din UMP",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Biosinteza nucleotidelor citidilice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "CTP este sintetizat din UDP și ATP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CMP este sintetizat din UMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteză este cuplată cu hidroliza GTP la GDP și H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino pentru citozină este Gln",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino pentru citozină este amoniacul liber",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Biosinteza nucleotidelor timidilice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Precursorul nucleotidelor timidilice este UMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Donator de pentru grupă –CH pentru timină este N ,N -CH -THF (tetrahidrofolat)35103",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Donator de grupă –CH pentru timină este S-adenozilmetionina3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Donator de grupă –CH pentru timină este N -CH -THF (tetrahidrofolat)353",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Precursorul nucleotidelor timidilice este dUMP",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Biosinteza nucleotidelor timidilice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Precursorul nucleotidelor timidilice este UDP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Donator de pentru grupă –CH pentru timină este N ,N -CH -THF (tetrahidrofolat)35102",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Donator de grupă –CH pentru timină este S-adenozilmetionina3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Donator de grupă –CH pentru timină este N -CH -THF (tetrahidrofolat)353",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Precursorul nucleotidelor timidilice este UMP",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Biosinteza nucleotidelor timidilice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Precursorul nucleotidelor timidilice este UDP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de timidilat sintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Donator de grupă –CH pentru timină este S-adenozilmetionina3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de timidilat sintaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Precursorul nucleotidelor timidilice este UMP",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Produsele catabolismului uracilului și citozinei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "CO și beta-alanina2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO , NH și alfa-alanina23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO , NH și acid beta-aminoizobutiric23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO și NH23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO , NH și beta-alanina23",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Produsele finale ale catabolismului timinei sunt:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "CO și beta-alanina2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NH și acid beta-aminoizobutiric3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO , NH și acid beta-aminoizobutiric23",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "CO și acid beta-aminoizobutiric2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO , NH și beta-alanina23",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Selectați compușii chimici care sunt implicați în sinteza nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ribulozo-5-fosfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ribozo-5-fosfatul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul aspartic și asparagina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Selectați compușii chimici care sunt implicați în sinteza nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glutamina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ribulozo-5-fosfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul aspartic și asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul glutamic și glutamina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Selectați compușii chimici care sunt implicate în sinteza nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glutamina și acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid aspartic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ribulozo-5-fosfatul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Selectați compușii chimici implicați în sinteza nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acidul tetrahidrofolic (THF) și alanina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul tetrahidrofolic (THF) și serina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivați ai acidului tetrahidrofolic (THF)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Derivați ai acidului tetrahidrofolic (THF) și serina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul tetrahidrofolic (THF) și metionina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Selectați compușii chimici implicați în sinteza nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glicina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Serina și CO2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Serina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicina și serina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alanina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Selectați compușii chimici implicați în sinteza nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Numai CO2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Serina, CO2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Serina, glicina, CO2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicina, CO2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alanina, CO2",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Reacția de sinteză a fosforibozil-pirofosfatului (PRPP) (sinteza nucleotidelor purinice):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este catalizată de enzima PRPP-sintetaza care are nevoie de coenzima NADP+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima PRPP-sintaza care are nevoie de coenzima NADP+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată numai de enzima PRPP-sintaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată numai de enzima PRPP-sintetaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima PRPP-sintaza care are nevoie de coenzima NAD+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Selectați reacția de sinteză a fosforibozil-pirofosfatului (PRPP) (sinteza nucleotidelor purinice):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ribozo-5-fosfat + ATP → PRPP + AMP",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ribozo-5-fosfat + ATP → PRPP + AMP + H P O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 Ribozo-5-fosfat + ATP → PRPP + Adenozin + H P O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 Ribozo-5-fosfat + ATP → PRPP + ADP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ribozo-5-fosfat + ATP → PRPP + H PO34",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Selectați reacția de sinteză a fosforibozilaminei din fosforibozil-pirofosfat (PRPP) — (a doua reacție a sintezei de nucleotide purinice):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "PRPP + Gln → fosforibozilamina + Glu + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "PRPP + Glu → fosforibozilamina + alfa-cetoglutarat + H P O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 PRPP + Gln → fosforibozilamina + Glu + H P O",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 PRPP + Gln → fosforibozilamina + Glu + AMP + H P O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 PRPP + Glu → fosforibozilamina + alfa-cetoglutarat + H PO34",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Sinteza fosforibozilaminei este catalizată de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Fosforibozil amino sintetază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fosforibozilpirofosfat amidotransferază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fosforibozilpirofosfat aminotransferază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fosforibozil aminosintetază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fosforibozilfosfat amidotransferază",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Selectați afirmația corectă referitor la reglarea PRPP-sintetazei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este enzimă alosterică și este activată de AMP și GMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă non-alosterică și este inhibată prin fosforilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă alosterică și este activată de ATP și GTP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă non-alosterică și este inhibată prin defosforilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă alosterică și este inhibată de ADP și GDP",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Selectați afirmația corectă referitor la reglarea PRPP-sintetazei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este enzimă alosterică și este inhibată de nucleotidele pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă non-alosterică și este inhibată prin fosforilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă alosterică și este inhibată de nucleotidele purinice și pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă non-alosterică și este inhibată prin defosforilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este enzimă alosterică și este inhibată de nucleotidele purinice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 40,
+    "question": "Reglarea sintezei nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "AMP inhibă numai sinteza inozin monofosfatului (IMP)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP activează propria sinteză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "GMP inhibă numai sinteza inozin monofosfatului (IMP)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP inhibă propria sinteză și sinteza inozin monofosfatului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "GMP activează propria sinteză",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 41,
+    "question": "Reglarea sintezei nucleotidelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Nucleotidele adenilice şi guanilice inhibă enzimele reglatoare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "ATP şi GTP activează fosforibozilpirofosfatamidotransferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP şi GMP activează PRPP-sintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fosforibozilpirofosfatamidotransferaza se reglează prin fosforilare/defosforilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fosforibozilpirofosfatamidotransferaza este enzimă non-alosterică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 42,
+    "question": "Selectați afirmația corectă referitor la reutilizarea bazelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Activitatea ridicată de HGPRT poate provoca guta",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calea principală este condensarea bazei purinice cu fosforibozil-pirofosfat (PRPP)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "HGPRT are o specificitate absolută de substrat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Guanină + PRPP → GTP + H P O ; enzimă – hipoxantin-guanin fosforiboziltransferază (HGPRT)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 Adenină + PRPP → ATP + H P O ; enzimă – adenin fosforiboziltransferază (APRT)",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 43,
+    "question": "4 2 7 Selectați afirmația corectă referitor la reutilizarea bazelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Activitatea excesivă de HGPRT poate provoca guta",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Adenină + PRPP → AMP + H P O ; enzimă – adenin fosforiboziltransferază (APRT)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 HGPRT are o specificitate absolută de substrat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Guanină + PRPP → GTP + H P O ; enzimă – hipoxantin-guanin fosforiboziltransferază (HGPRT)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 Adenină + PRPP → ADP + H P O ; enzimă – adenin fosforiboziltransferază (APRT)",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 44,
+    "question": "4 2 7 Selectați afirmația corectă referitor la reutilizarea bazelor purinice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Activitatea excesivă de HGPRT poate provoca guta",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Guanină + PRPP → GMP + H P O ; enzimă – hipoxantin-guanin-fosforiboziltransferaza (HGPRT)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 HGPRT are o specificitate absolută de substrat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Guanină + PRPP → GTP + H P O ; enzimă – hipoxantin-guanin fosforiboziltransferază (HGPRT)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 Adenină + PRPP → ADP + H P O ; enzimă – adenin fosforiboziltransferază (APRT)",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 45,
+    "question": "4 2 7 Inozinmonofosfatul (IMP):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este un precursor în sinteza UMP și CMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este produsul catabolismului AMP-ului și GMP-ului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un precursor în sinteza AMP și GMP",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este un intermediar în sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un intermediar în sinteza nucleotidelor purinice și pirimidinice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 46,
+    "question": "Inozinmonofosfat (IMP):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este un precursor în sinteza UMP și CMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este produsul de catabolism al AMP și GMP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un precursor în sinteza adeninei și guaninei libere",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un intermediar în sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un intermediar în sinteza nucleotidelor purinice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 47,
+    "question": "În sinteza AMP din inozin monofosfat (IMP):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sursă pentru gruparea amino din AMP este Asp",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din AMP este Gln",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din AMP poate fi atât Asp, cât și Glu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din AMP este numai Glu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din AMP este Asn",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 48,
+    "question": "Selectați reacția corectă a degradării AMP:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "AMP → IMP → Inozina → hipoxantina → xantina → Acid uric + 2H O22",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "AMP → IMP → Inozina → Xantina → hipoxantina → Acid uric + H O22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP → IMP → Inozina → Xantina → hipoxantina → Acid uric + 2H O22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP → IMP → Inozina → hipoxantina → xantina → Acid uric + H O22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP → IMP → Inozina → Xantina → Acid uric + 2H O22",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 49,
+    "question": "Selectați reacția corectă a degradării AMP:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "AMP → Rib-5-P + H O + Acid uric22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP → NH + Rib + H O + Acid uric322",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP → NH + Rib-5-P + H O + Acid uric322",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AMP → NH + Rib-1-P + H O + Acid uric322",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "AMP → NH + CO + H O + Acid uric322",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 50,
+    "question": "Selectați afirmația corectă referitor la sinteza GMP din inozin monofosfat (IMP):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sursă pentru gruparea amino din GMP poate fi atât Asp, cât și Glu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din GMP este Asp",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din GMP este Gln",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din GMP este Asn",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru gruparea amino din GMP este numai Glu",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 51,
+    "question": "Selectați afirmația corectă referitor la sinteza GMP din inozin monofosfat (IMP):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sursă pentru gruparea amino din GMP este acidul aspartic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Procesul este activat de ATP",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Procesul este activat de GTP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă pentru grupa amino din GMP este Glu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Necesită energia GTP-ului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 52,
+    "question": "Selectați reacția corectă a degradării GMP:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "GMP → Guanina → Xantina → Acid uric + 2H O22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "GMP → Guanina → Xantina → Acid uric + H O22",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "GMP → Guanina → hipoxantina → Acid uric + 2H O22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "GMP → Guanina → hipoxantina → Acid uric + 2H O2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "GMP → Guanina → hipoxantina → Acid uric + H O22",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 53,
+    "question": "Selectați reacția corectă a degradării GMP:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "GMP → NH + Rib-5-P + H O + Acid uric322",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "GMP → NH + CO + H O + Acid uric322",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "GMP → NH + Rib + H O + Acid uric322",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "GMP → NH + Rib-1-P + H O + Acid uric322",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "GMP → Rib-5-P + H O + Acid uric22",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 54,
+    "question": "Produsul final al catabolismului nucleotidelor purinice este:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ureea",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hipoxantina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Xantina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inosina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul uric",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 55,
+    "question": "Gută este cauzată de defectele ereditare ale enzimelor implicate în:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Catabolismul nucleotidelor purinice și pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza și catabolismul nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza ureei și a nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza nucleotidelor purinice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Catabolismul nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 56,
+    "question": "Selectați defectele ereditare care cauzează guta:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Activitate ridicată de hipoxantin-guanin-fosforiboziltransferază (HGPRT)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Deficit de glucoză-6-fosfatază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Activitatea ridicată a xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitate ridicată a arginazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Deficiența fosforibozil-pirofosfat (PRPP) sintazei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 57,
+    "question": "Selectați defectele ereditare care cauzează guta:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Deficitul glucozo-6-kinazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitate ridicată de arginază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitate ridicată a xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Deficiența fosforibozil-pirofosfat (PRPP) sintetazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Deficiența hipoxantin-guaninfosforiboziltransferazei (HGPRT)",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 58,
+    "question": "Selectați defectele ereditare care cauzează guta:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Activitate ridicată de glucoză-6-fosfatază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitate ridicată de arginază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitate ridicată a xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitate ridicată de fosforibozilpirofosfat (PRPP) sintetazei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Activitate ridicată de hipoxantin-guaninfosforiboziltransferază (HGPRT)",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 59,
+    "question": "Principalul semn biochimic al gutei este:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hiperuricemie și hiperuremie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hiperuricemie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hiperuremie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hiperuricemie și uremie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Uremie",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 60,
+    "question": "Manifestările clinice în gută sunt:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Litiază renală și colelitiază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Artrita gutoasă și xantoame cutanate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Litiază renală și xantoame cutanate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Artrita gutoasă și nefrolitiaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tofi și xantoame cutanate",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 61,
+    "question": "Manifestările clinice de guta:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Tofi și xantoame cutanate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Artrita gutoasă, tofi gutoși și nefrolitiază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Artrita gutoasă, litiază renală și colelitiază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Artrita gutoasă, tofi și xantoame cutanate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Litiază renală și xantoame cutanate",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 62,
+    "question": "Alopurinolul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este inhibitor competitiv al xantinoxidazei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este inhibitorul alosteric al xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este analogul structural al xantinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În tratamentul cu alopurinol, acidul uric este excretat ca produs final al catabolismului purinelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este analogul structural al acidului uric",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 63,
+    "question": "Alopurinolul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este inhibitor necompetitiv al xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este inhibitorul alosteric al xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este analogul structural al hipoxantinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În tratamentul cu alopurinol, hipoxantina și acidul uric se elimină sub formă de produs final al catabolismului purinelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este analogul structural al acidului uric",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 64,
+    "question": "Alopurinolul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este inhibitor necompetitiv al xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este inhibitorul alosteric al xantinoxidazei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este analogul structural al xantinei",
+        "correct": false,
+        "image_only": false,
+        "image": "images/q64_option3.png"
+      },
+      {
+        "text": "În tratamentul cu alopurinol, hipoxantina și xantina se excretă sub formă de produs final al catabolismului purinelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este analogul structural al acidului uric",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [
+      "у вариантов [3] есть и текст, и изображение"
+    ],
+    "question_images": []
+  }
+]

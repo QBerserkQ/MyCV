@@ -1,0 +1,1545 @@
+[
+  {
+    "id": 1,
+    "question": "Cromoproteinele conțin:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Proteină + metale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Proteină + lipide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Proteină + hem",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Proteină + acid nucleic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Proteină + fosfat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectați afirmația corectă referitor la hemoproteine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Toate hemoproteinele conțin porfirina IX și Fe2+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt proteine simple",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mioglobina este o hemoproteină oligomerică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalaza, citocromii și peroxidazelele sunt hemoproteine",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Toate hemoproteinele conțin porfirina IX și Fe3+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Selectați afirmația corectă referitor la hemoproteine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Toate hemoproteinele conțin porfirina IX și Fe2+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt proteine simple",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mioglobina este o hemoproteină oligomerică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hemoglobina și mioglobina sunt hemoproteine",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Toate hemoproteinele conțin porfirina IX și Fe3+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Hemoglobina este implicată în:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Transportul de O și CO prin sânge22",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Transportul de O , CO și fier prin sânge22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transportul numai de O prin sânge2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transportul de O și fierului prin sânge2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglarea echilibrului fluido-coagulant",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Hemoglobina (Hb):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În condiții normale, fierul din hemul Hb își schimbă valența: Fe ↔ Fe2+3+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hem Fe se leagă prin resturile de histidină din lanțurile alfa2+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "HbA (adultă) este formată din două lanțuri alfa, două beta și 4 molecule de hem",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "HbA (adultă) este formată din patru lanțuri polipeptidice alfa și 4 molecule de hem",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este activă după compactizarea terțiară",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Hemoglobina (Hb):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În condiții normale, fierul din hemul Hb își schimbă valența: Fe ↔ Fe2+3+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hem Fe se leagă prin resturile de histidină din lanțurile alfa și beta2+",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hem Fe se leagă de resturile de histidină din lanțurile alfa și beta3+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "HbA (adultă) este formată din patru lanțuri polipeptidice alfa și 4 molecule de hem",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o proteină homotetramerică care conține un hem",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Selectați aminoacizi care participă la biosinteza hemului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid aspartic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Leucina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicina",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Pentru biosinteza hemului este nevoie de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glicină, succinil-CoA, Fe2+",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glutamină, succinil-CoA, Fe3+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicină, succinil-CoA, Fe3+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutamină, glicină, succinil-CoA, Fe3+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutamină, glicină, succinil-CoA, Fe2+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Selectați enzime implicate în sinteza hemului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "δ-aminolevulinat sintetaza, δ-aminolevulinat dehidraza, Ferochelataza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "δ-aminolevulinat sintaza, δ-aminolevulinat hidrataza, Ferohelataza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "δ-aminolevulinat sintaza, δ-aminolevulinat dehidrataza, ferohelataza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "δ-aminolevulinat sintetaza, δ-aminolevulinat hidrataza, ferihelataza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "δ-aminolevulinat sintetaza, δ-aminolevulinat hidrataza, ferihelataza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Selectați reacția corectă catalizată de ferohelataza:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Protoporfirina IX + Fe → hem + 2H3++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Protoporfirinogen IX Fe → hem + 2H3++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Protoporfirina IX + Fe → hem + 2H2++",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Protoporfirina IX + Fe sau Fe → hem + 2H3+2++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Protoporfirinogen IX + Fe → hem + 2H2++",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Selectați prima reacție a sintezei hemului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Gln + succinil-CoA → Acid delta-aminolevulinic + CO2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gly + succinil-CoA → Acid delta-aminolevulinic + HS-CoA + CO2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gln + succinil-CoA → Acid delta-aminolevulinic + HS-CoA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gln + succinil-CoA + ATP → Acid delta-aminolevulinic + HS-CoA + CO + AMP + PP2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i Gly + succinil-CoA + ATP → Acid delta-aminolevulinic + HS-CoA + CO + ADP + H PO234",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Biosinteza Hemului (a doua reacție):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acidul delta-aminolevulinic + ATP → protoporfobilinogen + AMP + PP + H O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i 2 2 molecule de acid delta-aminolevulinic + ATP → protoporfobilinogen + ADP + H PO + H O342",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2 molecule de acid delta-aminolevulinic + ATP → porfobilinogen + ADP + H PO + H O342",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2 molecule de acid delta-aminolevulinic + ATP → porfobilinogen + AMP + PP + H O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i 2 2 molecule de acid delta-aminolevulinic → porfobilinogen + 2H O2",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Biosinteza hemului (formarea porfobilinogenului, reacția II), este catalizată de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Delta aminolevulinat hidratază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Delta aminolevulinat dehidratază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Porfobilinogen sintază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Porfobilinogen sintetază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Delta aminolevulinat decarboxilază",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Bilirubina indirectă este cunoscută sub numele de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Bilirubina liberă în complex cu albumină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubina liberă în complex cu albumină sau globulinele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubina conjugată în complex cu globulinele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubina conjugată în complex cu albumină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Bilirubină indirectă este conjugată în:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sistemul reticuloendotelial și macrofage",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Macrofage",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hepatocite",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sistemul reticuloendotelial",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hepatocite și macrofage",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "În ficat bilirubina indirectă se conjugă cu:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "UDP-galactoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuronat și UDP-glucoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "PAPS",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-Glucuronat",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Selectați enzima ce catalizează conjugarea bilirubinei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "UDP-glucoziltransferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CDP-glucuroniltransferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-gluconiltransferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-galactoziltransferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuroniltransferaza",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Produsul de conjugare al bilirubinei se numește:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Bilirubina conjugată (indirectă netoxică)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubina liberă non-toxică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubina conjugată (directă, toxică)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubina conjugată (indirectă, toxică)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubina conjugată (directă non-toxică)",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Bilirubina indirectă:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este transportată de globulinele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este transportată de albumine și globulinele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Circulă în plasmă, în stare liberă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este transportată de albumine",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este transportată de proteine specifice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Catabolismul hemoglobinei (Hb):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Începe în eritrocitele intacte și continuă în sistemul reticuloendotelial",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în celulele sistemului reticuloendotelial",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în toate țesuturile",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc numai în sânge",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în enterocite intacte",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Selectați secvența corectă de transformări în catabolismul hemoglobinei (Hb):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hb → biliverdină → verdoglobină → bilirubină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hb → verdoglobină → bilirubină conjugată → bilirubină liberă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hb → verdoglobină → billiverdină conjugată → bilirubină liberă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hb → verdoglobină → biliverdină → bilirubină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hb → verdoglobină → biliverdină + bilirubină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Catabolismul hemoglobinei (Hb) (transformarea Hb în biliverdină):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Inițial are loc oxidarea fierului și ruperea punții metinice cu formarea verdoglobinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hb este transformată direct în biliverdină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inițial are loc oxidarea fierului și ruperea inelului porfirinei cu formarea biliverdinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inițial globina se separă de hem",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inițial globina se desprinde de verdoglobină cu formarea biliverdinei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Catabolismul hemoglobinei (Hb) (transformarea biliverdinei în bilirubină):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Biliverdină + NADPH + H → bilirubină + NAD(P)++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Biliverdină + NADPH + H → bilirubină + NADP++",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Biliverdină + NAD → NADH + H + bilirubină++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Biliverdină + NADH + H → bilirubină + NAD++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Biliverdină + NADP → bilirubină + NADPH+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Selectați pigmenții intestinali prioritar eliminați renal:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Stercobilinogenul reabsorbit prin intermediul sistemului venei portă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stercobilinogenul și urobilinogenul reabsorbit prin intermediul sistemului venei portă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cea mai mare parte revine stercobilinogenului reabsorbit prin venele hemoroidale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "O mică fracțiune din stercobilinogen reabsorbit prin venele hemoroidale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cea mai mare parte de urobilinogen reabsorbit prin venele hemoroidale",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Cauză a icterului poate fi:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scăderea capacității ficatului de a conjuga bilirubina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea capacității ficatului de a conjuga bilirubina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reducerea formării de bilirubină în celulele sistemului reticuloendotelial",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea capacității ficatului de a capta bilirubina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scăderea ratei de sinteză a hemoglobinei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Icterul neonatal este cauzat de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hemoliza intensă și acumularea de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea concentrației bilirubinei conjugate în piele și sclere",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "\"Imaturitate\" a capacității rinichilor de a excreta bilirubina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "\"Imaturitate\" a capacității hepatice de a oxida bilirubina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "\"Imaturitate\" a capacității hepatice de a conjuga și excreta bilirubina",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Cauză a icterului hepatic microzomal este:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hepatitele virale, ciroza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hemoliza masivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciroza și boli biliare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hemoliza masivă și ciroza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bolile biliare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Cauze a icterului hepatic microzomal este:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ciroza, boala hepatică alcoolică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bolile biliare și ciroza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hemoliza masivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hepatitele virale și hemoliza masivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bolile biliare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Icterul hepatic microzomal (modificări ale pigmenților biliari):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scade cantitatea serică de bilirubina totală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește cantitatea serică de bilirubină liberă și conjugată",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Crește cantitatea pigmenților biliari în intestin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scade cantitatea de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește cantitatea serică de bilirubină pe baza celei conjugate",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Icterul hepatic microzomal (modificări ale pigmenților biliari):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În urină este prezentă bilirubina liberă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scade cantitatea serică de bilirubină liberă și conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urină este prezentă bilirubina conjugată",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Scade cantitatea serică de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scade cantitatea serică de bilirubină liberă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Icterul hepatic premicrosomial (modificări ale pigmenților biliari):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Crește concentrația de pigmenți biliari îndeosebi în intestin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește concentrația serică de bilirubină liberă și conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește concentrația de pigmenți biliari îndeosebi în urină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește concentrația serică de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește concentrația serică de bilirubină liberă",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Icterul hepatic premicrosomial este specific:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Numai pentru sindromul Gilbert și Crigler-Najjar tip II",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pentru sindromul Gilbert și sindromul Crigler-Najjar tip I și II",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Numai pentru sindromul Grigler-Najjar tip II",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Numai pentru sindromul Gilbert",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Numai pentru sindromul Grigler-Najjar tip I",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Icterul prehepatic este determinat de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hemoliza acută și cronică cu creșterea, în principal, a concentrației de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hemoliza acută și cronică cu creșterea a concentrației serice de bilirubină liberă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acumularea bilirubinei directe în țesuturi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hemoliza acută și capacitatea redusă a ficatului de a capta bilirubina conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hemoliza acută și cronică și rata crescută a sintezei de hem",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Icterul prehepatic este cauzat de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hemoliza acută şi cronică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Staza biliară intrahepatică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea ratei de sinteză a hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea capacității ficatului de a conjuga bilirubina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scăderea capacității ficatului de a conjuga bilirubina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "În icterul prehepatic în ser crește, în principal, valoarea:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Bilirubinei conjugate și indirecte",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubinei conjugate și directe",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubinei libere",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubinei conjugate și libere",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bilirubinei conjugate",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Icterul posthepatic este cauzat de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hemoliză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Blocarea parțială sau totală a canalelor biliare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Reducerea capacității ficatului de a capta bilirubina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Diminuarea conjugării bilirubinei în microzomi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Staza biliară intrahepatică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Icterul posthepatic este cauzat de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Afectarea conjugării bilirubinei și blocarea totală a canalelor biliare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Blocarea parțială sau totală a canalelor biliare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Reducerea capacității ficatului de a capta bilirubina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Afectarea conjugării bilirubinei și blocarea parțială a canalelor biliare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Staza biliară intrahepatică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Icterul posthepatic (modificările pigmenților biliari):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scăderea cantității serice de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea cantității serice de bilirubină liberă și conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scăderea cantității serice de bilirubină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea cantității serice de bilirubină conjugată",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea cantității serice de bilirubină liberă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Icterul hepatic postmicrosomal este cauzat de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hemoliza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Diminuarea conjugării bilirubinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Diminuarea conjugării bilirubinei și staza biliară intrahepatică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Staza biliară intrahepatică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Deficiență UDP-glucuroniltransferazei și acumularea de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 40,
+    "question": "Caracteristic pentru icterul hepatic postmicrosomial este:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cantitate serică scăzută de bilirubină liberă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cantitate crescută de pigmenți biliari în intestin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cantitate serică scăzută de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cantitate serică scăzută de bilirubină liberă și conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cantitate serică crescută de bilirubină conjugată",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 41,
+    "question": "Porfiria:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Porfiriile sunt exclusiv cutanate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Porfiriile primare sunt cauzate de deficiențe ale enzimelor implicate în biosinteza hemului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este numită și icter",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Porfiriile primare sunt cauzate de deficiențe ale enzimelor implicate în catabolismul hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Porfiriile primare sunt cauzate de deficiențe ale enzimelor implicate în biosinteza și catabolismul hemului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 42,
+    "question": "Sindromul Dubin-Johnson este cauzat de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Diminuarea conjugării bilirubinei în microzomii",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Diminuarea conjugării bilirubinei și staza biliară intrahepatică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Secreția crescută a bilirubinei conjugate din hepatocite în capilarele biliare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Secreția deficitară a bilirubinei conjugate din hepatocite în capilarele biliare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hemoliză și eșecul conjugării bilirubinei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 43,
+    "question": "Sindromul Crigler-Najjar este cauzat de deficiența:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "UDP-glucozil transferazei și acumularea de bilirubină liberă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuronil transferazei și acumularea de bilirubină directă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuronil transferazei și acumularea de bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuronil transferazei și acumularea de bilirubină liberă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuronil transferazei și acumularea de bilirubină liberă și conjugată",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [
+      "у вариантов [5] есть и текст, и изображение"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 44,
+    "question": "Selectați enzima defectă (1) și fracția de bilirubină (2) care crește în sindromul Crigler-Najjar:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "UDP-glucuronil transferaza        bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuronil transferaza        bilirubină liberă și conjugată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucozil transferaza            bilirubină liberă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucuronil transferaza        bilirubină liberă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "UDP-glucozil transferaza            bilirubină conjugată",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  }
+]

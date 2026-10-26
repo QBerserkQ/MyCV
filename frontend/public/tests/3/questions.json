@@ -1,0 +1,1941 @@
+[
+  {
+    "id": 1,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid strict cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din indol și alanină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+      "images/q1_prompt_2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid strict glucogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul histaminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul melatoninei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din fenilalanină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+      "images/q2_prompt_1.png"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul tirozinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid dispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul catecolaminelor",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": [
+      "images/q3_prompt_1.png"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Selectați aminoacidul precursor al melatoninei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q4_option1.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q4_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q4_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q4_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q4_option5.png"
+      }
+    ],
+    "source_page": 3,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Numesțe compusul chimic prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Creatina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Adrenalina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melanina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melatonina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Serotonina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": [
+      "images/q5_prompt_1.png"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Selectați rolul de bază al compusului chimic prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Reglează temperatura corpului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează secreția sucului gastric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este mediator al reacțiilor alergice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează tensiunea arterială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează ciclul veghe-somn",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": [
+      "images/q6_prompt_1.png"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Referitor la reacțiile prezentate este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sunt reacțiile de sinteză a hormonilor tiroidieni din tirozină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reprezintă sinteza melatoninei din serotonină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt reacțiile de sinteză a adrenalinei din dopamină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt reacțiile de sinteză a serotoninei din triptofan",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reprezintă sinteza melaninei din DOPA",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": [
+      "images/q7_prompt_1.png"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Selectați produsul reacțiilor prezentate (1) și sediul sintezei lui (2):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Melatonina           epifiza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tiroxina               glanda tiroidă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creatina               ficatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Adrenalina           medulosuprarenalele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melanina              melanocitele",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": [
+      "images/q8_prompt_1.png"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Selectați rolul produsului reacțiilor prezentate:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Reglează temperatura corpului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează ciclul veghe-somn",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Reglează secreția sucului gastric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează tensiunea arterială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este mediator al reacțiilor alergice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": [
+      "images/q9_prompt_1.png"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este reacția de formare a DOPaminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de decarboxilare a triptofanului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a serotoninei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de decarboxilare a tirozinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a histaminei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": [
+      "images/q10_prompt_1.png"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Coenzima este TPP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de triptofan carboxilază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de decarboxilaza aminoacizilor aromatici",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este NADP+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reacția este reversibilă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": [
+      "images/q11_prompt_1.png"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Selectați afirmațiile corecte referitor la produsul reacției următoare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Crește tensiunea arterială",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Scade densitatea mineral osoasă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cauzează vasodilatație",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scade motilitatea intestinală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stimulează secreția lui HCl în stomac",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": [
+      "images/q12_prompt_1.png"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Indicați precursorul serotoninei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q13_option1.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q13_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q13_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q13_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q13_option5.png"
+      }
+    ],
+    "source_page": 7,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Selectați aminoacidul precursor al serotoninei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q14_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q14_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q14_option3.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q14_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q14_option5.png"
+      }
+    ],
+    "source_page": 8,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Care compus este precursorul catecolaminelor?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prolina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Histidina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Triptofanul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Indicați precursorul cateholaminelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q16_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q16_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q16_option3.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q16_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q16_option5.png"
+      }
+    ],
+    "source_page": 9,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este catalizată de decarboxilaza histaminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ca coenzimă este NAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reversibilă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de decarboxilaza histidinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ca coenzimă este tiaminpirofosfatul (TPP)",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": [
+      "images/q17_prompt_1.png"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "E dezaminare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "E omega-decarboxilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "E decarboxilarea histidinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este decarboxilarea 5-hidroxitriptofanului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a DOPaminei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": [
+      "images/q18_prompt_1.png"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este reacția de formare a serotoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "E omega-decarboxilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "E alfa-decarboxilare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este decarboxilarea 5-hidroxitriptofanului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a DOPaminei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": [
+      "images/q19_prompt_1.png"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Selectați afirmațiile corecte referitor la produsul reacției următoare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Crește secreția pepsinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acționează prin intermediul receptorilor histaminici (H -H )14",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Crește tensiunea arterială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acționează prin intermediul receptorilor alfa-adrenergici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produce vasoconstricție",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": [
+      "images/q20_prompt_1.png"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Selectați afirmațiile corecte referitor la produsul reacției următoare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Induce secreția enzimelor pancreatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scade secreția lui HCl",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește tensiunea arterială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește secreția enzimelor gastrice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produce vasodilatație",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": [
+      "images/q21_prompt_1.png"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Selectați afirmațiile corecte referitor la produsul reacției următoare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Reglează secreția sucului pancreatic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează secreția enzimelor intestinale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează motilitatea intestinală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează secreția bilei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reglează secreția sucului gastric",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": [
+      "images/q22_prompt_1.png"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Selectați afirmațiile corecte referitor la produsul reacției următoare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Crește secreția enzimelor gastrice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produce vasoconstricție",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Induce secreția de pepsinogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește secreția pepsinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crește secreția lui HCl",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": [
+      "images/q23_prompt_1.png"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Care compus este precursorul histaminei?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Prolina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Triptofanul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Histidina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Selectați coenzimele utilizate pentru transformarea prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "NADP , glutation+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tetrahidrobiopterina, NADPH",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tiaminpirofosfat (TPP), HS-CoA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "FAD, biotina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Piridoxalfosfat (PALP), FAD",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": [
+      "images/q25_prompt_1.png"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Selectați enzima ce catalizează reacția chimică prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Tirozin sintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanin hidrataza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanin hidroxilaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanin dehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanin dioxigenaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": [
+      "images/q26_prompt_1.png"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Selectați patologia cauzată de deficiența ereditară a enzimei ce catalizează reacția chimică prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Albinismul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilcetonuria",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hiperoxaluria",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anemia megaloblastică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alcaptonuria",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": [
+      "images/q27_prompt_1.png"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Selectați enzima ce catalizează reacția chimică prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Tirozin hidroxilaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tirozin dioxigenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "DOPA sintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozin dehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozin hidrataza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": [
+      "images/q28_prompt_1.png"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Selectați patologia cauzată de deficiența ereditară a enzimei ce catalizează reacția chimică prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Albinismul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fenilcetonuria",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hiperoxaluria",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anemia megaloblastică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alcaptonuria",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": [
+      "images/q29_prompt_1.png"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Selectați enzima ce catalizează reacția chimică prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Homogentizat dioxigenaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Homogentizat hidroxilaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozinaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "DOPA dioxigenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "DOPA hidroxilaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q30_prompt_1.png"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Selectați patologia cauzată de deficiența ereditară a enzimei ce catalizează reacția chimică prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Albinismul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilcetonuria",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hiperoxaluria",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anemia megaloblastică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alcaptonuria",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q31_prompt_1.png"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este reacția de decarboxilare a triptofanului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a serotoninului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a tiraminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a dopaminei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de decarboxilare a tirozinei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q32_prompt_1.png"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este reacția de sinteză a fenilalaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este TPP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reversibilă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de decarboxilare a 3,4-dihidroxifenilalaninei (DOPA)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de tirozin carboxilază",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q33_prompt_1.png"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este reacția de sinteză a tirozinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inhibitorul decarboxilazei aminoacizilor aromatici contribuie la creșterea tensiunii arteriale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este precursorul catecolaminelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alfa-metildopa crește viteza reacției",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de sinteză a 3,4-dihidroxifenilalaninei (DOPA)",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q34_prompt_1.png"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Prin hidroxilare se transformă în tirozină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul histaminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urma dezaminării oxidative se transformă în oxifenilpiruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid strict glucogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q35_prompt_1.png"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urma dezaminării oxidative se transformă în oxifenilpiruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid strict cetogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q36_prompt_1.png"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este precursorul melatoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din alanină și fenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza alaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urma dezaminării oxidative se transformă în piruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q37_prompt_1.png"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Se sintetizează prin hidroxilarea fenilalaninei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul histaminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid strict glucogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": [
+      "images/q38_prompt_1.png"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Selectați afirmația corectă referitoare la stuctura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este aminoacid strict cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin transaminare se transformă în oxifenilpiruvat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": [
+      "images/q39_prompt_1.png"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Selectați afirmația corectă referitoare la stuctura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din alanină și fenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul alaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urma dezaminării oxidative se transformă în piruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul melatoninei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": [
+      "images/q40_prompt_1.png"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Selectați rolul metabolic al compusului chimic prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Intră în componența acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursor al catecolaminelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza melatoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza glutationului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": [
+      "images/q41_prompt_1.png"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Selectați rolul metabolic al compusului chimic prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Prin decarboxilare generează putrescină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul melaninei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza glicerofosfolipidelor",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": [
+      "images/q42_prompt_1.png"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Selectați rolul metabolic al compusului chimic prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este precursor al iodtironinelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza glutationului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza melatoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul histaminei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": [
+      "images/q43_prompt_1.png"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Indicați precursorul iodtironinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q44_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q44_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q44_option3.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q44_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q44_option5.png"
+      }
+    ],
+    "source_page": 22,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 45,
+    "question": "Indicați precursorul melaninelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q45_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q45_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q45_option3.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q45_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q45_option5.png"
+      }
+    ],
+    "source_page": 22,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 46,
+    "question": "Selectați produsele de catabolism ale fenilalaninei și tirozinei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acidul piruvic, acidul acetoacetic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul propionic, acidul beta-hidroxibutiric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul fumaric, acidul acetoacetic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidul piruvic, acidul beta-hidroxibutiric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul acetic, acetona",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 47,
+    "question": "Selectați enzima, deficiența ereditară a căreia este cauza fenilcetonuriei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hidroxifenilpiruvat dioxigenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Homogentizat dioxigenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanin hidroxilaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tirozinaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transaminaza aminoacizilor aromatici",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 48,
+    "question": "Selectați principala manifestare clinică a fenilcetonuriei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ciroză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Retard mental",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Artroză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nefrolitiază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ocronoză",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 49,
+    "question": "Care este principala cauză a retardului mental din fenilcetonurie?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Micșorarea concentrației de fenilalanină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea conținutului de acid homogentizic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acumularea de fenilpiruvat, fenillactat, fenilacetat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mărirea concentrației de tirozină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lipsa melaninei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 24,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 50,
+    "question": "Selectați enzima, deficiența ereditară a căreia este cauza albinismului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Transaminaza aminoacizilor aromatici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Homogentizat dioxigenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozinaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fenilpiruvat dioxigenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanin hidroxilaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 24,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 51,
+    "question": "Selectați enzima, deficiența ereditară a căreia este cauza alcaptonuriei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Homogentizat dioxigenaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fenilalanin hidroxilaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fenilpiruvat dioxigenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transaminaza aminoacizilor aromatici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozinaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 24,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 52,
+    "question": "Selectați principala manifestare clinică a alcaptonuriei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Xantoame",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciroză",
+        "correct": false,
+        "image_only": false,
+        "image": "images/q52_option2.png"
+      },
+      {
+        "text": "Retard mental",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ocronoză",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Nefrolitiază",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 25,
+    "warnings": [
+      "у вариантов [2] есть и текст, и изображение"
+    ],
+    "question_images": []
+  }
+]

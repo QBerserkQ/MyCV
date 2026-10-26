@@ -1,0 +1,1988 @@
+[
+  {
+    "id": 1,
+    "question": "Инструкция к тесту Автор: Lion, The King 16:39:00 Biochimie II (Dezaminarea, Decarboxilarea, Transaminarea Aminoacizilor și Neutralizarea Aminelor Biogene) Biochimie II (Dezaminarea, Decarboxilarea, Transaminarea Aminoacizilor și Neutralizarea Aminelor Biogene) Care dintre următoarele nu este o cale generală a metabolismului aminoacizilor?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Dezaminarea directă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decarboxilarea",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dezaminarea indirectă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transaminarea",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transsulfarea",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+      "images/q1_prompt_1.png",
+      "images/q1_prompt_2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Care dintre următoarele nu este un tip de dezaminare a aminoacizilor?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Oxidativă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Intramoleculară",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Omega-dezaminare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Reductivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hidrolitică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Dezaminarea aminoacizilor (DA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Toți aminoacizii se supun DA oxidative directe",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În rezultatul DA intramoleculare se obțin alfa-cetoacizi și amoniac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "DA intramoleculară este caracteristică pentru toți aminoacizii",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "DA reprezintă calea principală de sinteză a aminoacizilor dispensabili",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "DA oxidativă conduce la formarea alfa-cetoacizilor și a amoniacului",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Dezaminarea indirectă a aminoacizilor (transdezaminarea):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este principala cale de sinteză a aminoacizilor dispensabili",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La dezaminare glutamatdehidrogenaza utilizează NADPH + H+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces reversibil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În etapa a doua are loc transaminarea aminoacidului cu alfa-cetoglutaratul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În prima etapă are loc dezaminarea oxidativă a acidului glutamic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Dezaminarea indirectă a aminoacizilor (transdezaminarea):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În etapa a doua are loc transaminarea aminoacidului cu alfa-cetoglutaratul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La dezaminare glutamatdehidrogenaza utilizează NADPH + H+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În prima etapă are loc dezaminarea oxidativă a acidului glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă în catabolismul aminoacizilor",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Dezaminarea indirectă a aminoacizilor (transdezaminarea):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În prima etapă are loc transaminarea aminoacidului cu alfa-cetoglutaratul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "La dezaminare glutamatdehidrogenaza utilizează NADPH + H+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este principala cale de sinteză a aminoacizilor dispensabili",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În prima etapă are loc dezaminarea oxidativă a acidului glutamic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Dezaminarea indirectă a aminoacizilor (transdezaminarea):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În prima etapă are loc dezaminarea oxidativă a acidului glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La dezaminare glutamatdehidrogenaza utilizează NADPH + H+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este principala cale de sinteză a aminoacizilor dispensabili",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În etapa a doua are loc dezaminarea oxidativă a acidului glutamic",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Selectați reacțiile dezaminării directe a aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Thr + H O → alfa-cetoglutarat + NH (enzima – treonindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thr → piruvat + NH + H O (enzima – treonindehidrataza)32",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ser + H O → lactat + NH (enzima – serindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu + NAD + H O → alfa-cetobutirat + NADH + H + NH (enzima – glutamatdehidrogenaza)+2+3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ser + H O → piruvat + NH (enzima – serindehidrataza)23",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Selectați reacțiile dezaminării directe a aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Thr + H O → lactat + NH (enzima – treonindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thr → piruvat + NH + H O (enzima – treonindehidrataza)32",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ser + H O → lactat + NH (enzima – serindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu + NAD + H O → alfa-cetoglutarat + NADH + H + NH (enzima – glutamatdehidrogenaza)+2+3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cys + H O → piruvat + NH (enzima – serindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Selectați enzima care participa la dezaminarea aminoacidului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hidrolaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dehidrataza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Amonioliaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reductaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": [
+      "images/q10_prompt_1.png"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Dezaminarea oxidativă directă a acidului glutamic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Are loc sub acțiunea enzimei glutamat dehidrogenaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Are loc sub acțiunea enzimei glutamat oxidaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este FAD",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este FMN",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Dezaminarea oxidativă directă a acidului glutamic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Are loc sub acțiunea enzimei gama-glutamil transpeptidaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc sub acțiunea enzimei glutamat oxidaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces reversibil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este FAD",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este FMN",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Dezaminarea oxidativă directă a acidului glutamic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Are loc sub acțiunea enzimei glutamat reductaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc sub acțiunea enzimei glutamat oxidaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzimele sunt FAD și FMN",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzimele sunt NAD și NADP++",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Selectați reacțiile dezaminării intramoleculare a aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Thr + H O → lactat + NH (enzima – treonindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thr → piruvat + NH + H O (enzima – treonindehidrataza)32",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ser + H O → lactat + NH (enzima – serindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "His → acidul urocanic + NH (enzima – histidinamonioliaza)3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cys + H O → piruvat + NH (enzima – serindehidrataza)23",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Transdezaminarea aspartatului: selectați prima etapă (1) și enzima (2) acestui proces:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glu + NAD + H O → alfa-cetoglutarat + NADH + H + NH glutamatdehidrogenaza+2+3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu + NADP + H O → alfa-cetoglutarat + NADPH + H + NH glutamatdehidrogenaza+2+3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asp + H O → oxaloacetat + NH + H O aspartatdehidrataza232",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asp + alfa-cetoglutarat → oxaloacetat + Glu aspartataminotransferaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asn + H O → Asp + NH asparaginaza23",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Transdezaminarea aspartatului: selectați etapa a doua (1) și enzima (2) acestui proces:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glu + NAD + H O → alfa-cetoglutarat + NADH + H + NH glutamatdehidrogenaza+2+3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glu + NADP + H O → alfa-cetoglutarat + NADPH + H + NH glutamatdehidrogenaza+2+3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asp + H O → oxaloacetat + NH + H O aspartatdehidrataza232",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asp + alfa-cetoglutarat → oxaloacetat + Glu aspartataminotransferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asn + H O → Asp + NH asparaginaza23",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Coenzima acestei reacții este PALP (vit. B )6",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de aspartataminotransferaza (AST)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de dezaminare directă a aspartatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de transaminare a aspartatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În rezultatul reacției se formează oxaloacetat și glutamat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": [
+      "images/q17_prompt_1.png"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Selectați afirmațiile corecte referitor la procesul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este biosinteza alaninei din piruvat și NH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este biosinteza alaninei din oxaloacetat și NH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este dezaminarea directă a alaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este dezaminarea indirectă a alaninei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este transreaminarea Asp",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": [
+      "images/q18_prompt_1.png"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Selectați afirmațiile corecte referitor la procesul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este dezaminarea directă a alaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este biosinteza alaninei din piruvat și NH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Include dezaminarea oxidativă directă a acidului glutamic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În transdezaminare glutamatdehidrogenaza utilizează NADPH + H+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă enzimele aspartat aminotransferaza (AST) şi glutamat dehidrogenaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": [
+      "images/q19_prompt_1.png"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Decarboxilarea aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În rezultatul alfa-decarboxilării se obțin alfa-cetoacizi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces reversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima decarboxilazelor este NAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de înlăturare a grupării –COOH din aminoacizi în formă de CO2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Toți aminoacizii se supun tuturor tipurilor de decarboxilare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Decarboxilarea aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În rezultatul alfa-decarboxilării se obțin aminele biogene",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces reversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima decarboxilazelor este NAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția grupării –NH îndepărtată din aminoacizi ca CO22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți aminoacizii se supun tuturor tipurilor de decarboxilare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Decarboxilarea aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În rezultatul alfa-decarboxilării se obțin alfa-cetoacizi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces reversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima decarboxilazelor AA este piridoxalfosfatul (derivatul vitaminei B )6",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția grupării –NH îndepărtată din aminoacizi ca CO22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți aminoacizii se supun tuturor tipurilor de decarboxilare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Selectați coenzimele utilizate pentru transformarea prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "NAD , FAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Piridoxalfosfat (PALP), FAD",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tetrahidrofolat (THF), NAD+",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tiaminpirofosfat (TPP), HS-CoA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "FAD, biotina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": [
+      "images/q23_prompt_1.png"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Produsul reacției este acidul alfa-aminobutiric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamatdehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este un inhibitor al SNC",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este utilizat în tratamentul alergiei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamatcarboxilaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": [
+      "images/q24_prompt_1.png"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Produsul reacției este un mediator în inflamație",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este mediator activator în SNC",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamatdehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este acidul gama-aminobutiric (GABA)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamatcarboxilaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": [
+      "images/q25_prompt_1.png"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este catalizată de enzima glutamatdehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este acidul beta-aminobutiric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este mediator activator în SNC",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamatcarboxilaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Produsul reacției este utilizat în tratamentul epilepsiei",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": [
+      "images/q26_prompt_1.png"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Selectați cetoacidul care se obține la dezaminarea aminoacidului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Oxaloacetat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Piruvat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alfa-cetoglutarat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alfa-cetobutirat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acetoacetat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": [
+      "images/q27_prompt_1.png"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Transaminarea aminoacizilor (TA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Reprezintă transferul grupării –NH de la un alfa-aminoacid la un alfa-cetoacid2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă a decarboxilării aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu, Asp și Ala nu se supun TA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Numai Gln, Asn și Ala se supun TA",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Transaminarea aminoacizilor (TA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este un proces reversibil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În acest proces se formează amoniac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă a decarboxilării aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Numai Gln, Asn și Ala se supun TA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu, Asp și Ala nu se supun TA",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Transaminarea aminoacizilor (TA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este un proces reversibil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Reprezintă transferul grupării –NH de la un aminoacid la un cetoacid2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă a decarboxilării aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Numai Gln, Asn și Ala se supun TA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu, Asp și Ala nu se supun TA",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Transaminarea aminoacizilor (TA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În acest proces se formează amoniac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima TA este PALP (vit. B )6",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă a decarboxilării aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Enzimele TA sunt oxidoreductazele",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Transaminarea aminoacizilor (TA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În acest proces se formează amoniac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzimele TA sunt NAD și NADP++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transaminazele sunt enzimele TA",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă a decarboxilării aminoacizilor",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Transaminazele aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sunt izomeraze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toate transaminazele posedă specificitate absolută pentru substrat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reacțiile catalizate de transaminaze sunt ireversibile",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzimele transaminazelor sunt piridoxalfosfatul și piridoxaminfosfatul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specificitatea transaminazelor este determinată de coenzimă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Transaminazele aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În leziunile cerebrale ischemice este semnificativ crescută activitatea alanin aminotransferazei (ALT) în ser",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La persoanele sănătoase nu sunt prezente în sânge",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În serul pacienților cu hepatite este crescută, în special, activitatea alanin aminotransferazei (ALT)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt enzimele hepatice excretorii",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În infarctul miocardic este semnificativ crescută activitatea alanin aminotransferazei (ALT) în ser",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Aspartataminotransferaza (AST):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Catalizează reacția de transaminare dintre aspartat și alfa-cetoglutarat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este localizată în citoplasmă și nucleu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este localizată în aparatul Golgi și mitocondrii",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalizează reacția de reaminare a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalizează reacția de dezaminare directă a aspartatului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Aspartataminotransferaza (AST):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Catalizează reacția de reaminare a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În infarctul miocardic activitatea serică scade",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalizează reacția de dezaminare directă a aspartatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În afecțiunile hepatice activitatea serică scade",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este localizată în citoplasmă și mitocondrii",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Aspartataminotransferaza (AST):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Catalizează reacția de reaminare a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În infarctul miocardic activitatea serică crește",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Catalizează reacția de dezaminare directă a aspartatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În afecțiunile hepatice activitatea serică scade",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este localizată în citoplasmă și microsomi",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Aspartataminotransferaza (AST):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Catalizează reacția de reaminare a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În infarctul miocardic activitatea serică scade",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalizează reacția de dezaminare directă a aspartatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În afecțiunile hepatice activitatea serică crește",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este localizată în citoplasmă și microsomi",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În rezultatul reacției se formează piruvat și glutamat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "E catalizată de alaninaminotransferaza (ALT)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de transaminare a alaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "E catalizată de aspartataminotransferaza (AST)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este dezaminarea directă a aspartatului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q39_prompt_1.png"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Produsele finale sunt piruvatul și glutamatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de alaninaminotransferaza (ALT)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima acestei reacții este NADP (vit. PP)+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de transaminare a aspartatului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de dezaminare directă a acidului aspartic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q40_prompt_1.png"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Selectați afirmațiile corecte referitor la procesul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este biosinteza Asp din piruvat și NH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este transreaminarea asparaginei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă enzimele aspartat aminotransferaza (AST) și glutamat dehidrogenaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Include aminarea directă a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În transdezaminare glutamat dehidrogenaza utilizează NADPH + H+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q41_prompt_1.png"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Selectați afirmațiile corecte referitor la procesul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Include aminarea directă a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă enzima alaninaminotransferaza (ALT)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este transreaminarea asparaginei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă enzima glutamatdehidrogenaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este biosinteza Asp din piruvat și NH3",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q42_prompt_1.png"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Selectați afirmațiile corecte referitor la procesul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este biosinteza Asn din oxaloacetat și NH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este dezaminarea directă a acidului aspartic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este transreaminarea Asn",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este dezaminarea indirectă a aspartatului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este biosinteza Asp din piruvat și NH3",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q43_prompt_1.png"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Alaninaminotransferaza (ALT):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Are valoare diagnostică înaltă în infarctul miocardic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalizeză reacția de transaminare dintre glutamină și piruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În afecțiunile hepatice activitatea serică a ALT scade",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalizează reacția de transaminare dintre alanină și alfa-cetoglutarat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este localizată în citoplasmă și mitocondrii",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 45,
+    "question": "Alaninaminotransferaza (ALT):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Catalizează reacția de transaminare dintre glutamină și piruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În afecțiunile hepatice activitatea serică a ALT crește",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În afecțiunile musculare activitatea serică a ALT scade",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalizează reacția de dezaminare directă a alaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are valoare diagnostică înaltă în infarctul miocardic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 46,
+    "question": "Transreaminarea aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În etapa a doua are loc aminarea reductivă a alfa-cetoglutaratului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are o singură etapă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În prima etapă are loc transaminarea glutamatului cu alfa-cetoacid",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În reaminare glutamatdehidrogenaza utilizează NAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are două etape",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 47,
+    "question": "Transreaminarea aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În etapa a doua are loc aminarea reductivă a alfa-cetoglutaratului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are o singură etapă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În prima etapă are loc transaminarea glutamatului cu alfa-cetoacidul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În reaminare glutamatdehidrogenaza utilizează NAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În reaminare glutamat dehidrogenaza utilizează NADPH + H+",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 48,
+    "question": "Transreaminarea aminoacizilor este:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Un proces reversibil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "O cale de catabolizare a aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "O cale de sinteză a tuturor aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Specifică tuturor aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 49,
+    "question": "Transreaminarea aminoacizilor este:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Un proces ireversibil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "O cale de catabolizare a tuturor aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "O cale de sinteză a tuturor aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "O cale de catabolizare a aminoacizilor neesențiali",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "O cale de sinteză a aminoacizilor neesențiali",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 50,
+    "question": "Transreaminarea aminoacizilor implică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Oxidazele aminoacizilor FAD dependente",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dehidrogenaza aminoacizilor NAD dependentă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutamatdehidrogenaza NAD dependentă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oxidazele aminoacizilor FMN dependente",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutamatdehidrogenaza NADPH dependentă",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 51,
+    "question": "Glutamatdehidrogenaza face parte din:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Liaze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Izomeraze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ligaze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hidrolaze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oxidoreductaze",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 52,
+    "question": "Glutamat dehidrogenaza:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În calitate de coenzime utilizează FAD și FMN",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "ATP și GTP sunt activatori alosterici ai enzimei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o oxidoreductază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este o hidrolază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitatea glutamat dehidrogenazei nu se reglează",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 53,
+    "question": "Care din următoarele reacții este catalizată de glutamat dehidrogenază:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glu + NAD → alfa-cetoglutarat + NADH + H + NH++3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu + NAD + H O → alfa-cetoglutarat + NADH + H + NH+2+3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glu + NADP + H O → alfa-cetobutirat + NADH + H + NH+2+3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gln + NAD + H O → Glu + NADH + H + NH+2+3",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 54,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică: R-CH -NH + H O + O → R-COH + NH + H O",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "2 2 2 2 3 2 2 Coenzima este TPP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a aminelor biogene",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de neutralizare a aminelor biogene",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de dezaminază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este NAD-ul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 55,
+    "question": "Referitor la reacția chimică prezentată sunt corecte afirmațiile: R-CH -NH + H O + O → R-COH + NH + H O",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "2 2 2 2 3 2 2 Este reacția de formare a aminelor biogene",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de activare a aminelor biogene",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima monoaminoxidaza (MAO)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este NAD-ul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este TPP",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 56,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică: R-CH -NH + H O + O → R-COH + NH + H O",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "2 2 2 2 3 2 2 Coenzima este TPP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a aminelor biogene",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de activare a aminelor biogene",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima dezaminaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coenzima este FAD",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  }
+]

@@ -1,0 +1,2275 @@
+[
+  {
+    "id": 1,
+    "question": "Selectați rolul metabolic al compusului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este donor de grupare amino la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este donor de grupare metil la sinteza fosfatidilcolinei din fosfatidiletanolamină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este donor de riboză la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Servește ca donor de metionină la sinteza proteinelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Servește ca donor de adenină la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+      "images/q1_prompt_2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectați rolul metabolic al compusului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza glicinei din serină în calitate de acceptor de grupare metil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este donor de grupare amino la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este donor de riboză la sinteza FAD-lui",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Servește ca donor de adenină la sinteza NAD -lui+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza creatinei în calitate de donor de grupare metil",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+      "images/q2_prompt_1.png"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Selectați compușii chimici care participă la sinteza creatinei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glutamina, arginina, S-adenozilmetionina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutamina, asparagina, S-adenozilmetionina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicina, asparagina, metionina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicina, arginina, S-adenozilmetionina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glutamina, arginina, metionina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Selectați rolul metabolic al compusului chimic prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza creatinei ca donor de grupare amidino",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este donor de grupare amino la sinteza lizinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor purinice ca donor de grupare amino",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza hemului ca donor de grupare imino",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": [
+      "images/q4_prompt_1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este o reacție de transformare a argininei în lizină și are loc în ficat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție din ciclul ureogenetic și decurge doar în ficat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție de sinteză a hemului și are loc intens în măduva osoasă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă din sinteza NO și decurge în endoteliul vascular",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este prima reacție din sinteza creatinei și are loc în rinichi",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": [
+      "images/q5_prompt_1.png"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Numiți enzima ce catalizează reacția chimică prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ornitin sintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicin-amidinotransferaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glicin-guanidinotransferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lizin sintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Guanidinoacetat sintetaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": [
+      "images/q6_prompt_1.png"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este reacția de sinteză a melatoninei și decurge în epifiză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție din ciclul ureogenetic și decurge în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție din sinteza hemului și decurge în măduva osoasă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o etapă din sinteza NO și decurge în endoteliul vascular",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de sinteză a creatinei și are loc în ficat",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": [
+      "images/q7_prompt_1.png"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În timpul exercițiului fizic intens are loc în sensul sintezei creatin-fosfatului din creatină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decurge intens doar în ficat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În stare de repaus decurge în sensul transformării creatin-fosfatului în creatină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima creatin-fosfataza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a creatin-fosfatului",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": [
+      "images/q8_prompt_1.png"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este reacția de formare a creatininei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decurge intens doar în ficat și rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În timpul exercițiului fizic intens, are loc în sensul sintezei creatin-fosfatului din creatină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima creatinfosfokinaza (CPK)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În stare de repaus decurge în sensul transformării creatin-fosfatului în creatină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": [
+      "images/q9_prompt_1.png"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În timpul exercițiului fizic intens decurge în ambele direcții",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decurge intens doar în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În stare de repaus decurge de la stânga spre dreapta",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima creatin-fosforilaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a creatininei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": [
+      "images/q10_prompt_1.png"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În timpul exercițiului fizic intens, are loc de la dreapta spre stânga",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Decurge intens doar în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În stare de repaus decurge în ambele direcții",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima creatin-fosfat sintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de formare a creatininei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": [
+      "images/q11_prompt_1.png"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Amoniacul se obține în următoarele procese:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Degradarea nucleotidelor purinice și pirimidinice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Beta-oxidarea acizilor grași",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transaminarea aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicoliză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciclul Krebs",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Amoniacul se obține în următoarele procese:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Dezaminarea aminoacizilor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Beta-oxidarea acizilor grași",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decarboxilarea aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicoliză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciclul Krebs",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Amoniacul se obține în următoarele procese:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sinteza aminelor biogene",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Putrefacția aminoacizilor în intestin",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gluconeogeneză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Transaminarea aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oxidarea corpilor cetonici",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Amoniacul se obține în următoarele procese:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Transaminarea aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oxidarea corpilor cetonici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Neutralizarea aminelor biogene",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Oxidarea glicerolului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gluconeogeneză",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Selectați procesele de utilizare a NH :",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 În aminarea reductivă a alfa-cetoglutaratului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza acidului uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza corpilor cetonici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza aminoacizilor esențiali",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza acizilor grași",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Selectați procesele de utilizare a NH :",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 În aminarea reductivă a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza acidului uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza corpilor cetonici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza aminoacizilor esențiali",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza glutaminei și asparaginei",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Selectați procesele de utilizare a NH :",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 În aminarea reductivă a oxaloacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La formarea sărurilor de amoniu",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza aminoacizilor esențiali",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza corpilor cetonici",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "NH este utilizat la sinteza:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 Acidului uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acetoacetatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Beta-hidroxibutiratului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ureei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acetonei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Care dintre următorii compuși este produsul final al catabolismului proteinelor simple?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "CO",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NO",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "CO2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidul uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "H O22",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Care dintre următorii compuși este produsul final al catabolismului proteinelor simple?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "CO",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NO",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NH3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidul uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "H O22",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Care dintre următoarele afirmații este corectă în ceea ce privește bilanțul azotat (BA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "BA arată starea metabolismului acizilor nucleici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "BA arată starea metabolismului glucidic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "BA arată starea metabolismului proteic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "BA arată starea metabolismului lipidic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "BA arată starea metabolismului energetic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Care dintre următoarele afirmații este corectă în ceea ce privește bilanțul azotat (BA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "BA este raportul dintre azotul eliminat și azotul îngerat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "BA este produsul dintre azotul îngerat către azotul eliminat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "BA este diferența dintre azotul îngerat și azotul eliminat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "BA este raportul dintre azotul eliminat către azotul îngerat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "BA este suma dintre azotul eliminat și azotul îngerat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Care dintre următoarele afirmații este corectă în ceea ce privește bilanțul azotat pozitiv:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cantitatea azotului îngerat este mai mică decât a celui eliminat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic pentru adulții sănătoși",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Biosinteza proteinelor depășește catabolismul proteinelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic pentru persoanele bolnave",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic pentru persoanele în vârstă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Bilanțul azotat negativ:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Denotă că biosinteza proteinei predomină față de catabolismul proteinelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic atleților",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic copiilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Denotă că cantitatea azotului îngerat este mai mare decât a celui eliminat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic pentru pacienții cu maladii severe",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Bilanțul azotat echilibrat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Arată predominarea proceselor de degradare a proteinelor față de cele de biosinteză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic pentru copii, adolescenți și gravide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic pentru adulții sănătoși",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este caracteristic pentru persoanele de vârsta a trei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Denotă că cantitatea azotului îngerat este mai mare decât a celui eliminat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Produsul final de dezintoxicare a NH :",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 Acidul uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ureea",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creatinina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Produsele finale de dezintoxicare a NH :",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 Acidul uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sărurile de amoniu",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creatinina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Putrefacția aminoacizilor în intestin:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Conduce la formarea doar a substanțelor toxice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alcoolii, acizi grași și cetoacizii sunt produse toxice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc sub acțiunea enzimelor proteolitice gastrice și pancreatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crezolul, fenolul, scatolul, indolul sunt produse netoxice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este scindarea aminoacizilor sub acțiunea enzimelor microflorei intestinale",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Neutralizarea produselor de putrefacție a aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "La conjugare participă enzimele hepatice UDP-glucoroniltransferaza și arilsulfotransferaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului sulfuric este fosfosulfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul subțire",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul gros prin conjugarea cu acidul sulfuric și acidul glucoronic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului glucuronic este CDP-glucuronatul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Neutralizarea produselor de putrefacție a aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enzimele ce participă la detoxifiere sunt sintetizate în epiteliul intestinal",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului sulfuric este fosfosulfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în stomac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul gros prin conjugarea cu acidul sulfuric și acidul glucoronic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului glucuronic este UDP-glucuronatul",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Neutralizarea produselor de putrefacție a aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enzimele ce participă la detoxifiere sunt produse de către sistemul biliar",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului sulfuric este fosfoadenozinfosfosulfatul (PAPS)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în vezica biliară",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul gros prin conjugarea cu acidul sulfuric și acidul glucoronic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului glucuronic este CDP-glucuronatul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Neutralizarea produselor de putrefacție a aminoacizilor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enzimele de detoxifiere sunt localizate în mitocondrii",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în ficat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului glucuronic este UTP-glucuronatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Forma activă a acidului sulfuric este fosfosulfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul gros prin conjugarea cu acidul sulfuric și acidul glucuronic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică: Glu + NH + ATP → Gln + ADP + H PO",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 3 4 Este catalizată de glutaminsintetaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Are loc doar în ficat și în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gln este forma finală de dezintoxicare a amoniacului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gln este unica formă de transport al NH de la țesuturi spre ficat și rinichi3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție de dezintoxicare finală a amoniacului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Selectați afirmațiile corecte referitor la reacția chimică: Glu + NH + ATP → Gln + ADP + H PO",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "3 3 4 Are loc doar în ficat și rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gln este forma finală de dezintoxicare a amoniacului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gln este unica formă de transport a NH de la țesuturi spre ficat și rinichi3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de glutaminază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție de dezintoxicare temporară a amoniacului",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este catalizată de enzima glutaminaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de sinteză a glutaminei din alfa-cetoglutarat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție de neutralizare temporară a amoniacului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamatkinaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Enzima ce catalizează reacția utilizează ca coenzimă NAD+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q36_prompt_1.png"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este catalizată de enzima glutaminsintetaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de sinteză a glutamatului din glutamină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție de dezintoxicare finală a amoniacului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamatkinaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Enzima ce catalizează reacția utilizează ca coenzimă piridoxalfosfatul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q37_prompt_1.png"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este catalizată de enzima glutamatsintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Estre reacția de sinteză a acidului glutamic din alfa-cetoglutarat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este catalizată de enzima glutamathidrataza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reacția decurge intens în rinichi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Enzima ce catalizează reacția utilizează ca coenzimă NAD+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q38_prompt_1.png"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este principala formă de transport a amoniacului spre rinichi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din acidul aspargic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin carboxilare se transformă în acid gama-carboxiglutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid cetogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q39_prompt_1.png"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Selectați afirmațiile corecte referitor la eliminarea renală a amoniacului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este cuplată cu menținerea echilibrului acido-bazic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În rinichi glutaminaza catalizează reacția: Glu + H O → Gln + NH23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutaminaza nu este prezentă în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este cuplată cu menținerea echilibrului fluido-coagulant",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NH + H + HO → NH OH este reacția de formare a sărurilor de amoniu în rinichi3+-4",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 41,
+    "question": "Selectați afirmațiile corecte referitor la eliminarea renală a amoniacului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este cuplată cu menținerea balanței O /CO22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În rinichi glutaminaza catalizează reacția: Gln + H O → Glu + NH23",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glutaminaza nu este prezentă în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este cuplată cu menținerea echilibrului fluido-coagulant",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NH + H + HO → NH OH este reacția de formare a sărurilor de amoniu în rinichi3+-4",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 42,
+    "question": "Selectați afirmațiile corecte referitor la eliminarea renală a amoniacului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este cuplată cu menținerea balanței O /CO22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În rinichi glutaminaza catalizează reacția: Glu + H O → Gln + NH23",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutaminaza nu este prezentă în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este cuplată cu menținerea echilibrului fluido-coagulant",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NH + H + Cl → NH Cl este reacția de formare a sărurilor de amoniu în rinichi3+-4",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 43,
+    "question": "Câte molecule de ATP sunt necesare pentru sinteza unei molecule de uree?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 44,
+    "question": "Câte legături macroergice sunt utilizate la sinteza unei molecule de uree?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "10",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "6",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "8",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 45,
+    "question": "Selectați afirmațiile corecte referitor la sinteza ureei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Are loc în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decurge parțial în citoplasmă, iar parțial în microsomi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc exclusiv în ficat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este mecanismul de activare a NH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este mecanismul de dezintoxicare finală a acidului uric",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 46,
+    "question": "Selectați afirmațiile corecte referitor la sinteza ureei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este sintetiză acidului uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în toate țesuturile",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Necesită consum de energie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ureea este sintetizată în rinichi și eliminată cu bila",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Urea este un produs toxic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 47,
+    "question": "Selectați afirmațiile corecte referitor la sinteza ureei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Are loc în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decurge parțial în citoplasmă, iar parțial în mitocondrii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în celulele Kupffer din ficat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este mecanismul de activare a NH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează acidul uric",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 48,
+    "question": "Selectați afirmațiile corecte referitor la sinteza ureei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Are loc doar în rinichi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în celulele Kupffer din ficat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este mecanismul de dezintoxicare finală a NH3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Decurge parțial în citoplasmă, iar parțial în microsomi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează acidul uric",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 49,
+    "question": "Selectați afirmațiile corecte referitor la sinteza ureei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ureea este un produs toxic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este sinteza acidului uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nu necesită consum de energie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ureea este sintetizată în ficat și eliminată cu urina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în toate țesuturile",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 50,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Se sintetizează din alfa-cetoglutarat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al glutationului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza ureei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": [
+      "images/q50_prompt_1.png"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Selectați afirmațiile corecte referitor la prima reacție a sintezei ureei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sursă de grupare amino pentru carbamoilfosfat este glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Debutează cu formarea carbamoilfosfatului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino pentru carbamoilfosfat este glutamatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfatul nu este un compus macroergic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pentru sinteza carbamoilfosfatului se utilizează o legătură macroergică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 52,
+    "question": "Selectați afirmațiile corecte referitor la prima reacție a sintezei ureei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sursă de grupare amino pentru carbamoilfosfat este glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Debutează cu oxidarea carbamoilfosfatului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sursă de grupare amino pentru carbamoilfosfat este glutamatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfatul este un compus macroergic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pentru sinteza carbamoilfosfatului se utilizează o legătură macroergică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 53,
+    "question": "Selectați afirmațiile corecte referitor la sinteza carbamoilfosfatului în ciclul ornitinic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "HCO + NH + ATP → carbamoilfosfat + ADP + P3-4+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i HCO + Gln + 2ATP → carbamoilfosfat + Glu + 2ADP + P3-",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i HCO + NH + 2ATP → carbamoilfosfat + 2ADP + P3-4+",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "i HCO + Glu + 2ATP → carbamoilfosfat + alfa-cetoglutarat + 2ADP + P3-",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i HCO + NH + ATP → carbamoilfosfat + AMP + 2P3-4+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 54,
+    "question": "i Selectați afirmațiile corecte referitor la sinteza carbamoilfosfatului în ciclul ornitinic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enzima este aminotranscarbamilaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Enizma este carbamoilfosfatsintetaza II (citoplasmatică)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Enzima este ornitintranscarbamilaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inhibitorul reacției este N-acetilglutamatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Enzima este carbamoilfosfatsintetaza I (mitocondrială)",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 55,
+    "question": "Selectați reacțiile ciclului ornitinic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carbamoilfosfat + ornitină + ATP → citrulină + ADP + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfat + ornitină + 2ATP → citrulină + 2ADP + 2H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfat + ornitină → citrulină + PP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i Citrulină + Asp + ATP → argininosuccinat + ADP + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfat + ornitină → citrulină + H PO34",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 56,
+    "question": "Selectați reacțiile ciclului ornitinic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carbamoilfosfat + ornitină + ATP → citrulină + ADP + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfat + ornitină + 2ATP → citrulină + 2ADP + 2H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfat + ornitină → citrulină + PP",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "i Citrulină + Asp + ATP → argininosuccinat + ADP + H PO34",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citrulină + Asp + ATP → argininosuccinat + AMP + H P O",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 57,
+    "question": "4 2 7 Selectați reacțiile ciclului ornitinic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Argininosuccinat → arginină + fumarat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Arginină → H N-CO-NH + ornitină + H O222",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinat + ATP → arginină + fumarat + AMP + H P O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 Argininosuccinat + H O → arginină + fumarat2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arginină → H N-CO-NH + ornitină22",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 58,
+    "question": "Selectați reacțiile ciclului ornitinic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Arginină → H N-CO-NH + ornitină22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arginină + H O → H N-CO-NH + ornitină222",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinat + H O → arginină + fumarat2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinat + ATP → arginină + fumarat + AMP + H P O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4 2 7 Argininosuccinat + H O → arginină + fumarat2",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 59,
+    "question": "Selectați enzimele ciclului ureogenetic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Asparaginsintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinatdehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininsintaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinatliaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asparaginaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 60,
+    "question": "Selectați enzimele ciclului ureogenetic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Asparaginsintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinathidrolaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininsintaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinatsintetaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asparaginaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 24,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 61,
+    "question": "Selectați enzimele ciclului ureogenetic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Argininosuccinathidrolaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparaginsintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asparaginaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Argininosuccinatdehidrogenaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arginaza",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 24,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 62,
+    "question": "Selectați enzimele ciclului ureogenetic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ornitincarbamoilaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutaminaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carbamoilfosfatsintetaza I",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glutaminsintetaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glutamatdehidrogenaza",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 24,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 63,
+    "question": "Conexiunea dintre ciclul ureogenetic și ciclul Krebs:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Intermediarul comun al ciclurilor este fumaratul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Intermediarul comun al ciclurilor este oxaloacetatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciclul Krebs furnizează FADH necesar pentru sinteza ureei2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciclul Krebs furnizează NADPH necesar pentru sinteza ureei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fumaratul din ciclul Krebs este utilizat pentru sinteza ureei",
+        "correct": false,
+        "image_only": false,
+        "image": "images/q63_option5.png"
+      }
+    ],
+    "source_page": 25,
+    "warnings": [
+      "у вариантов [5] есть и текст, и изображение"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 64,
+    "question": "Conexiunea dintre ciclul ureogenetic și ciclul Krebs:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Intermediarul comun al ciclurilor este aspartatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Intermediarul comun al ciclurilor este oxaloacetatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciclul Krebs asigură sinteza ureei cu ATP",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ciclul Krebs furnizează NADPH necesar pentru sinteza ureei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fumaratul din ciclul Krebs este utilizat pentru sinteza ureei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 25,
+    "warnings": [],
+    "question_images": []
+  }
+]
