@@ -1,19 +1,30 @@
-
 .test-page {
+    /* Основные цвета и переменные темы */
     --test-primary: #426b52;
     --test-primary-hover: #34553f;
     --test-border: #e4e8e3;
     --test-muted: #737b74;
     --test-bg: #f5f7f4;
+    --test-card-bg: #ffffff;
+    --test-text-color: #202720;
+
+    /* Состояния ответов */
+    --test-correct-border: #22a06b;
+    --test-correct-bg: #e8f7ef;
+    --test-incorrect-border: #d92d20;
+    --test-incorrect-bg: #fff0ef;
 
     min-height: 100vh;
     padding: 36px 20px 64px;
     background: var(--test-bg);
-    color: #202720;
+    color: var(--test-text-color);
     font-family: inherit;
 }
 
-.test-page * {
+.test-page,
+.test-page *,
+.test-page *::before,
+.test-page *::after {
     box-sizing: border-box;
 }
 
@@ -31,6 +42,7 @@
     color: var(--test-muted);
     font-size: 14px;
     text-decoration: none;
+    border-radius: 4px;
 }
 
 .test-back-link:hover {
@@ -111,7 +123,7 @@
     padding: clamp(20px, 4vw, 38px);
     border: 1px solid var(--test-border);
     border-radius: 20px;
-    background: #fff;
+    background: var(--test-card-bg);
     box-shadow: 0 8px 30px rgb(25 45 25 / 4%);
 }
 
@@ -133,6 +145,7 @@
 .text-button {
     padding: 7px 0;
     border: 0;
+    border-radius: 4px;
     background: transparent;
     color: var(--test-primary);
     font: inherit;
@@ -192,7 +205,7 @@
     padding: 13px 16px;
     border: 1px solid var(--test-border);
     border-radius: 12px;
-    background: #fff;
+    background: var(--test-card-bg);
     color: inherit;
     text-align: left;
     font: inherit;
@@ -223,7 +236,7 @@
     flex-shrink: 0;
     border: 1px solid #dce2da;
     border-radius: 8px;
-    background: #fff;
+    background: var(--test-card-bg);
     color: #687168;
     font-size: 12px;
     font-weight: 700;
@@ -233,6 +246,37 @@
     border-color: var(--test-primary);
     background: var(--test-primary);
     color: #fff;
+}
+
+/* Исправленные состояния правильного и неправильного ответа */
+.answer-option.is-correct {
+    border-color: var(--test-correct-border);
+    background: var(--test-correct-bg);
+    box-shadow: none; /* Сбрасывает инсетную обводку от .selected */
+}
+
+.answer-option.is-correct .option-marker {
+    border-color: var(--test-correct-border);
+    background: var(--test-correct-border);
+    color: #fff;
+}
+
+.answer-option.is-incorrect {
+    border-color: var(--test-incorrect-border);
+    background: var(--test-incorrect-bg);
+    box-shadow: none; /* Сбрасывает инсетную обводку от .selected */
+}
+
+.answer-option.is-incorrect .option-marker {
+    border-color: var(--test-incorrect-border);
+    background: var(--test-incorrect-border);
+    color: #fff;
+}
+
+.answer-feedback {
+    margin-top: 1rem;
+    font-size: 0.95rem;
+    color: var(--test-muted);
 }
 
 .option-content {
@@ -300,7 +344,7 @@
 
 .secondary-button {
     border-color: var(--test-border);
-    background: #fff;
+    background: var(--test-card-bg);
     color: #303930;
 }
 
@@ -333,11 +377,12 @@
     min-height: 46px;
     border: 1px solid var(--test-border);
     border-radius: 9px;
-    background: #fff;
+    background: var(--test-card-bg);
     color: #3b443b;
     font: inherit;
     font-size: 14px;
     cursor: pointer;
+    transition: border-color 150ms ease, background 150ms ease;
 }
 
 .question-grid-item:hover {
@@ -396,6 +441,17 @@
     margin-top: 28px;
 }
 
+/* Навигация с клавиатуры (A11y) */
+.answer-option:focus-visible,
+.test-button:focus-visible,
+.text-button:focus-visible,
+.test-back-link:focus-visible,
+.question-grid-item:focus-visible {
+    outline: 2px solid var(--test-primary);
+    outline-offset: 2px;
+}
+
+/* Адаптивность для мобильных устройств */
 @media (max-width: 600px) {
     .test-page {
         padding: 22px 12px 40px;
@@ -440,4 +496,31 @@
     .question-navigation .test-button {
         flex: 1;
     }
+}
+
+/* Поддержка настроек уменьшения движения в ОС */
+@media (prefers-reduced-motion: reduce) {
+    .test-progress-fill,
+    .answer-option,
+    .test-button,
+    .question-grid-item {
+        transition: none;
+    }
+}
+
+.option-content {
+    display: flex;
+    min-width: 0;
+    width: 100%;
+}
+
+.option-image {
+    display: block !important;
+    width: auto !important;
+    height: auto !important;
+    max-width: 100%;
+    max-height: 220px;
+    object-fit: contain;
+    visibility: visible !important;
+    opacity: 1 !important;
 }

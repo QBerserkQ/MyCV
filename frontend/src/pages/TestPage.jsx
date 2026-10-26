@@ -2,9 +2,28 @@ import { useMemo, useState } from "react";
 import questionsData from "@/dataJson/q1.json";
 import "./TestPage.css";
 
-const questions = Array.isArray(questionsData)
+function shuffleOptions(options = []) {
+    const shuffled = [...options];
+
+    // Fisher–Yates: amestecare uniformă a variantelor
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+
+    return shuffled;
+}
+
+const sourceQuestions = Array.isArray(questionsData)
     ? questionsData
     : questionsData.questions ?? [];
+
+// Ordinea se amestecă o singură dată la încărcarea paginii,
+// iar proprietatea option.correct rămâne atașată variantei corecte.
+const questions = sourceQuestions.map((question) => ({
+    ...question,
+    options: shuffleOptions(question.options),
+}));
 
 function getImageUrl(path) {
     if (!path) return "";
@@ -102,6 +121,7 @@ function TestPage() {
     }
 
     const selectedOptions = answers[currentQuestion?.id] ?? [];
+    const feedbackShown = selectedOptions.length > 0;
 
     return (
         <main className="test-page">
@@ -259,13 +279,20 @@ function TestPage() {
                         {currentQuestion.options.map((option, index) => {
                             const selected = selectedOptions.includes(index);
 
+                            const optionClass = [
+                                "answer-option",
+                                selected ? "selected" : "",
+                                feedbackShown && option.correct ? "is-correct" : "",
+                                feedbackShown && selected && !option.correct
+                                    ? "is-incorrect"
+                                    : "",
+                            ].filter(Boolean).join(" ");
+
                             return (
                                 <button
-                                    key={index}
+                                    key={`${currentQuestion.id}-${index}`}
                                     type="button"
-                                    className={`answer-option ${
-                                        selected ? "selected" : ""
-                                    }`}
+                                    className={optionClass}
                                     onClick={() => selectOption(index)}
                                     aria-pressed={selected}
                                 >
@@ -293,6 +320,14 @@ function TestPage() {
                             );
                         })}
                     </div>
+
+                    {feedbackShown && (
+                        <p className="answer-feedback" aria-live="polite">
+                            Verde — răspuns corect. Roșu — ai selectat un răspuns greșit.
+                            {isMultipleChoice(currentQuestion) &&
+                                " Poți selecta sau deselecta în continuare variante."}
+                        </p>
+                    )}
 
                     <footer className="question-navigation">
                         <button
@@ -337,3 +372,4 @@ function TestPage() {
 }
 
 export default TestPage;
+

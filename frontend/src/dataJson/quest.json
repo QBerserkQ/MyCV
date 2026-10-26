@@ -1,0 +1,3553 @@
+[
+  {
+    "id": 1,
+    "question": "Инструкция к тесту Автор: Lion, The King 16:39:00 Biochimie II (Digestia, Absorbția, Transportul, Metabolismul Aminoacizilor Nearomatici și Rolul THF ) Biochimie II (Digestia, Absorbția, Transportul, Metabolismul Aminoacizilor Nearomatici și Rolul THF ) Selectați funcțiile biologice ale proteinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Electric izolatoare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Structurală",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coenzimatică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Osmotică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Genetică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+      "images/q1_prompt_1.png",
+      "images/q1_prompt_2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Care din următoarele răspunsuri nu se referă la funcțiile proteinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hormonală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Catalitică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vitaminică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Structurală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Contractilă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Selectați aminoacizii semidispensabili:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Leucina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Serina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arginina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidul aspartic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alanina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Selectați aminoacizii semidispensabili:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Histidina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Treonina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Serina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lizina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Selectați aminoacizii care determină valoarea biologică a proteinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tirozina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lizina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul aspartic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Absorbția aminoacizilor (AA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este dependentă de concrentrația Ca++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul gros",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Există sisteme specifice de transport pentru AA înrudiți structural",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se începe în stomac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este dependentă de concrentrația de K+",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Absorbția aminoacizilor (AA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "AA sunt absorbiți prin difuzie simplă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "ATP-sintaza este implicată în transportul AA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La transportul AA are loc simportul AA și a Na și necesită ATP+",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "La transportul AA are loc antiportul AA și a Na și nu necesită ATP+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AA sunt transportați de GLUT-2",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Absorbția aminoacizilor (AA):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este dependentă de concentrația Ca++",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este dependentă de concentrația K+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul gros",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nu există sisteme specifice de transport pentru AA înrudiți structural",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are loc în intestinul subțire",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Ciclul gama-glutamilic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enzima-cheie a ciclului este glutation-S-transferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un mecanism de transport al aminoacizilor din sânge în țesuturi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cofactorul enzimei este acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decurge fără utilizare de energie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cofactorul enzimei este Coenzima-A",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Ciclul gama-glutamilic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enzima-cheie a ciclului este gama-glutamil transferaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este un mecanism de transport al glucozei prin membranele celulare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cofactorul enzimei este acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este mecanismul principal al absorbției aminoacizilor din intestin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cofactorul enzimei este vit. A",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Ciclul gama-glutamilic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enzima-cheie a ciclului este glutation-S-transferaza",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este un mecanism de transport al glucozei prin membranele celulare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cofactorul enzimei este tripeptida glutation (GSH)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Decurge fără utilizare de energie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cofactorul enzimei este acidul glutamic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Utilizarea aminoacizilor (AA) în țesuturi:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "AA nu pot fi transformați în glucoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți AA pot fi utilizați în cetogeneză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți AA pot fi oxidați până la CO și H O22",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Scindarea AA nu generează energie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza bilirubinei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Utilizarea aminoacizilor (AA) în țesuturi:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Toți AA pot fi utilizați pentru sinteza proteinelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Trp și Phe nu se pot oxida până la CO și H O22",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Excesul de AA nu poate fi transformat în grăsimi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "AA catabolizați nu generează energie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți AA pot fi utilizați în gluconeogeneză",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Utilizarea aminoacizilor (AA) în țesuturi:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "La sinteza acidului linoleic și linolenic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La sinteza acidului uric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La sinteza bilirubinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La sinteza vitaminelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La sinteza nucleotidelor și hemului",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Selectați afirmația corectă referitor la conexiunea metabolismului proteic și glucidic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Aminoacizii care se transformă în piruvat nu pot genera glucoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți aminoacizii sunt substraturi pentru gluconeogeneză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glucoza poate fi utilizată pentru sinteza aminoacizilor cetogeni",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aminoacizii esențiali pot fi sintetizați din glucoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aminoacizii ce se transformă în intermediari ai ciclului Krebs pot fi utilizați pentru sinteza glucozei",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Selectați afirmația corectă referitor la conexiunea metabolismului proteic și glucidic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Aminoacizii care se transformă în corpi cetonici pot genera glucoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți aminoacizii sunt substraturi pentru gluconeogeneză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glucoza poate fi utilizată pentru sinteza tuturor aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aminoacizii dispensabili pot fi sintetizați din glucoză",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aminoacizii ce se transformă în intermediari ai ciclului Krebs nu pot fi utilizați pentru sinteza glucozei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Selectați afirmația corectă referitoare la conexiunea metabolismului proteic și lipidic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glicerolul poate fi obținut din aminoacizii cetogeni",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aminoacizii glucogeni pot fi utilizați pentru sinteza glicerol-3-fosfatului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acizii grași nu pot fi sintetizați din aminoacizi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Surplusul de acizi grași poate fi convertit în proteine",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Doar aminoacizii glucogeni pot fi utilizați pentru sinteza acizilor grași",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Selectați afirmația corectă referitoare la conexiunea metabolismului proteic și lipidic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Glicerolul nu poate fi sintetizat din glucoză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toți acizii grași pot fi utilizați în gluconeogeneză",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicerolul poate fi transformat în glucoză",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Surplusul de glucoză nu poate fi convertit în acizi grași",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Doar acizii grași indispensabili pot fi utilizați ca substraturi pentru gluconeogeneză",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Rolul lui HCl în digestia proteinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Determină pH optimal al sucului gastric",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Stimulează formarea pepsinogenului în stomac",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Are rol antiinflamator",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inhibă secreția reninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este emulgator puternic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Rolul lui HCl în digestia proteinelor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Crează pH optimal pentru acțiunea tripsinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activează pepsinogenul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Parțial denaturează carbohidrații alimentari",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activează aminopeptidazele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Crează condiții optimale pentru digestia lipidelor",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Pepsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scindează legăturile peptidice din keratine, histone, protamine și mucopolizaharide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o endopeptidază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Scindează proteinele până la aminoacizi liberi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acționează asupra tuturor legăturilor peptidice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scindează legăturile peptidice la formarea cărora participă grupările –NH ale Phe, Arg și Lys2",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Pepsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scindează legăturile din toți polimeri",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scindează proteinele până la aminoacizi liberi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acționează asupra tuturor legăturilor peptidice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scindează legăturile peptidice la formarea cărora participă grupările –NH ale Phe, Tyr, Trp2",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Pepsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pepsina este secretată sub formă de pepsinogen de celulele principale ale mucoasei pancreatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activarea pepsinogenului constă în scindarea de la capătul C-terminal a unei peptide (42 de aminoacizi)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a pepsinei este 7,0-8,0",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a pepsinei este 1,5-2,5",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pepsina este activată alosteric",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Pepsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pepsina este secretată sub formă de pepsinogen de celulele principale ale mucoasei pancreatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activarea pepsinogenului constă în scindarea de la capătul N-terminal a unei peptide (42 de aminoacizi)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a pepsinei este 7,0-8,0",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a pepsinei este 3,0-4,0",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activarea pepsinei are loc prin fosforilare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Tripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Activarea tripsinogenului are loc sub acțiunea HCl",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este secretată în formă activă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o endopeptidază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a tripsinei este 1,5-2,5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Tripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este o glicozidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tripsinogenul este activat de chimotripsină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a tripsinei este 7,8-8,7",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se secretă în formă activă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Tripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este o glicozidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activarea tripsinogenului are loc sub acțiunea pepsinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a tripsinei este 1.5-2.5",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este secretată sub formă de tripsinogen",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Tripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Se secretă în formă activă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scindează legăturile peptidice la formarea cărora participă grupările –COOH ale Lys și Arg",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a trispinei este 1.5-2.5",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Activitatea tripsinogenului are loc sub acțiunea pepsinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o glicozidază",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Tripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "pH-ul optimal de acțiune a trispinei este 1.5-2.5",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tripsinogenul este activat de enterokinaza",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se secretă în formă activă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o glicozidază",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Chimotripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este secretată de celulele beta ale pancreasului în formă neactivă de chimotripsinogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o endopeptidază",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Enterokinaza activează chimotripsinogenul prin proteoliză parțială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Chimotripsinogenul este activat în jejun",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este secretată de pancreasul în formă activă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Chimotripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este secretată de pancreasul exocrin în formă activă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Enterokinaza activează chimotripsinogenul prin proteoliză parțială",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Chimotripsinogenul este activat în jejun",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este secretată de către pancreas în formă neactivă de chimotripsinogen",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Chimotripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este secretată de pancreasul exocrin în formă activă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o glicozidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "pH-ul optimal de acțiune a chimotripsinei este 1.5-2.5",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scindează legăturile peptidice la formarea cărora participă grupările –COOH ale Phe, Tyr, Trp",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Chimotripsina:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este secretată de pancreasul endocrin în formă neactivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pepsina activează chimotripsinogenul prin fosforilare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Chimotripsinogenul este activat în duoden prin proteoliză parțială sub acțiunea tripsinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este o exopeptidază",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este secretată de celulele epiteliale ale intestinului în formă neactivă de chimotripsinogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Carboxipeptidazele:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scindează legătura peptidică a aminoacidului de la capătul C-terminal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt esteraze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate de către pancreas în formă activă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt endopeptidaze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate de celulele epiteliale ale intestinului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Carboxipeptidazele:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scindează legătura peptidică a aminoacidului de la capătul N-terminal",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt esteraze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate de către pancreasul exocrin în formă neactivă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt endopeptidaze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate de celulele epiteliale ale intestinului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Aminopeptidazele:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scindează legătura peptidică a aminoacidului de la capătul N-terminal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt endopeptidaze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Posedă specificitate absolută de substrat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate de pancreasul exocrin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate în forme neactive",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Aminopeptidazele:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scindează legătura peptidică a aminoacidului de la capătul C-terminal",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt exopeptidaze",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Au specificitate absolută de substrat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate de pancreasul exocrin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate în forme neactive",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Aminopeptidazele:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Scindează legătura peptidică a aminoacidului de la capătul C-terminal",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt endopeptidaze",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Au specificitate absolută de substrat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate de celulele epiteliale ale intestinului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt secretate în formă neactivă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza glicolipidelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component al acidului folic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": [
+      "images/q39_prompt_1.png"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Se sintetizează din oxaloacetat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza metioninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul dopaminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q40_prompt_1.png"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul dopaminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din oxaloacetat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza alaninei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q41_prompt_1.png"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Se sintetizează din cisteină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Poate fi transformat în serină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza colesterolului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q42_prompt_1.png"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este component structural al glutationului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza metioninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza glicolipidelor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urma dezaminării se transformă în oxaloacetat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid cetogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q43_prompt_1.png"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin decarboxilare se transformă în GABA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid glucogen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza inelului purinic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q44_prompt_1.png"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Se sintetizează din oxaloacetat și amoniac",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al glutationului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza inelului pirimidinic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin dezaminare se transformă în alfa-cetoglutarat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q45_prompt_1.png"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin dezaminare se transformă în piruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza inelului pirimidinic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q46_prompt_1.png"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Selectați intermediarul glicolizei, utilizat pentru sinteza aminoacidului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Gliceraldehid-3-fosfat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Piruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fosfoenolpiruvat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dihidroxiaceton-fosfat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3-fosfoglicerat",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q47_prompt_1.png"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza alaninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din 3-fosfoglicerat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q48_prompt_1.png"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Poate fi transformat în glicină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din cisteină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza colesterolului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": [
+      "images/q49_prompt_1.png"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este aminoacid cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urma dezaminării se transformă în oxaloacetat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza glicerofosfolipidelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al glutationului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": [
+      "images/q50_prompt_1.png"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Selectați afirmația corectă referitoare la structura prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este component al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza sfingolipidelor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În urma dezaminării se transformă în alfa-cetoglutarat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": [
+      "images/q51_prompt_1.png"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Referitor la structura chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza serinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "La dezaminare se transformă în oxaloacetat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al glutationului",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": [
+      "images/q52_prompt_1.png"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Referitor la structura chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează din serină și metionină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al acidului folic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": [
+      "images/q53_prompt_1.png"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza serinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul serotoninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid glucoformator",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid dispensabil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": [
+      "images/q54_prompt_1.png"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este component structural al glutationului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin dezaminare se transformă în oxaloacetat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza inelului pirimidinic",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": [
+      "images/q55_prompt_1.png"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Prin decarboxilarea se transformă în GABA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza inelului purinic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid mixt – gluco- și cetogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": [
+      "images/q56_prompt_1.png"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este component structural al acidului folic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin carboxilare se transformă în acid gama-carboxiglutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Se sintetizează prin aminarea acidului glutamic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza ureei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid cetogen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": [
+      "images/q57_prompt_1.png"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este precursorul GABA",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacidul indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza inelului purinic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin dezaminare se transformă în oxaloacetat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": [
+      "images/q58_prompt_1.png"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza creatinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component structural al glutationului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacidul indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza inelului pirimidinic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin dezaminare se transformă în oxaloacetat",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 24,
+    "warnings": [],
+    "question_images": [
+      "images/q59_prompt_1.png"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Selectați compusul chimic care poate fi utilizat pentru sinteza glucozei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q60_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q60_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q60_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q60_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q60_option5.png"
+      }
+    ],
+    "source_page": 24,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 61,
+    "question": "Selectați compusul chimic care poate fi utilizat pentru sinteza glucozei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q61_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q61_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q61_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q61_option4.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q61_option5.png"
+      }
+    ],
+    "source_page": 25,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 62,
+    "question": "Selectați compusul chimic care poate fi utilizat pentru sinteza glucozei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q62_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q62_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q62_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q62_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q62_option5.png"
+      }
+    ],
+    "source_page": 25,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 63,
+    "question": "Selectați compusul chimic care poate fi utilizat pentru sinteza alaninei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q63_option1.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q63_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q63_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q63_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q63_option5.png"
+      }
+    ],
+    "source_page": 25,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 64,
+    "question": "Selectați compusul chimic care poate fi utilizat pentru sinteza alaninei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q64_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q64_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q64_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q64_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q64_option5.png"
+      }
+    ],
+    "source_page": 26,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 65,
+    "question": "Selectați compusul chimic care poate fi utilizat pentru sinteza acidului asparagic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q65_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q65_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q65_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q65_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q65_option5.png"
+      }
+    ],
+    "source_page": 26,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 66,
+    "question": "Selectați aminoacidul precursor în sinteza NO:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q66_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q66_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q66_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q66_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q66_option5.png"
+      }
+    ],
+    "source_page": 27,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": []
+  },
+  {
+    "id": 67,
+    "question": "Selectați rolul metabolic al compusului chimic prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este substrat pentru sinteza NO",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este component al glutationului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 28,
+    "warnings": [],
+    "question_images": [
+      "images/q67_prompt_1.png"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Selectați aminoacidul care poate fi utilizat pentru sinteza aminoacidului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q68_option1.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q68_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q68_option3.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q68_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q68_option5.png"
+      }
+    ],
+    "source_page": 29,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": [
+      "images/q68_prompt_1.png"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Selectați aminoacidul care poate fi utilizat pentru sinteza aminoacidului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q69_option1.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q69_option2.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q69_option3.png"
+      },
+      {
+        "text": "",
+        "correct": true,
+        "image_only": true,
+        "image": "images/q69_option4.png"
+      },
+      {
+        "text": "",
+        "correct": false,
+        "image_only": true,
+        "image": "images/q69_option5.png"
+      }
+    ],
+    "source_page": 30,
+    "warnings": [
+      "5 вариант(а) представлены изображениями или не содержат извлекаемого текста"
+    ],
+    "question_images": [
+      "images/q69_prompt_1.png"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Selectați afirmația corectă referitoare la compusul prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Se sintetizează din cisteină cu participarea N ,N -metilen-THF510",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza cisteinei ca donor de grupare tio",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza metioninei din cisteină ca sursă de sulf",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid proteinogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza catecolaminelor",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 31,
+    "warnings": [],
+    "question_images": [
+      "images/q70_prompt_1.png"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Selectați rolul metabolic al compusului prezentat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Participă la sinteza hemului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Servește ca sursă de sulf pentru cisteină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este donor de grupare metil pentru sinteza timinei din uracil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid cetogen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Participă la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 31,
+    "warnings": [],
+    "question_images": [
+      "images/q71_prompt_1.png"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Este o reacție intermediară în sinteza metioninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În calitate de coenzimă la reacție participă tetrahidrofolatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ca coenzimă la reacție participă tiaminpirofosfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție intermediară în sinteza serinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție intermediară în sinteza cisteinei",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 32,
+    "warnings": [],
+    "question_images": [
+      "images/q72_prompt_1.png"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Referitor la reacția chimică prezentată este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În calitate de coenzimă la reacție participă biotina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este o reacție intermediară în sinteza S-adenozilmetioninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ca coenzimă la reacție participă tiaminpirofosfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În calitate de coenzimă la reacție participă piridoxalfosfatul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este reacția de sinteză a homocisteinei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 32,
+    "warnings": [],
+    "question_images": [
+      "images/q73_prompt_1.png"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Referitor la reacțiile chimice prezentate este corectă afirmația:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sunt reacțiile de sinteză a homocisteinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ca coenzimă la reacții participă tiaminpirofosfatul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În calitate de coenzimă la reacții participă piridoxalfosfatul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sunt reacțiile de sinteză a S-adenozilmetioninei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În calitate de coenzimă la reacții participă biotina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 33,
+    "warnings": [],
+    "question_images": [
+      "images/q74_prompt_1.png"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Selectați vitamina, carența căreia poate conduce la hiperhomocisteinemie:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Biotina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vitamina K",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vitamina B12",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidul pantotenic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nicotinamida",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 33,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 76,
+    "question": "Selectați vitamina, carența căreia poate conduce la hiperhomocisteinemie:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acidul retinoic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul ascorbic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vitamina B6",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tiamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tocoferolul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 33,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 77,
+    "question": "Selectați succesiunea corectă a reacțiilor de sinteză a serinei din 3-fosfoglicerat:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Dehidrogenare, decarboxilare, dezaminare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oxidare, hidroliză, dezaminare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dehidrogenare, transaminare, hidroliză",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hidratare, dezaminare, reducere",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Reducere, dezaminare, hidratare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 34,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 78,
+    "question": "Selectați componentele structurale ale acidului folic:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pirimidina, acidul para-aminobenzoic și acidul glutamic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pteridina, acidul para-aminobenzoic și acidul glutamic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pteridina, acidul benzoic și glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pteridina, acidul para-aminobenzoic și glutamina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pirimidina, acidul para-aminobenzoic și glicina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 34,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 79,
+    "question": "Selectați rolul metabolic al tetrahidrofolatului (THF):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "THF este acceptor de fragmente cu un atom de carbon",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "THF participă la reacții de transaminare a aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF participă la reacții de decarboxilare oxidativă a afla-cetoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF sunt coenzime ale oxidazelor aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF participă la reacții de transfer a radicalilor acil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 34,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 80,
+    "question": "Selectați rolul metabolic al tetrahidrofolatului (THF):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Derivații THF sunt donori de fragmente cu un atom de carbon",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF participă la reacții de izomerizare a aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF participă la reacții de decarboxilare a aminoacizilor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF participă la reacții de transfer a resturilor fosfat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF sunt coenzime ale reductazelor",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 35,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 81,
+    "question": "Care este rolul tetrahidrofolatului (THF) în metabolismul serinei și al glicinei?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "THF este acceptor de grupare metilen în reacția de sinteză a serinei din glicină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF este acceptor de grupare metenil în reacția de sinteză a serinei din glicină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N ,N -metilen-THF este donor de grupare metilen în reacția de sinteză a serinei din glicină510",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "THF este acceptor de grupare metil în reacția de sinteză a glicinei din serină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N -metil-THF este donor de grupare hidroximetil în reacția de sinteză a glicinei din serină5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 35,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 82,
+    "question": "Care este rolul tetrahidrofolatului (THF) în metabolismul metioninei?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "THF este acceptor de grupare metil în reacția de sinteză a homocisteinei din metionină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF este acceptor de grupare metiilen în procesul de transformare a metioninei în cisteină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF este donor de grupare tio în procesul de transformare a metioninei în cisteină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N -metil-THF este donor de grupare metil în reacția de resinteză a metioninei din homocisteină5",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "N ,N -metilen-THF este donor de grupare metilen în reacția de sinteză a homocisteinei din metionină510",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 35,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 83,
+    "question": "Care este rolul tetrahidrofolatului (THF) în metabolismul nucleotidelor purinice?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "THF este acceptor de grupări oxo la catabolismul nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF servesc ca donori de grupări amino la sinteza nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF este acceptor de grupări amino la catabolismul nucleotidelor purinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF sunt surse de atomi de azot pentru nucleul purinic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF sunt surse de atomi de carbon pentru nucleul purinic",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 36,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 84,
+    "question": "Care este rolul tetrahidrofolatului (THF) în metabolismul nucleotidelor pirimidinice?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "N -metil-THF este donor de grupare metil la sinteza nucleotidelor timidilice din cele uridilice5",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivații THF serversc ca donori de grupări amino la sinteza nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF este acceptor de grupări metil la catabolismul nucleotidelor timidilice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "THF este acceptor de grupări amino la catabolismul nucleotidelor pirimidinice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N ,N -metilen-THF este sursă de grupare metil la sinteza nucleotidelor timidilice din cele uridilice510",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 36,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 85,
+    "question": "Selectați gruparea funcțională, care poate fi transferată de tetrahidrofolat (THF):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "–CH3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "–NH2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–COOH",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–CO-CH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–PO H32",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 36,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 86,
+    "question": "Selectați gruparea funcțională, care poate fi transferată de tetrahidrofolat (THF):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "–CONH2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–CH –2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "–CO-CH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–SO H3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–SH",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 37,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 87,
+    "question": "Selectați gruparea funcțională, care poate fi transferată de tetrahidrofolat (THF):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "–CH=",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "=O",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "=NH",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–S-CH3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "–OH",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 37,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 88,
+    "question": "Selectați aminoacidul care servește ca sursă de grupare metilen pentru tetrahidrofolat (THF):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Leu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Met",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gly",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gln",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ile",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 37,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 89,
+    "question": "Selectați aminoacidul care servește ca sursă de grupare metilen pentru tetrahidrofolat (THF):",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ala",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thr",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ser",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Val",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glu",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 38,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 90,
+    "question": "Selectați reacția în care tetrahidrofolatul (THF) este donor de grupare metil:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sinteza glicinei din serină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza cisteinei din serină și homocisteină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza metioninei din homocisteină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza serinei din glicină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza tirozinei din fenilalanină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 38,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 91,
+    "question": "Selectați reacția în care tetrahidrofolatul (THF) este acceptor de grupare metilen:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Sinteza glicinei din serină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza cisteinei din serină și homocisteină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza metioninei din homocisteină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza serinei din glicină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sinteza tirozinei din fenilalanină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 38,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 92,
+    "question": "Selectați coenzima utilizată pentru transformarea prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "NAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tetrahidrofolat (THF)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Biotina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tiaminpirofosfat (TPP)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "FAD",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 39,
+    "warnings": [],
+    "question_images": [
+      "images/q92_prompt_1.png"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Selectați coenzimele utilizate la trasnsformarea prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "FAD, piridoxalsofat (PALP)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "NAD , tiaminpirofosfat (TPP)+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Biotina, NAD+",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "FAD, HS-CoA",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tetrahidrofolat (THF), metilcobalamina",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 39,
+    "warnings": [],
+    "question_images": [
+      "images/q93_prompt_1.png"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Selectați derivatul tetrahidrofolatului (THF) utilizat pentru transformarea prezentată:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "N -formimino-THF5",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N -formil-THF10",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N ,N -metilen-THF510",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N ,N -metenil-THF510",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "N -metil-THF5",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 40,
+    "warnings": [],
+    "question_images": [
+      "images/q94_prompt_1.png"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Selectați afirmațiile corecte referitoare la compusul chimic:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Este aminoacid glucoformator",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nu este prezent în proteine",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este asparagina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Este precursorul hidroxilizinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Este aminoacid indispensabil",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 40,
+    "warnings": [],
+    "question_images": [
+      "images/q95_prompt_1.png"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Selectați afirmațiile corecte referitoare la compusul chimic:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Este prezent doar în proteinele fixatoare de calciu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pentru sinteza acestui compus este necesară vitamina C",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se obține prin modificări posttranslaționale din lizină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se obține prin hidroxilarea lizinei libere, iar apoi se include în lanțul polipeptidic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În cantități mari se conține în colagen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pentru sinteza acestui compus este necesară vitamina K",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nu se conține în proteine",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 41,
+    "warnings": [],
+    "question_images": [
+      "images/q96_prompt_1.png"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Selectați afirmațiile corecte referitoare la compusul chimic:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Este prezent doar în proteinele fixatoare de calciu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pentru sinteza acestui compus este necesară vitamina C",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se obține prin modificări posttranslaționale din prolină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Se obține prin hidroxilarea prolinei libere, iar apoi se include în lanțul polipeptidic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În cantități mari se conține în colagen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pentru sinteza acestui compus este necesară vitamina K",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În cantități mari se conține în toate proteinele",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 41,
+    "warnings": [],
+    "question_images": [
+      "images/q97_prompt_1.png"
+    ]
+  }
+]
