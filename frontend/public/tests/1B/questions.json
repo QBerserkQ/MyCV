@@ -1,0 +1,1196 @@
+[
+  {
+    "id": 1,
+    "question": "Сhimic uleiurile volatile au în componența lor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Terpenoide amare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Terpenoide solubile",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sesquiterpenoide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Terpenoide insolubile",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Terpenoide aromatice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Сhimic uleiurile volatile au în componența lor monoterpenoide:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Tetraciclice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aciclice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Biciclice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Monociclice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Triciclice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Specii bogate în uleiuri volatile se găsesc în familiile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rutaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rubiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Apiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Araliaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Uleiurile volatile se localizează în formaţiunile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Intermediare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Endogene",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aromatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nearomatice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Exogene",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Formaţiunile exogene în care se localizează uleiurile volatile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Glande",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Celule secretoare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pete glandulare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi secretoare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Petele glandulare cu ulei volatil se întîlnesc la:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunze de mentă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Petale de lăcrămioară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de eucalipt",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de anason",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Petale de trandafir",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Glande cu ulei volatil se întîlnesc la:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunze de mentă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Petale de lăcrămioară",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de eucalipt",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de anason",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de jaleș",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Celule secretoare cu ulei volatil se întâlnesc la:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rădăcini de odolean",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rizomi de obligeană",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de eucalipt",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de coriandru",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de roiniţă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Glande cu ulei volatil se întîlnesc la familiile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Myrtaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Apiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Glande formate din 8 celule aşezate în rozetă radial sunt caracteristice pentru familia:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Myrtaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Apiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Glande formate din 6-8 celule, situate câte 2 în 3-4 straturi sunt caracteristice pentru familia:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Myrtaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Apiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Formaţiuni endogene în care se localizează uleiurile volatile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Celule secretoare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Canale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glande secretoare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Terpenoide sunt compuşi la baza cărora stă molecula:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Terpenului (C ₆H ₁₂)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Izoprenului (C ₅H ₈)",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Monoterpenului (C ₁₀H ₁₆)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sesquiterpenului (C ₁₅H ₂₀)",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Triterpenului (C ₃H ₆)",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Indicați, ce grupe de terpenoide întră în componența uleiurilor volatile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Monoterpenoide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Diterpenoide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Triterpenoide",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sesquiterpenoide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Politerpenoide",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Specificați cine a dat definiția pentru terpenoide:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cazimir Funk",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hoagen Smit",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Friedrich Wilhelm Adam Sertürner",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Leopold Ruzicka",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carl Meissner",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Numiți cine a formulat regula izoprenică de biogeneză:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cazimir Funk",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hoagen Smit",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Friedrich Wilhelm Adam Sertürner",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Leopold Ruzicka",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carl Meissner",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "„Regula geraniolului\" – lanţurile izoprenice în molecula terpenoidelor se leagă după modelul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Terpen la geraniol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol la terpen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coadă la coadă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cap la coadă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coadă la cap",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Formarea acidului mevalonic se începe de la condensarea a 3 molecule de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acid acetic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acid cafeic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid clorogenic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid galic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acid galacturonic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Partea volatilă a uleiurilor eterice se numeşte:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Stereopten",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eleopten",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Solidopten",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stearopten",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eteropten",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Partea solidă a uleiurilor volatile se numeşte:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Fluidopten",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eleopten",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Solidopten",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stearopten",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eteropten",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Autenticitatea uleiului volatil se stabileşte prin determinarea:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Culorii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Temperaturii de solidificare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mirosului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gustului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Unghiului de rotaţie",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Ce impurităţi se determină în uleiurule volatile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Alcoolul etilic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Uleiurile grase şi minerale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Săruri minerale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Substanţele amare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Apa",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Ce indici numerici se determină pentru stabilirea calităţii uleiurilor volatile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Densitatea",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Unghiul de rotaţie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Indicele de aciditate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Indicele eteric",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Solubilitatea în apă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Determinarea cantitativă a uleiurilor volatile se efectuează prin metoda:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Volumetrică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Titrimetrică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Titrimetrică indirectă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gravimetrică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fotocolorimetrică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Uleiurile volatile se obţin prin:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Distilarea cu vapori de apă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Extragerea cu solvenţi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Enfleuragel",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Metode biologice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Presare",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Indicați, cu care solvenți se extrag uleiurile volatile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Acid acetic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Apă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acetonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eter etilic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eter de petrol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Notați, prin ce metodă se extrag uleiurile volatile cu grăsimi:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Enfleurageul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Presarea",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Distilarea",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Răzuire",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Macerare",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Care uleiuri volatile au densitatea mai mare de o unitate?",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Scorţişoară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Levănţică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pelin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Garofiţă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Uleiurile volatile sunt solubile în:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Uleiuri grase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Uleiuri minerale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alcool",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eter",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Apă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Uleiurile volatile nu se dizolvă în:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Uleiuri grase",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Uleiuri minerale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alcool",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eter",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Apă",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Selectați plante medicinale cu acțiune galactogogă:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Eucalyptus globulus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Foeniculum vulgare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carum carvi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Salvia officinalis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anisum vulgare",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Selectați plantele medicinale la care frunzele servesc în calitate de produs vegetal:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Anisum vulgare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valeriana officinalis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asarum europaeum",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Betula verrucosa",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acorus calamus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Selectați plantele medicinale la care în calitate de produs vegetal servesc rizomii:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Anisum vulgare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hyssopus officinalis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asarum europaeum",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Betula verrucosa",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acorus calamus",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Selectați plantele medicinale la care în calitate de produs vegetal servesc florile:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rosa damascena",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Calendula officinalis",
+        "correct": true,
+        "image_only": false,
+        "image": "images/q34_option2.png"
+      },
+      {
+        "text": "Asarum europaeum",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandula officinalis",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acorus calamus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [
+      "у вариантов [2] есть и текст, и изображение"
+    ],
+    "question_images": []
+  }
+]

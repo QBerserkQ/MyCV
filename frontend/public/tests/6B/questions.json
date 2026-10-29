@@ -1,0 +1,1695 @@
+[
+  {
+    "id": 1,
+    "question": "Indicați terpenoide aromatice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Timol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eugenol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sabinen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anetol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Vanilină",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Produse vegetale care conţin terpenoide aromatice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Părţi aeriene de sovârv",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori de trandafir",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de ienupăr",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de fenicul",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori de muşeţel",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Selectați produsele vegetale cu uleiuri volatile care conțin terpenoide aromatice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Anisi fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Foeniculi fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coriandri fructus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Selectați produsele vegetale care conţin terpenoide aromatice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Părți aeriene de cimbru",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Părți aeriene de sovârv",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de eucalipt",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de fenicol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de anason",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Selectați produsele vegetale care conţin terpenoide aromatice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Părți aeriene de cimbrișor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Părți aeriene de sovârv",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori de mușețel",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rizomi de pochivnic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de pochivnic",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru busuioc:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Bassilici herba, Ocimum bassilicum, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Basilici herba, Ocimum basilicum, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ocimi basilici herba, Ocimum basilicum, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bazilici fructus, Ocimum bazilicum, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Basilici semen, Ocimum basilicum, Asteraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Produsul vegetal de busuioc se utilizează ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomahic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Diuretic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminativ",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cicatrizant",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anticoagulant",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia la anason:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Anisi officinali fructus, Anisum officinalis, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anisi vulgaris fructus, Anisum vulgare, Apiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anissi vulgaris semen, Anissum vulgare, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anissi officinalis semen, Anissum officinalis, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anisii vulgaris herba, Anisum vulgare, Apiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Indicați care este produsul vegetal la anason:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Ammy visnagae fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anisi vulgaris fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anethhi graveolens fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pastinacae fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Indicați compoziția chimică a uleiului volatil de anason:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Anetol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aldehida decilenică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aldehida anisică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Camazulena",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Estragol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Produsul vegetal de anason posedă proprietăți:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomahice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminative",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eupeptice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Galactogoge",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hipotensive",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Infuzia din fructe de anason stimulează secreția:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Salivară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gastrică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mamară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Biliară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sudoripară",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Indicați preparatele în componența cărora intră fructele de anason:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Carbosif",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Depuraflux",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Solutan",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gastrosedol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Strepsils classic",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Indicați unde este localizat uleiul volatil în fructele de anason:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pe epidermă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În canale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În hipodermă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În pungi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În glande",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia la fenicul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Foeniculi fructus, Foeniculum vulgare, Apiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Feniculi fructus, Feniculum vulgare, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Foeniculi flos, Foeniculum officinalis, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Foeniculi fructus, Foeniculum officinale, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Feniculi herba, Feniculum vulgare, Apiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Indicați care este produsul vegetal la fenicul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Foeniculi fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anisi vulgaris fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anethhi graveolens fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coriandri fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Indicați componentul principal al uleiului volatil de fenicul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Anetol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Farnezol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gențiogenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Primulagenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Indicați componenții secundari al uleiului volatil de fenicul:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Trans-farnezol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Metilcavicol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Estragol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cis-anetol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Produsul vegetal de fenicul este utilizat ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Digestiv",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminativ",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Galactogog",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Diuretic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ocitocic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Fructele de fenicul împreună cu fructele de chimen se administrează ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Vasodilatator",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carminativ",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Galactogog",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antinevralgic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vasoconstrictor",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Indicați preparatele în componența cărora intră fructele de fenicul:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Fructe de fenicul, produs vegetal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminativum Babynos",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flamin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Normoponderol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanalbin",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Indicați elementele microscopice, caracteristice pentru fructele de fenicul:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Canale cu ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glande cu ulei volatil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fascicule conducătoare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi cu ulei volatil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Canale secretorii",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru cimbru:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Timi vulgaris herba, Timus vulgaris, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thimi vulgaris flos, Thimus vulgaris, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi vulgaris herba, Thymus vulgaris, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Thymi serpylli herba, Thymus serpyllum, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi herba, Thymus officinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Indicați compoziția chimică a produsului vegetal de cimbru:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Alcaloizi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanin",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flavonozide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Saponozide",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Indicați compoziția chimică a uleiului volatil de cimbru:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Timol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Farnezol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gențiogenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Timol-metil-eter",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carvacrol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Notați proprietățile componentului principal al uleiului volatil de cimbru:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Antibacteriene",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Expectorante",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antidiabetice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antimicotice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antihelmintice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Produsul vegetal de cimbru, sub formă de infuzie și extract fluid, se întrebuințează în:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Tuse",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bronșite",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tuse convulsivă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Constipații",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hemoragii",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Indicați preparatele în componența cărora intră produsul vegetal de cimbru:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Pertusin",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bronchipret",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Herbion",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carmol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanalbin",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Indicați acțiunea preparatului Pertusin:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Analgezică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hipotensivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vasodilatatoare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Expectorantă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Diuretică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Indicați preparatul în componența căruia intră Extractum Thymi vulgaris sau Thymi serpylli:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mucaltin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Romasulan",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pertusin",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Camilosan",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tanalbin",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Caracterele microscopice ale cărui produs sunt reprezentate în imagine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Absinthii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi vulgaris herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Menyanthidis folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Urticae folium",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": [
+      "images/q31_prompt_1.png"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Indicați elementele microscopice caracteristice pentru frunzele de cimbru:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Glande cu ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri geniculaţi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri papilari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Celule cu ulei volatil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Perii tectori ”geniculați” sunt caracteristici pentru produsul vegetal:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Serpylli herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi vulgaris herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Origani vulgaris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae herba",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Perii papilari monocelulari sunt caracteristici pentru produsul vegetal:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Serpylli herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi vulgaris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Origani vulgaris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae herba",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru cimbrișor:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Serpylli herba, Thymus serpyllum, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Thimi serpylli flos, Thimus serpyllum, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Serpili herba, Tymus serpilus, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Serpilli fructus, Tymus serpillum, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi serpylli folium, Thymus serpyllum, Asteraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Indicați compoziția chimică a uleiului volatil de cimbrișor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Camazulenă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Farnezol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gențiogenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Timol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carvacrol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Notați proprietățile farmacologice a produsului vegetal de cimbrișor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomahice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Expectorante",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antidiabetice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antispastice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coleretice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Indicați preparatele în componența cărora intră produsul vegetal de cimbrișor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Părți aeriene de cimbrișor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Codelac",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carbocif",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ceai sedativ",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pertusin",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Numiți elementele microscopice caracteristice pentru frunzele de cimbrișor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Glande cu ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri geniculaţi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peri papilari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi cu ulei volatil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 40,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru sovârv:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Origani vulgaris herba, Origanum vulgaris, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Orygani officinali flos, Oryganum officinalis, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Origani officinalis herba, Origanum officinalis, Ateraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Orygani vulgaris folium, Oryganum vulgaris, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Origani vulgaris herba, Origanum vulgaris, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 41,
+    "question": "Notați componenții principali ai uleiului volatil de sovârv:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Timol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Farnezol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gențiogenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camazulena",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvacrol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 42,
+    "question": "Produsul vegetal de sovârv posedă acțiune:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Antiseptică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antispastică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antimicrobiană",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anticoagulantă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stomahică",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 43,
+    "question": "Indicați speciile în compoziția cărora se găsește produsul vegetal de sovârv:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Antibronșitice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sudorifice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sedative",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Laxative",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antihemoroidale",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 44,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eugenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Timol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anetol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q44_prompt_1.png"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eugenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Timol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anetol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q45_prompt_1.png"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eugenol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Timol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anetol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q46_prompt_1.png"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Selectați din imagine formula de structură a timolului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q47_prompt_1.png"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Selectați din imagine formula de structură a carvacrolului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q48_prompt_1.png"
+    ]
+  }
+]

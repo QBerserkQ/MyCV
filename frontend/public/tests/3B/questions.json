@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "question": "Monoterpenoidele monociclice au formula generală:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "C ₆H₁₂",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₈H₁₄",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₀H₁₆",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₂H₁₈",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₆H₂₂",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectaţi monoterpenoide monociclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Carvonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentan",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Matricină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Selectaţi monoterpenoide monociclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Limonen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ledol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Indicați produsele vegetale cu uleiuri volatile care conțin monoterpenoide monociclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Menthae herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanaceti flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salviae folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae flos recens",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Produse vegetale care conţin monoterpenoide monociclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunze de salvie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori de vetrice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de ienupăr",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de chimen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de eucalipt",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Selectaţi produsul vegetal, planta producătoare și familia pentru izmă bună:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentae piperitae folium, Mentae piperitae, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentha piperitae folium, Menthae piperitae, Menthaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Menthae piperitae folium seu herba, Mentha piperita, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Menthae piperitae folium seu herba, Mentha piperita, Menthaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Menta piperita herba, Mentae piperitae, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Componentul principal al uleiului volatil de mentă:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Metilen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Metilol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentan",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Frunzele de mentă se prescriu sub formă de infuzie ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Spasmolitic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antitumoral",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Colagog",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antiemetic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Laxativ",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Elementele microscopice caracteristice pentru frunza de mentă:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomate cu 2 celule anexe",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glande cu ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri verucoși",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peri tectori 2-5-celulari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Selectați caracterele macroscopice la produsul vegetal de izmă bună:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunzele ovale sau lanceolate, acuminate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Marginea frunzei neegal serată",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunzele de culoare verde-închisă cu miros aromat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunzele cordate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunzele pubescente, cenușii",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Selectaţi produsul vegetal, planta producătoare și familia pentru jaleș:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Salviae folium seu herba, Salvia oficinalis, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salviae folium, Salvia officinalis, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Salviae folium seu flos, Salvia oficinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salvia folium, Salviae oficinala, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salvia folium seu flos, Salviae officinalis, Salicaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Indicați produsul vegetal pentru Salvia officinalis:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Salviae radix",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salviae herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salviae folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Salviae flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salviae fructus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Componentul principal al uleiului volatil de jaleș:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Citral",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Citronelal",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mircenă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sabinen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Extractul de salvie se utilizează:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ca antiinflamator bucal și faringian",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În gingivite, stomatite",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În tratamentul reumatismului articular",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ca antiseptic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pentru umectarea crustelor",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Produsul vegetal de salvie se folosește sub formă de infuzie, decoct sau extract fluid ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Hipoglicemiant",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antitumoral",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coleretic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antinevralgic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Vasodilatator",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Selectați preparate medicamentoase cu conținut de salvie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunze de salvie, produs vegetal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bronchophyt, sirop",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Extract de salvie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Dr. Theiss Angi Sept cu aromă de salvie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Novo-Passit",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Caracterele microscopice ale cărui produs vegetal sunt reprezentate în imagine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Malvae folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salviae folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eucalypti folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Urticae folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Leonuri folium",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": [
+      "images/q17_prompt_1.png"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Elementele microscopice caracteristice pentru frunza de salvie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Peri tectori",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Canale eterouleioase",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glande eterouleioase 8-celulare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri fasciculați",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Selectați caracterele macroscopice la produsul vegetal de salvie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Culoarea produsului vegetal verde-cenușie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze ovate sau lanceolate, toate nervurile sunt imprimate pe fața superioară și proeminente pe cea inferioară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ambele fețe ale frunzelor sunt pubiscente, mai ales cea inferioară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fructul – pseudobacă globuloasă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bulbi mari ovați, acoperiți cu solzi",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Selectaţi varianta corectă:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Eucalipti folium, Eucaliptus globulus, Euphorbiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalipti herba, Eucaliptus globulus, Euphorbiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalypti folium, Eucalyptus globulus, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalypti folium, Eucalyptus globulus, Myrtaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eucalypthi folium, Eucalypthus globulus, Malvaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Indicați produsul vegetal pentru Eucalyptus globulus:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Eucalypti herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalypti flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalypti folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eucalipti radix",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalipti rhizoma",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Indicați componentul principal al uleiului volatil de eucalipt:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ciston",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Citizină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Emodol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Uleiul volatil de eucalipt se întrebuințează:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "În afecțiunile căilor respiratorii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În bronșite purulente",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În tratareae alopeciei areate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În abscese pulmonare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pentru stimularea contracțiilor mușchiului uterin",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Uleiul volatil de eucalipt întră în componența preparatelor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ingalipt",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanalbin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalipt M",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Clorofilipt",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eucalivit",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Caracterele microscopice ale cărui produs vegetal sunt reprezentate în imagine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Menthae piperitae folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Salviae folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalypti folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Urticae folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Leonuri folium",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": [
+      "images/q25_prompt_1.png"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Ce formațiune a țesutului secretor este în imagine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pungă schizogenă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungă lizigenă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Laticifere",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Canal secretor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glandă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": [
+      "images/q26_prompt_1.png"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Еlementele microscopice caracteristice pentru frunza de eucalipt:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Țesut palisadic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Țesut lacunar",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi eterouleioase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glande eterouleioase",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Canale cu ulei volatil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Selectați caracterele macroscopice la produsul vegetal de Eucalyptus globulus:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunzele colectate de pe ramurile tinere sunt eliptice, elipsoidale, la bază cardiace, fără pițiol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunzele ramurilor bătrâne sunt alungit-lanceolate, încovoiate cu pețiol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rizomul este vertical, conusoidal, în partea inferioară îngust",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini adventive numeroase, subțiri și lungi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Culoarea produsului vegetal – galbenă sau cafenie-cenușie",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Indicați la ce înălțimi poate să ajungă eucaliptul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "80-100 m",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "15-20 m",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "50-70 m",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "100-120 m",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "30-40 m",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Heterofilia la eucalipt se manifestă prin prezența a:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "2 tipuri de inflorescențe",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3 tipuri de inflorescențe",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2 tipuri de fructe",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2 tipuri de frunze",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2 tipuri de flori",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "De la care specii de eucalipt se colectează frunzele?",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Eucalyptus canescens",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalyptus globulus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eucalyptus cinerea",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eucalyptus officinalis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eucalyptus viminalis",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Selectaţi produsul vegetal, planta producătoare și familia pentru chimen:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carvi semen, Carum carvi, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus, Carum carvi, Apiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carvy fructus, Carum carvy, Caprifoliaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvy fructus, Carum carvy, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi semen, Carum carvi, Caprifoliaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Indicați produsul vegetal pentru chimen:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carvi flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi rhizoma",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carvi radix",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Componenții principali ai uleiului volatil de chimen:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Tuionă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Limonen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gențiogenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Preparatele din chimen au acțiune:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Gonadotropă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carminativă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hemostratică uterină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stomahică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Galactogogă",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Selectați caracterele macroscopice la produsul vegetal de chimen:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Fructul este diachenă, format din două mericarpe libere",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mericarpele sunt alungite, elipsoidale, ușor arcuite, turtite lateral",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Partea exterioară a mericarpului este bombată, cu 5 coaste longitudinale evidente",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Panerașe solitare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Florile marginale sunt ligulate, cele centrale sunt tubulare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentan",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Limonen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Timol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": [
+      "images/q37_prompt_1.png"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "β-terpinen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "α-felandren",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Limonen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "β-felandren",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q38_prompt_1.png"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "β-terpinen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camazulen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acorona",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "β-felandren",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": [
+      "images/q39_prompt_1.png"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1,4-cineol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "1,8-cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Amazulena",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvacrol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q40_prompt_1.png"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Selectați din imagine formula de structură a mentanului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q41_prompt_1.png"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Selectați din imagine formula de structură a mentolului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q42_prompt_1.png"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Selectați din imagine formula de structură a 1,4-cineolului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q43_prompt_1.png"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Indicați monoterpenoide monociclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q44_prompt_1.png"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Selectați din imagine componentii principali ai uleiului volatil din chimen:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q45_prompt_1.png"
+    ]
+  }
+]

@@ -1,0 +1,2075 @@
+[
+  {
+    "id": 1,
+    "question": "Indicați formula generală pentru sesquiterpenoide:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "C ₆H₁₂",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₅H₂₄",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₀H₁₆",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₂H₁₈",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₆H₂₂",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectați cum pot fi sesquiterpenoidele:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Aciclice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ciclice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Monociclice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Biciclice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Triterpenice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Izovalerianatul de bornil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul galic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul crizantemic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camazulena",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Salipurpozida",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+      "images/q3_prompt_1.png"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Selectați sesquiterpenoide:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Acoran",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Damaran",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Matricină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Camazulenă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coniină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Selectați produsele vegetale cu uleiuri volatile care conțin sesquiterpenoide:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Origani vulgaris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arnicae flos",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Chamomillae flos",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Betulae gemma",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Produse vegetale care conţin sesquiterpenoide:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Părţi aeriene de coada şoricelului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori de muşeţel",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de coriandru",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rizomi și rădăcini de iarbă mare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de eucalipt",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru mușețel:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Chamomillae folium, Camomilla recutita, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Chamomillae flos, Camomilla recutita, Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Chamomillae flos, Camomilla recutita, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Chamomillae folium, Recutita camomilla, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Chamomillae flos, Recutita camomilla, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Numiți prochamazulene din uleiul volatil de mușețel:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Matricina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Chinazolina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Matricarina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Teobromina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Quercetolul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Numiți componenții chimici din produsul vegetal de mușețel:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flavonozide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antracenderivați",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cumarine",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alcaloizi",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Selectați când se face recoltarea florilor de mușețel:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "După ce se ridică roua",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Manual sau cu ajutorul unor peptene",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În timp ploios",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În zile senine și calde",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Toamna târziu",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Produsul vegetal de mușețel posedă proprietăți:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Antiinflamatoare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cicatrizante",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antialergice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Spasmolitice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Revulsive",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Numiți prin ce principii active florile de mușețel manifestă acțiune spasmolitică:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Alcaloizi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Flavonozide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cumarine",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Substanțe tanante",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivați ai antracenului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Datorită proazulenelor produsul vegetal de mușețel are acțiune:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Purgativă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stomahică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminativă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Laxativă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antiscorbutică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Numiți preparatele în compoziția căror intră produsul vegetal de mușețel:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Kamillosan",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Romazulan",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Corglicon",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rotocan",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mucaltin",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Indicați în compoziția căror specii medicinale intră produsul vegetal de mușețel:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Specie gastrointestinală",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie coleretică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie antihemoragică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Specie pectorală",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Arfasetin",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Numiți forme homeopate cu flori de mușețel ce stimulează rezistența organismului la copii:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Enterokind, picături orale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Kindinorm, granule",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mucaltin, comprimate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dentokind, comprimate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori de muşeţel, produs vegetal",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Indicați caracterele microscopice ale cărui produs sunt reprezentate în imagine?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rosae flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arnicae flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camomillae flos",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Taraxaci flos",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": [
+      "images/q17_prompt_1.png"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Elementele microscopice caracteristice pentru florile de mușețel:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Peri tectori",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Canale eterouleioase",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glande eterouleioase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi eterouleioase",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Menționați ce culoare are uleiul volatil de mușețel:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Verde-închis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Galbenă-deschis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Incoloră",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oranj",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Albastru-deschis",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru arnică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Arnicae herba, Arnica officinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arnicae flos, Arnica silvestris, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arnicae folium, Arnica silvestris, Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arnicae flos, Arnica montana, Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arnicae flos, Arnica montana, Asteraceae",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Numiți componenții principali ai uleiului volatil din grupul proazulenelor, care determină acțiunea specifică a arnicăi:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Aralozida",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Arniflorina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Helenalina acetat",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Arnicolida",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alantolactona",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Selectați ce acțiune manifestă produsul vegetal de arnică:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Galactogogă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Revulsivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ocitocică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Vasoconstrictoare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Vulnerară",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Numiți medicamente homeopate cu conținut de arnică:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Arnica-Heel, picături orale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Populeum, unguent",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Guna Anti Age Vein, soluție",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cerebrum compositum",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pumpan, picături orale",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Indicați, în amestec cu ce subtanță tinctura de arnică are proprietatea de a decongestiona loviturile:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Infuzie de mușețel",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Decoct din muguri de plop",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Apa de plumb",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tinctură de odolean",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Albastru de metilen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Indicați ce culoare are uleiul volatil de arnică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Verde-închis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Galbenă-deschis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Roșu-aprins",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Portocalie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Albastru-deschis",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru iarbă mare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Inulae rhizoma, Inula elenium, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inula radix, Inula helenium, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inulae rhizoma et radix, Inula elenium, Iridaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inulae rhizoma et radix, Inula helenium, Iridaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inulae rhizoma et radix, Inula helenium, Asteraceae",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Numiți componențul principal al uleiului volatil de iarbă mare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Amirina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Helenina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Helicrizina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Azarona",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aloina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Numiți componentele heleninei în rizomii și rădăcinile de iarbă mare:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Alantolactona",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Izoalantolactona",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Helidonina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Dihidroizoalantolactona",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aloina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Cum se numește uleiul din produsul vegetal de iarbă mare, care la rece depune o masă cristalină solidă:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Alantoină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camfor de inulă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aloină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Helenină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Damarandiol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Produsul vegetal de iarbă mare posedă proprietăți:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Expectorante",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antiseptice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antihelmintice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hipotensivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antiinflamatoare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Numiți preparate medicamentoase din produsul vegetal de iarbă mare cu acțiune expectorantă:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rizomi şi rădăcini de iarbă mare, produs vegetal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Helenium, produs vegetal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Romazulan, soluție orală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Kamillosan, spray",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bronchophyt, sirop",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Indicați unde este localizat uleiul volatil în rădăcina de iarbă mare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pe epidermă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În fascicule colaterale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În hipodermă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În pungi secretorii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În endodermă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Caracterele microscopice ale cărui produs sunt reprezentate în imagine?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Betulae folia",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Althaeae radices",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Betulae gemmae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inulae radices",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Taraxaci radices",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": [
+      "images/q33_prompt_1.png"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Selectați elementele microscopice caracteristice pentru rădăcina de iarbă mare:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Vase lemnoase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Canale eterouleioase",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Parenchim din celule mășcate, cu inulină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi eterouleioase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Raze medulare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Selectați produsele vegetale, planta producătoare şi familia pentru mesteacăn:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Betullae gemae, Betulla verucosa, Salicaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Betulae folium, Betula verrucosa, Betulaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Betulae gemma, Betula verrucosa, Betulaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Betulae succus, Betula verrucosa, Betulaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bethulae gemma, Bethula verrucosa, Salicaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Indicați componenții uleiului volatil din produsul vegetal de mesteacăn:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Betulină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Baicalinol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Borneol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Betulinol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Harmol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Indicați prin care principii active produsul vegetal de mesteacăn manifestă acțiunea diuretică:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flavonoide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Taninuri",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cariofilen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Compuși triterpenici",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Numiți preparate medicamentoase cu mesteacăn:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Clorofilipt, soluție",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de mesteacăn, produs vegetal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Normoponderol, comprimate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Uroflux, soluție",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie diuretică",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Indicați în ce cazuri este eficientă administrarea sucului de mesteacăn:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Calculoză biliară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Calculoză renală",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Afecțiuni infecțioase ale căilor urinare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Afecțiuni inflamatorii ale căilor urinare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Insuficiență cardiacă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 40,
+    "question": "Menționați în componența căror specii intră mugurii și frunzele de mesteacăn:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Diuretice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Colagoge",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antihemoroidale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cardiace",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vitaminice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 41,
+    "question": "Numiți preparate medicamentoase cu conținut de gudron de mesteacăn:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Liniment Wishnevsky",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anti-P, soluție",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Normoponderol, comprimate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Uroflux, soluție",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Specie diuretică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 42,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru obligeană:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Calami radix, Acorus calamus, Araliaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calami rhizoma et radix, Acorus calamus, Araliaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calami rhizoma, Acorus calamus, Araceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Calami fructus, Acorus calamus, Araliaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calami folium, Acorus calamus, Araceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 43,
+    "question": "Selectați din ce familia face parte obligeana:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Araceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pinaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Iridaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Araliaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 44,
+    "question": "Indicați componentul principal al uleiului volatil de obligeană:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Azaronă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Apigenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aloină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aralozidă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anetol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 45,
+    "question": "Selectaţi principiul activ care conferă aromă rizomilor de obligeană:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Acidul acoric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aldehida decilenică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Azarona",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acorona",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aldehida azarilică",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 46,
+    "question": "Selectați sesquiterpenoidele din Calami rhizomata:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Acorona",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidul acoric",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Calacona",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Camazulena",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Criptoacorona",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 47,
+    "question": "Notați ce acțiune are produsul vegetal de obligeană:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomahică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminativă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eupeptic amar",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hipotensivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sedativă",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 48,
+    "question": "Rizomii de obligeană întră în componența preparatelor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Detoxiphyt, produs vegetal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Helenium, produs vegetal",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Detoxiherba, produs vegetal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Romazulan, soluție orală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gastrophyt, produs vegetal",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 49,
+    "question": "Pulberea din PV de obligeană întră în compoziția preparatelor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Vicalin",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Validol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Silibor",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ascovit",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vicair",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 50,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru coada șoricelului:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Millefolii herba, Achillea milefoliium, Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii flos, Achillea milefoliium, Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Achilleae herba, Achillea milefoliium, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Achilleae flos, Achillea milefoliium, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Achilleae millefolii herba, Achillea milefoliium, Asteraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 51,
+    "question": "Numiți componenții de bază a uleiului volatil din coada șoricelului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carenele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Proazulenele",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Benzaldehidele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Timolii",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alantolactonele",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 52,
+    "question": "Menționați prin care principiu activ, produsul vegetal de coada șoricelului manifestă acțiune coleretică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Aimalină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Achilină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alantoină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Azaronă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Helenină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 53,
+    "question": "Indicați lactonele sesquiterpenice, responsabile de gustul amar al produsului vegetal de coada șoricelului:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Achilină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Melifolină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Galotanin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Atropină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Milefolidă",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 54,
+    "question": "Selectați ce culoare are uleiul volatil de coada șoricelului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Verde-închis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Galbenă-deschis",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Roșu-aprins",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Oranj",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Albastru-deschis",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 55,
+    "question": "Selectați ce proprietăți posedă produsul vegetal de coada șoricelului:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomahice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Expectorante",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vulnerare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antihemoroidale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aromatice amare",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 56,
+    "question": "Numiți produse medicamentoase, cu conținut de coada șoricelului:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Imupret, picături orale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mucaltin, comprimate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Traumeel S, unguent",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Liv 52 K, comprimate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Wundahyl, unguent",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 57,
+    "question": "Menționați în care specii medicinale se regăsește coada șoricelului:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Specie coleretică Nr. 1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie antihemoroidală",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie pectorală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Specie antihelmintică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie antidiabetică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 58,
+    "question": "Indicați elementele microscopice caracteristice pentru produsul vegetal de coada șoricelului:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Peri tectori unicelulari, verucoși",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peri mamelari",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glande eterouleioase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri tectori pluricelulari",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Celule eterouleioase",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 59,
+    "question": "Indicați unde este localizat uleiul volatil în produsul vegetal de coada șoricelului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În pungi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În canale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În glande",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În celule",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În stomate",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [
+    ],
+    "question_images": []
+  }
+]

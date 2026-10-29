@@ -1,0 +1,1804 @@
+[
+  {
+    "id": 1,
+    "question": "Selectați formula generală a monoterpenoidelor biciclice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "C ₆H₁₂",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₈H₁₄",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₀H₁₆",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₂H₁₈",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "C ₁₆H₂₂",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectați produsele vegetale cu uleiuri volatile care conțin monoterpenoide biciclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Juniperi fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valerianae rhizoma et radix",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hissopi herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanaceti flos",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Salviae folium",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Produse vegetale care conţin monoterpenoide biciclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Fructe de ienupăr",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini de odolean",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Muguri de plop",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de fenicul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Flori de vetrice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Hidrocarburile monoterpenoidelor biciclice constau din compuși de tipul:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Limonenei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carenei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pinenei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sabinenei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Camfenei",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru ienupăr:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Yuniperi fructus, Yuniperus communis, Cupressaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi fructus, Juniperus communis, Cupressaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Iuniperi semen, Iuniperus comunis, Pinaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Yuniperi cormus, Yuniperus comunis, Pinaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi cormus lateralis, Juniperus communis, Pinaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Indicați care este produsul vegetal la ienupăr:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Juniperi flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi cortex",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi radix",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Selectați din ce familia face parte ienupărul:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cupressaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pinaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Iridaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Caprifoliaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Indicați care este produsul vegetal la ienupăr:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Viburni fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Juniperi fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ribes nigri fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sorbi fructus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Numiți componenții principali din terpenoide biciclice ai uleiului volatil de ienupăr:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Pinen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Apigenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camfen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Crizinol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sabinen",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Selectați principiul amar, identificat în fructele de ienupăr:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cadinen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Borneol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Iuniperină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Izoborneol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sabinen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Selectați preparate medicamentoase din ienupăr:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ienupăr, produs vegetal, 50 g",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Decoct din fructe de Juniper",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valocordin, picături orale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Extraviral, comprimate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Galium-Heel, soluție orală",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Menționați perioada de recoltare a fructelor de ienupăr:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Când sunt de culoare neagră-albăstruie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În luna august-septembrie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Începând cu luna octombrie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În cursul iernii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Când galbulele sunt verzui, la începutul verii",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Produsul vegetal de ienupăr sub forma de decoct se întrebuințează ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomahic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sedativ",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sudorific",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Diuretic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Laxativ",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Preparatele ienupărului sunt contraindicate în:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Nefrită acută și cronică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anorexie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Abscese pulmonare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Boala vitiligo",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nefroză",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru vetrice:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Tanacethi flos, Tanacethum vulgare, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tanacethi flos, Tanacethum vulgare, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thanaceti herba, Thanacetum vulgaris, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tanaceti flos, Tanacetum vulgare, Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanaceti flos, Tanacetum vulgare, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Uleiul volatil de vetrice este format în cea mai mare parte din:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Tuionă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Timol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicerol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tanacetonă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Selectați componenții tuionei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Amestec de L-tuionă și D-izotuionă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Izovalerianat de bornil și tanacetonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glicerol și D- izotuionă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol și izotuionă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Amestec de L-tuionă și tanacetonă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Indicați prin ce se manifestă intoxicațiile cu tuionă:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Convulsii tetanice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acțiune emenagogă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Erupții cutanate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Inflamații gastrointestinale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hemoragii",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Indicați compoziția chimică a produsului vegetal de vetrice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Sesquiterpena amară – tanacetonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flavonoide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Heterozide cardiotonice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tuionă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Urme de alcaloizi",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Selectați preparate medicamentoase cu vetrice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Flori de vetrice, produs vegetal, 50 g",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie antihelmintică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valocordin, picături orale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Extraviral, comprimate",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Specie coleretică Nr. 1",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Selectați acțiunea preparatelor din vetrice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Vermifugă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Purgativă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cardiosedativă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Emenagogă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antihemoroidală",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Indicați caracterele macroscopice pentru florile de vetrice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Flori tubuloase galbene portocalii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Capitule mari de nuanță roz",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calatidii adunate în corimb",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori grupate în calatidii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori tubuloase de nuanță violetă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru odolean:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Valerianae rhizoma, Valeriana officinalis, Valerianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valleriana radix, Valleriana officinalis, Vallerianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valeriannae herba, Valerianna officinalis, Valeriannaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valerianae fructus, Valeriana officinalis, Valerianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valerianae rhizoma et radix, Valeriana officinalis, Valerianaceae",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Indicați componentul responsabil de mirosul specific de odolean:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Camfenul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valepotriații",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cariofilenul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul izovalerianic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tuionă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Numiți principiu activ care se formează în rădăcina de odolean în timpul uscării:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Camfen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Izovalerianatul de bornil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cariofilen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citren",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pinen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Indicați unde este localizat uleiul volatil în rădăcina de odolean:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pe epidermă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În fascicule colaterale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În hipodermă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În cambiu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În endodermă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Selectați ce prezintă valepotriații:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Combinații terpenoidice esterificate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Compuși din acid izovalerianic, acetic și izocapronic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Derivați ai 4,7-dimetil-ciclopentan-piran",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Compuși terpenoidici aciclici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Compuși lipsiți de activitate farmacologică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Produsul vegetal de odolean întră în compoziția speciilor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Carminative",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gastrice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Calmante",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pectorale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sedative",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Selectați preparate medicamentoase pentru odolean în combinație cu roiniță și izmă-bună:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Persen, drageuri",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ceai laxativ Nr. 2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Persevit, capsule",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Relaxil, capsule",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sedasen forte, capsule",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Selectați preparate medicamentoase pentru odolean în combinație cu Phenobarbitalum:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Persen Forte, drageuri",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valfen, capsule",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eucalivit, capsule",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Corvalol, picături orale",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valocordin, picături orale",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Selectați preparate medicamentoase cu tinctură de odolean:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Calmocord, picături cardiace",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cardiovalen, picături buvabile",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentavit, capsule",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Valocarmid, soluție orală",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Clorofilipt, soluție",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Selectați preparate medicamentoase cu Extractum Valerianae siccum:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Extrasedyl, comprimate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valeriana, comprimate filmate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Clorofilipt, soluție",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Extraviral, comprimate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Somnocalm, capsule",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru isop:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Hyssopi herba, Hyssopus officinalis, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hysopi radix, Hysopus officinalis, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hyssopi flos, Hyssopus officinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hysopi folium, Hysopus officinalis, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Hyssopi folium, Hyssopus officinalis, Asterceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Selectați componenții uleiului volatil din produsul vegetal de isop:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Hisperidină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cis-pinocamfonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acid galic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pinen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cadinen",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Indicați compoziția chimică a produsului vegetal de isop:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flavonoide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Derivați ai antracenului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Taninuri",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alcaloizi",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Indicați, prin care component, părțile aeriene de isop se manifestă ca tonic amar:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Camfen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Marubină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cariofilen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul elagic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tuionă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Indicați acțiunea produsului vegetal de isop:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Expectorantă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antiscorbutică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vasodilatatoare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antiseptică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Vasoconstrictoare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Selectați preparate medicamentoase ce conțin isop:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Clorofilipt, soluție",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sedocalm, comprimate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Urolesan, picături orale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Corvalol, picături orale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calmotusin, sirop",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Indicați sursele naturale de camfor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Amygdalus communis, Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cinnamomum camphora, Lauraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Abies sibirica, Pinaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pinus silvestris, Pinaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Schizandra chinensis, Schizandraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 40,
+    "question": "Camforul este utilizat:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ca analeptic respirator",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ca analeptic cardiac",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În sincope respiratorii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În pneumonii",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În constipații",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 41,
+    "question": "Menționați, prin care acțiuni camfora este un bun antireumatic și antinevralgic:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rubefiantă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Revulsivă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Expectorantă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Vermifugă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Laxativă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 42,
+    "question": "Numiți preparatele medicamentoase în componența cărora intră camforul:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Koflet, sirop",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cameton, spray",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bromcamfor, comprimate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Corvalol, picături orale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Efcamon, unguent",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 43,
+    "question": "Indicați utilizarea uleiului de terebentină:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Maladii dermice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Afecțiuni reumatice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Diabet zaharat",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Constipații cronice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nevralgii sciatice",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 44,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentona",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eugenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sabinol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": [
+      "images/q44_prompt_1.png"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eugenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camforă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q45_prompt_1.png"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Mentonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eugenol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pinenă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q46_prompt_1.png"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Aldehida anisică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Acidul galic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cetona anisică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Izovalerianatul de bornil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidul elagic",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q47_prompt_1.png"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Selectați formula de structură pentru camforă:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": [
+      "images/q48_prompt_1.png"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Selectați formula de structură a tuiolului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": [
+      "images/q49_prompt_1.png"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Selectați formula de structură a tuionei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": [
+      "images/q50_prompt_1.png"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Selectați monoterpenoide biciclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": [
+      "images/q51_prompt_1.png"
+    ]
+  }
+]

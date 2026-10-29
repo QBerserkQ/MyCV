@@ -1,0 +1,1209 @@
+[
+  {
+    "id": 1,
+    "question": "Indicați monoterpenoide aciclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Mircenă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citral",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Indicați produsele vegetale cu uleiuri volatile care conțin monoterpenoide aciclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Menthae herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coriandri fructus",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Melissae herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae flos recens",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carvi fructus",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Produse vegetale care conţin monoterpenoide aciclice:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Părţi aeriene de sovârv",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Flori de trandafir",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de coriandru",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fructe de fenicul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Flori de levănţică",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Selectaţi produsul vegetal, planta producătoare și familia pentru trandafir:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rozae flos, Roza damascena, Rozaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rossae flos, Rossa damascena, Rossaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rosae herba, Rosa damascena, Rosaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rosae flos, Rosa damascena, Rosaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rossae folium, Rossa damascena, Rosaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Indicați produsul vegetal pentru trandafir:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rosae flos",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rosae fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rosae alabastra",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rosae radix",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rosae herba",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Componenţii principali a uleiului volatil, obţinut din flori de trandafir:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Timol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Mentonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Camazulenă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citronelol",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Indicați ce acțiune are uleiul volatil din Rosa damascena:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Astringentă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antiseptică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antimicotică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antihipnotică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antitumorală",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Selectaţi produsul vegetal, planta producătoare și familia pentru coriandru:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Coriandri semen, Coriandrum sativum, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coriandrum semen, Coriandrus sativum, Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coriandri fructus, Coriandri sativa, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Coriandri fructus, Coriandrum sativum, Apiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coriandri fructus, Coriandri sativi, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Componentul principal al uleiului volatil de coriandru:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Timol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvacrol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Linalool",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Metilhavicol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Produsul vegetal de coriandru conţine:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valepotriaţi",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Uleiuri minerale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ulei gras",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cumarine",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Marcați, ce acțiuni posedă produsul vegetal de coriandru:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Spasmolitică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminativă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Bactericidă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hemostatică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stomahică",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "Mirosul neplăcut de ”ploșniță” a coriandrului în perioada de înflorire se datorează prezenței:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Aldehidei acetice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Aldehidei decilenice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acidului formic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Toxalbuminei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Linaloolului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Componentul uleiului volatil de coriandru (linaloolul) servește ca substanță inițială pentru obținerea:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Lanolinei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citralului",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Camforei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Bazei pentru supozitoare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gudronului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Selectați preparate medicamentoase cu fructe de coriandru:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ceai fructe de coriandru",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie coleretică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valocordin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Depuroflux",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Specie antihemoragică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Selectați caracterele macroscopice la produsul vegetal de Coriandrum sativum:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Fructul globulos sau sferic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fructul format din doi mericarpi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pe suprafața se observă 10 coaste primare, longitudinale, ondulate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "12 coaste secundare, drepte",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Semințe cu suprafața mată, rugoasă din cauza prezenței perilor scurți",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Selectaţi produsul vegetal, planta producătoare și familia pentru levănțică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Lavandula herba, Lavandula officinalis, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae flos recens, Lavandula officinalis, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae flos recens, Lavandula officinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandula folium, Lavandulae officinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae herba, Lavandula officinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Indicați produsul vegetal pentru Lavandula angustifolia:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Lavandulae flos recens",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae alabastra",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae radix",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lavandulae herba",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Componentul principal a uleiului volatil de levănțică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Timol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Carvacrol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Linalool",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Metilhavicol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Preparatul Livian, din levănțică, se utilizează:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Pentru mărirea tensiunii arteriale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În tratamentul arsurilor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În tratamentul afecțiunilor vezicii urinare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În stări astenice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În insomnie",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Selectaţi produsul vegetal, planta producătoare și familia pentru roiniță:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Melissae herba, Melissa officinalis, Malvaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissa folium, Melissa officinalis, Malvaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melisae herba, Melisa officinalis, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae herba, Melissa officinalis, Lamiaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Melissae flos, Melissa officinalis, Asteraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Indicați produsul vegetal pentru Melissa officinalis:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Melissae fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Melissae flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae radix",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae rhizoma",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Care este componentul uleiului volatil de roiniţă, care îi conferă aroma plăcută?",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Borneol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Linalool",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citronelal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Selectați inflorescenţa roiniţei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Umbelă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Capitulă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Paneraş",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Verticil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Corimb",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Menționați acțiunile farmacologice ale produsului vegetal de roiniţă este:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Gastrică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antidiareică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sedativă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Colagogă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Spasmolitică",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Selectați preparate sedative cu conținut de roiniță:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Persen",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Relaxil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Vagostabil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Depuroflux",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Novo-Passit",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Produsul vegetal de roiniță se administrează în:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Afecțiuni hepato-biliare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Afecțiuni ale centrului respirator",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Profilaxia decubitului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Afecțiuni nervoase ale tractului gastro-intestinal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Nevroze cardiace",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mentan",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Limonen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Linalool",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Citral",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": [
+      "images/q27_prompt_1.png"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Carvonă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Mercen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Linalool",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citral",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": [
+      "images/q28_prompt_1.png"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Indicați denumirea formulei de structură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Geraniol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cineol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Limonen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Linalool",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Citral",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": [
+      "images/q29_prompt_1.png"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Selectați din imagine formula de structură a linaloolului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": [
+      "images/q30_prompt_1.png"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Selectați din imagine formula de structură a geraniolului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": [
+      "images/q31_prompt_1.png"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Selectați din imagine formula de structură a citralului:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": [
+      "images/q32_prompt_1.png"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Selectați din imagine componentul principal a uleiului volatil din coriandru:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": [
+      "images/q33_prompt_1.png"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Selectați componentul principal a uleiului volatil din levănțică:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "1",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "2",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "3",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "4",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "5",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": [
+      "images/q34_prompt_1.png"
+    ]
+  }
+]
