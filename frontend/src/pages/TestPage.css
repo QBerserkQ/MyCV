@@ -524,3 +524,15 @@
     visibility: visible !important;
     opacity: 1 !important;
 }
+
+
+.answer-check {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.answer-check button:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+}

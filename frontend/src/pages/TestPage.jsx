@@ -66,6 +66,7 @@ function TestPage() {
 
     const [currentIndex, setCurrentIndex] = useState(0);
     const [answers, setAnswers] = useState({});
+    const [checkedQuestions, setCheckedQuestions] = useState({});
     const [finished, setFinished] = useState(false);
     const [showAllQuestions, setShowAllQuestions] = useState(false);
 
@@ -79,6 +80,7 @@ function TestPage() {
             setQuestions([]);
             setCurrentIndex(0);
             setAnswers({});
+            setCheckedQuestions({});
             setFinished(false);
             setShowAllQuestions(false);
 
@@ -106,11 +108,16 @@ function TestPage() {
                     ? data
                     : data.questions ?? [];
 
-                if (!Array.isArray(sourceQuestions) || sourceQuestions.length === 0) {
-                    throw new Error("Nu au fost găsite întrebări în questions.json.");
+                if (
+                    !Array.isArray(sourceQuestions) ||
+                    sourceQuestions.length === 0
+                ) {
+                    throw new Error(
+                        "Nu au fost găsite întrebări în questions.json."
+                    );
                 }
 
-                // Перемешиваем порядок вопросов и варианты каждого вопроса.
+                // Перемешиваем вопросы и варианты ответов.
                 const shuffledQuestions = shuffleArray(sourceQuestions).map(
                     shuffleQuestion
                 );
@@ -131,7 +138,7 @@ function TestPage() {
         loadQuestions();
 
         return () => controller.abort();
-    }, [testId]); // Перезагружаем вопросы при переходе к другому тесту.
+    }, [testId]);
 
     const currentQuestion = questions[currentIndex];
 
@@ -139,6 +146,7 @@ function TestPage() {
         (id) => (answers[id] ?? []).length > 0
     ).length;
 
+    // Подсчёт баллов: правильны должны быть все выбранные ответы.
     const score = useMemo(() => {
         return questions.reduce((total, question) => {
             const selected = answers[question.id] ?? [];
@@ -152,6 +160,7 @@ function TestPage() {
         }, 0);
     }, [answers, questions]);
 
+    // Выбор или отмена выбора варианта ответа.
     function selectOption(optionIndex) {
         if (finished || !currentQuestion) return;
 
@@ -162,16 +171,41 @@ function TestPage() {
         let next;
 
         if (multiple) {
-            next = previous.includes(optionIndex)
-                ? previous.filter((index) => index !== optionIndex)
-                : [...previous, optionIndex];
+            // Для вопросов с несколькими ответами можно выбирать
+            // и снимать несколько вариантов.
+            if (previous.includes(optionIndex)) {
+                next = previous.filter((index) => index !== optionIndex);
+            } else {
+                next = [...previous, optionIndex];
+            }
+
+            // После изменения выбора требуется новая проверка.
+            setCheckedQuestions((old) => ({
+                ...old,
+                [question.id]: false,
+            }));
         } else {
+            // Для одиночного ответа всегда выбран только один вариант.
             next = [optionIndex];
         }
 
         setAnswers((old) => ({
             ...old,
             [question.id]: next,
+        }));
+    }
+
+    // Проверка ответа по кнопке.
+    function checkAnswer() {
+        if (!currentQuestion) return;
+
+        const selected = answers[currentQuestion.id] ?? [];
+
+        if (selected.length === 0) return;
+
+        setCheckedQuestions((old) => ({
+            ...old,
+            [currentQuestion.id]: true,
         }));
     }
 
@@ -190,10 +224,9 @@ function TestPage() {
 
     function restartTest() {
         // Новая попытка: перемешиваем вопросы и варианты заново.
-        setQuestions((old) =>
-            shuffleArray(old).map(shuffleQuestion)
-        );
+        setQuestions((old) => shuffleArray(old).map(shuffleQuestion));
         setAnswers({});
+        setCheckedQuestions({});
         setCurrentIndex(0);
         setFinished(false);
         setShowAllQuestions(false);
@@ -221,7 +254,12 @@ function TestPage() {
     }
 
     const selectedOptions = answers[currentQuestion?.id] ?? [];
-    const feedbackShown = selectedOptions.length > 0;
+
+    // Правильные ответы показываем только после проверки.
+    const feedbackShown =
+        isMultipleChoice(currentQuestion)
+            ? Boolean(checkedQuestions[currentQuestion?.id])
+            : selectedOptions.length > 0;
 
     return (
         <main className="test-page">
@@ -376,15 +414,17 @@ function TestPage() {
 
                     {currentQuestion.question_images?.length > 0 && (
                         <div className="question-images">
-                            {currentQuestion.question_images.map((image, i) => (
-                                <img
-                                    key={`${image}-${i}`}
-                                    src={getImageUrl(image, test.id)}
-                                    alt={`Ilustrație pentru întrebarea ${currentQuestion.id}`}
-                                    className="prompt-image"
-                                    loading="lazy"
-                                />
-                            ))}
+                            {currentQuestion.question_images.map(
+                                (image, i) => (
+                                    <img
+                                        key={`${image}-${i}`}
+                                        src={getImageUrl(image, test.id)}
+                                        alt={`Ilustrație pentru întrebarea ${currentQuestion.id}`}
+                                        className="prompt-image"
+                                        loading="lazy"
+                                    />
+                                )
+                            )}
                         </div>
                     )}
 
@@ -398,12 +438,12 @@ function TestPage() {
                         {currentQuestion.options.map((option, index) => {
                             const selected = selectedOptions.includes(index);
 
+                            const multiple = isMultipleChoice(currentQuestion);
+
                             const optionClass = [
                                 "answer-option",
                                 selected ? "selected" : "",
-                                feedbackShown && option.correct
-                                    ? "is-correct"
-                                    : "",
+                                feedbackShown && option.correct ? "is-correct" : "",
                                 feedbackShown && selected && !option.correct
                                     ? "is-incorrect"
                                     : "",
@@ -418,6 +458,7 @@ function TestPage() {
                                     className={optionClass}
                                     onClick={() => selectOption(index)}
                                     aria-pressed={selected}
+                                    disabled={multiple && feedbackShown}
                                 >
                                     <span className="option-marker">
                                         {selected
@@ -449,12 +490,30 @@ function TestPage() {
                         })}
                     </div>
 
+                    {isMultipleChoice(currentQuestion) && (
+                        <div className="answer-check">
+                            <button
+                                type="button"
+                                className="test-button primary-button"
+                                onClick={checkAnswer}
+                                disabled={
+                                    selectedOptions.length === 0 || feedbackShown
+                                }
+                            >
+                                Verifică răspunsul
+                            </button>
+                        </div>
+                    )}
+
                     {feedbackShown && (
                         <p className="answer-feedback" aria-live="polite">
-                            Verde — răspuns corect. Roșu — ai selectat un
-                            răspuns greșit.
-                            {isMultipleChoice(currentQuestion) &&
-                                " Poți selecta sau deselecta în continuare variante."}
+                            {selectedOptions.length ===
+                            getCorrectIndexes(currentQuestion).length &&
+                            selectedOptions.every((index) =>
+                                getCorrectIndexes(currentQuestion).includes(index)
+                            )
+                                ? "Corect! Ai selectat toate variantele corecte."
+                                : "Răspuns incorect. Variantele corecte sunt evidențiate cu verde."}
                         </p>
                     )}
 
