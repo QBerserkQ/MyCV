@@ -72,4 +72,10 @@ export const tests = [
         title: "Farmacognozie II - 6",
         description: "Terpenoide Aromatice",
     },
+    {
+        id: "7B",
+        category: "Farmacognozie II",
+        title: "Farmacognozie II - 7",
+        description: "Substanțe Rezinoase, Amare și Iridoide",
+    },
 ];

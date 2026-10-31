@@ -1,0 +1,2178 @@
+[
+  {
+    "id": 1,
+    "question": "Indicați compușii specifici, care intră în componența substanțelor rezinoase:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rezene",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Acizi rezinici",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alcaloizi rezinici",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Alcooli rezinici",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aldehide rezinice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": [
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru hamei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Lupuli herba, Lupulus humulus, Convolvulaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Humuli flos, Humulus lupulus, Convolvulaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lupuli strobuli, Humulus lupulus, Cannabinaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Humuli strobuli, Lupulus humulus, Cannabinaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lupuli radix, Humuli lupulus, Cannabaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 3,
+    "question": "Care părţi ale hameiului se folosesc ca produs vegetal:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Fructele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Florile femele",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Florile mascule",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Conurile femele",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Conurile mascule",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 2,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 4,
+    "question": "Notați ce principii biologic active se conţin în produsul vegetal de hamei:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Substanţe rezinoase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ulei volatil",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Heterozide cardiotonice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Ulei gras",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Derivați ai antracenului",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 5,
+    "question": "Indicați componenţii principali de natură floroglucinică din produsul vegetal de hamei:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Cineolul",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Humulona",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carvona",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lupulona",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Limonenul",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 6,
+    "question": "Ce proprietăţi farmacologice manifestă produsul vegetal de hamei:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Sedative",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Anafrodisiace",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Afrodisiace",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antispastice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Stimulente",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 3,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 7,
+    "question": "Indicați în componența căror specii medicinale intră produsul vegetal de hamei:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Sedative",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Expectorante",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tonifiante",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calmante",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Stimulente",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 8,
+    "question": "Extractul obţinut din hamei intră în compoziţia preparatelor:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Valocordin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Urolesan",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Valosedin",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Novo-passit",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hepatobil",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 9,
+    "question": "Numiți în ce familii sunt întâlnite mai frecvent substanţele amare:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Malvaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gentianaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Apiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rosaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 4,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 10,
+    "question": "Gustul amar al substanțelor amare se datorează prezenței în moleculă a:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Nucleului benzenic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Nucleul fenil-gama-pironic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Numărului atomilor de carbon",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lactonei nesaturate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ciclului pentavalent",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 11,
+    "question": "Indicați nucleul de care aparțin principiile amare:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Gențiogenol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alantolactonă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aromadendrină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Proazulenă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gipsogenol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 12,
+    "question": "După nucleul ce stă la baza substanţelor amare ele se pot clasifica în:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Lactone monoterpenice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Lactone diterpenoidice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Lactone steroidice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lactone sesquiterpenoidice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Alantolactone",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 5,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 13,
+    "question": "Numiți produsele vegetale amare mucilaginoase (Amara mucilaginosa):",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Plantaginis majoris folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Farfarae folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Verbasci flos",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Laminariae stipites",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lini semen",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 14,
+    "question": "Numiți produsele vegetale amare mucilaginoase (Amara mucilaginosa):",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunze de podbal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Semințe de in",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de pătlagină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini de nalbă mare",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Flori de lumânărică",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 15,
+    "question": "Numiți produsele vegetale amare simple (Amara pura):",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Gentianae radix",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Taraxaci radix",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Centaurii herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Taraxaci herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Calami rhizoma",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 6,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 16,
+    "question": "Numiți produsele vegetale amare simple (Amara pura):",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rădăcini de ghinţură",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini de păpădie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de trifoişte",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Părţi aeriene de ţintaură",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze de pelin",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 17,
+    "question": "Numiți produsele vegetale amare aromatice (Amara aromatica):",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Absinthii herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii flos",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Menyanthidis folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Calami rhizoma",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 18,
+    "question": "Numiți produsele vegetale amare aromatice (Amara aromatica):",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Flori de arnică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Părţi aeriene de pelin",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Părţi aeriene de cimbru",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rizomi de obligeană",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Părţi aeriene de coada şoricelului",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 7,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 19,
+    "question": "Indicați cum se determină cantitativ substanțe amare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cromatospectrofotometric",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "După indicele de amăreală",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "După unghiul de rotație",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "După indicele de refracție",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Prin titrare indirectă",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 20,
+    "question": "Substanţele amare determină:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Mărirea poftei de mâncare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Creşterea secreţiei gastrice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Îmbunătățirea digestiei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea secreției bronșice",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Creșterea capacității intelectuale",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 21,
+    "question": "Indicați când se administrează produsele vegetale cu conținut de substanțe amare:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cu o jumătate de oră înaintea mesei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În timpul mesei",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Jumătate de oră după masă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Înainte de somn",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Între mesele principale",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 8,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 22,
+    "question": "Substanţele amare sunt substanțele, care prin gustul lor stimulează:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Secreţia gastrică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Secreţia biliară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Secreţia salivară",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Activitatea glandelor sexuale",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Secreția glandelor mamare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 23,
+    "question": "Substanțele amare nu se indică în:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Hipertensiune",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Secreție gastrică mărită",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ulcer stomacal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ulcer duodenal",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Inflamații ale căilor urinare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 24,
+    "question": "Indicați, când este interzisă administrarea substanțelor amare:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "În ulcer gastric",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În secreţie biliară scăzută",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În secreție gastrică mărită",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În secreție gastrică micșorată",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În ulcer duodenal",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 9,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 25,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru ţintaură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Centaurii radix, Centaurium spicatum, Gentianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Centaurii herba, Centaurium umbellatum, Gentianaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Centaurii flos, Erythraea centaurium, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Centaurii herba, Centaurium uliginosum, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Centaurii herba, Centaurium vulgare, Gentianaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 26,
+    "question": "Produsul vegetal din ţintaură se referă la grupa:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Amara pura",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Amara aromatica",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Amara alcaloida",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Amara mucilaginosa",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Amara rezinosa",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 27,
+    "question": "Indicați ce principii amare au fost identificate şi izolate din produsul vegetal de ţintaură:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Taraxantină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Eritrocentaurină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gențiopicrozidă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Geraniol",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Erizimină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 10,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 28,
+    "question": "Amestecul de suc proaspăt din ţintaură şi păpădie se utilizează:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "În exeme",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În hipertensiune",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pentru cicatrizarea rănilor",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În diaree",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În constipații",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 29,
+    "question": "Indicați în componenţa căror ceaiurilor întră produsul vegetal de ţintaură:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Antihemoroidal",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tonic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gastric",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tonic aperitiv",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hipotensiv",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 30,
+    "question": "Precizaţi descrierea speciei țintaură:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Plantă erboasă, înaltă de 50 cm",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tulpină în patru muchii, glabră, ramificată spre vârf",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze opuse, cu marginea întreagă, nervuri pronunţate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Florile roze, dispuse la vârful tulpinei",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Flori albe dispuse la subsuoara unor bractei",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 11,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 31,
+    "question": "Indicați din ce familie face parte Taraxacum officinale:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gentianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Euphorbiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Taxaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 32,
+    "question": "Indicați ce organe sunt folosite în medicină de la păpădie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Radix",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Semen",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Folium",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 33,
+    "question": "Notați ce principii biologic active se conţin în rădăcinile de păpădie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Substanţe amare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Inulină",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Derivații antracenului",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Furocumarine",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Substanțe tanante",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 12,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 34,
+    "question": "Indicați unde este localizată inulina în Taraxaci radix:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "În suber",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În parenсhim",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În hipodermă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În cambiu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "În razele medulare",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 35,
+    "question": "Indicați ce substanță se conține în sucul laticifer din păpădiei:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Termopsina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sanguinarina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Taraxacina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Inulina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cheleritrina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 36,
+    "question": "Selectați în componenţa căror specii intră rădăcina de păpădie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Colagogă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Hipotensivă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sedativă",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gastrică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "De mărire a poftei de mâncare",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 13,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 37,
+    "question": "Numiți fitopreparatele în compoziţia cărora intră produsul vegetal de păpădie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Hepatophyt",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Detoxiphyt",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tanalbin",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Normoponderol",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ungolen",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 38,
+    "question": "Precizaţi caracterele microscopice ale rădăcinii de păpădie:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Druze cu oxalat de calciu",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pungi cu ulei volatil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Scoarţa străpunsă de numeroase canale lacitifere",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Zonă lemnoasă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Parenсhim",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 39,
+    "question": "Precizaţi caracterele macroscopice ale rădăcinii de păpădie:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Rizom scurt, gros, cu rădăcini cilindrice, brun-gălbui",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini pivotante, negru la exterior, alb la interior",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini cărnoase, galbene la exterior",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Fractura rădăcinii neregulată de culoare alb-roz",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pe fața superioară a rădăcinii se observă cicatricii late, în formă de semilună",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 14,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 40,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru pelin amar:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Artemisii herba, Artemisiae apsintium, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba, Artemisiae millefolium, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Achilleae herba, Achillea absinthium, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Absinthii herba, Absinthium millefolium, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Absinthii herba, Artemisia absinthium, Asteraceae",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 41,
+    "question": "Indicați principiile amare ce se conțin în produsul vegetal de pelin amar:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Artabsina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Absintina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Aralozida",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anabsintina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Azarona",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 42,
+    "question": "Toxicitatea produsului vegetal de pelin este manifestată de:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Artapsină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Anabsintină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Absintină",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tuionă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Artabsină",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 15,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 43,
+    "question": "Selectați ce proprietăţi manifestă produsul vegetal de pelin:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Purgative",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tonic amare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Stomahice",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Vermifuge",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Emenagoge",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 44,
+    "question": "Perii tectori în formă de T sunt caracteristici pentru produsul vegetal:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Absinthii herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi vulgris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Origani vulgaris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae herba",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 16,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 45,
+    "question": "Indicați, caracterele microscopice ale cărui produs sunt reprezentate în imagine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Absinthii herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Thymi vulgris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Origani vulgaris herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Melissae herba",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": [
+      "images/q45_prompt_1.png"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Precizaţi caracterele microscopice a produsului vegetal de pelin amar:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Peri glandulari",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Glande eterouleioase",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Stomate din ambele părţi, înconjurate de 3-5 celule",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri dispuși în formă de panglică",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Peri în formă de T",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 17,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 47,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru schinel:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Cardui folium, Cnicus knekos, Gentianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cardui benedicti herba, Cnicus benedictus, Asteraceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cnici benedicti herba, Cnicus knekos, Gentianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cardui radix, Cnicus benedictus, Asteraceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cardui flos, Cnicus benedicta, Asteraceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 48,
+    "question": "Indicați care este organul utilizat ca produs vegetal de la schinel:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Fructus",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Herba",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rhizomata",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Strobuli",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gemma",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 49,
+    "question": "Notați substanțele amare ce se conţin în produsul vegetal de schinel:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Cnicina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Coniina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Benedectina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Berberina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sanguinarina",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 18,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 50,
+    "question": "Produsul vegetal de schinel se utilizează ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Antidiareic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Tonic amar",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Stomahic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Diuretic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Carminativ",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 51,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru ghințură:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Gentianae folium, Lutea gentiana, Convolvulaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lutei semen, Lutea gentiana, Lamiaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gentianae radix, Gentiana lutea, Gentianaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Gentianae flos, Gentiana lutea, Gentianaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Lutei radix, Gentiana lutea, Convolvulaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 52,
+    "question": "Indicați compoziția chimică a produsului vegetal de ghinţură:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Genţiopicrozida",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Substanţe amare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Amarogenina",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Eritrocentaurina",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Gipsogenol",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 19,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 53,
+    "question": "Produsul vegetal de ghinţură se utilizează:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Ca hemostatic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pentru a îmbunătăţi digestia",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În anorexie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "În dispepsie",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Ca colagog",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 54,
+    "question": "Caractere macroscopice ale PV de ghinţură:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Rizom scurt, gros, cu rădăcini cilindrice, brun-gălbiu",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini pivotante, negru la exterior, alb la interior",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Rădăcini cărnoase, cărămizii la exterior",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunze pubescente, de culoare albă cenușie",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Flori galbene mari, dispuse în cime corimbiforme",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 55,
+    "question": "Selectați produsul vegetal, planta producătoare şi familia pentru trifoişte:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Menyanthidis herba, Polygonum menyanthidis, Polygonaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Menyanthidis folium, Polygonum menyanthidis, Polygonaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Menyanthidis folium, Menyanthes trifoliata, Menyanthaceae",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Trifoliatae flos, Trifoliata menianthes, Menianthaceae",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Menyanthidis folium, Menyanthidis trifoliata, Myrtaceae",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 20,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 56,
+    "question": "Indicați, ce principii active se conţin în produsul vegetal de trifoişte:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Flavonozide",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Principii amare",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antracenderivați",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Cumarine",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Glicozide cardiotonice",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 57,
+    "question": "Selectați, ce principii amare de natură monoterpenoidică se conţin în frunzele de trifoişte:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Loganozida",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Salidrozida",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Sferozida",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Arbutozida",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Meniantozida",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 58,
+    "question": "Produsul vegetal de trifoişte se folosește ca:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Stomahic",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Tonic amar",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Expectorant",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Antidiareic",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Stimulator",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 21,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 59,
+    "question": "Indicați speciile în componenţa cărora intră produsul vegetal de trifoişte:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Colagogă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Sedativă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Antihemoragică",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Pectorală",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "De mărire a poftei de mâncare",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": []
+  },
+  {
+    "id": 60,
+    "question": "Caracterele microscopice ale cărui produs sunt reprezentate în imagine:",
+    "type": "single_select",
+    "options": [
+      {
+        "text": "Absinthii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Millefolii herba",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Menyanthidis folium",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Convalariae folium",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Urticae folium",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 22,
+    "warnings": [],
+    "question_images": [
+      "images/q60_prompt_1.png"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Precizaţi caracterele microscopice a produsului vegetal de trifoişte:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Aerenchima",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Cuticula striată",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Stomate din ambele părţi",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Pungi cu ulei volatil",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peri glandulari",
+        "correct": false,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [
+    ],
+    "question_images": []
+  },
+  {
+    "id": 62,
+    "question": "Precizaţi caracterele morfologice ale produsului vegetal de trifoişte:",
+    "type": "multi_select",
+    "options": [
+      {
+        "text": "Frunze pubescente",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Frunze trifoliate",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Foliole eliptice, glabre, cu marginea întreagă",
+        "correct": true,
+        "image_only": false
+      },
+      {
+        "text": "Frunze cu peri rari pe fața superioară",
+        "correct": false,
+        "image_only": false
+      },
+      {
+        "text": "Peţiol comun, divizat în trei ramificaţii",
+        "correct": true,
+        "image_only": false
+      }
+    ],
+    "source_page": 23,
+    "warnings": [],
+    "question_images": []
+  }
+]
